@@ -47,8 +47,8 @@ const config: QuartzConfig = {
         tertiary: "#b59aff",    // Lighter purple for hover states
         highlight: "rgba(157, 124, 223, 0.15)",  // Purple tint for highlights
         textHighlight: "#c8a8ff88"  // Soft purple translucent highlight
-      }
-    }
+      },
+    },
   },
 },
   plugins: {
