@@ -1,6 +1,6 @@
 ##### BIG & HEAVY
 *[[Keywords#Inaccurate|Inaccurate]], [[Keywords#Graze|Graze]] 2, Reach 1*
-**Damage:** 2d6
+**Damage:** 2d6+1
 Examples: Greatsword, A Big Hammer, Scythe
 ##### BIG STICK
 *Reach 2*
