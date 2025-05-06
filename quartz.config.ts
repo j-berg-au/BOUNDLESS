@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,  // or { provider: "plausible" } if you want analytics
+    analytics: { provider: "plausible" },
     locale: "en-AU",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
