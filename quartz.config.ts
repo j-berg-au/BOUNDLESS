@@ -12,10 +12,8 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
+    analytics: null,
+    locale: "en-AU",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
@@ -23,33 +21,34 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Constantia",
+        body: "Constantia",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
+    	  light: "#f8f5f0",         // Warm off-white background
+          lightgray: "#e8e0d5",     // Soft beige-gray borders
+          gray: "#c0b8a8",         // Muted golden-gray for graph links
+          darkgray: "#5a5346",     // Dark taupe for body text (readable but soft)
+          dark: "#3a3328",         // Deep brown-gray for headers (high contrast)
+          secondary: "#b59a3c",    // Rich gold for links/current node
+          tertiary: "#d4b45e",     // Lighter gold for hover states
+          highlight: "rgba(181, 154, 60, 0.15)",  // Gold tint for highlights
+          textHighlight: "#f0e6a388"  // Pale gold translucent highlight
+      },
+      darkMode: {
+        light: "#1a1a1f",        // Deep off-black background
+        lightgray: "#3a3646",    // Purple-tinged dark borders
+        gray: "#6a5d8c",        // Muted purple for graph links
+        darkgray: "#d0c8e0",    // Light lavender text
+        dark: "#f0e8ff",       // Bright lavender for headers
+        secondary: "#9d7cdf",   // Vibrant purple for links
+        tertiary: "#b59aff",    // Lighter purple for hover states
+        highlight: "rgba(157, 124, 223, 0.15)",  // Purple tint for highlights
+        textHighlight: "#c8a8ff88"  // Soft purple translucent highlight
+    }
+}
       },
     },
   },
