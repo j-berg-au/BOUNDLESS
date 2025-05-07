@@ -1,7 +1,6 @@
 ### Navigation
 - [[Narrative Play]]
 - [[Tactical Combat]]
-
 ### The Basics
 ##### What you need
 To play ***BOUNDLESS***, you will need the following:

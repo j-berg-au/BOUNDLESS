@@ -6,7 +6,7 @@
 | **SPEED**       | = 4               |
 | **Save Target** | = 10 + your Level |
 ##### MIRACLES
-You learn 3 **Miracles** of your choice. Each time you increase in Tier, you learn an additional 4 **Miracles**.
+You learn 3 **Miracles** of your choice. Each time you increase in Tier, you learn an additional 4 **Miracles**.  
 ##### REVELATIONS
 You gain the **Miracles** *[[Miracles#MANIPULATE FATE|Manipulate Fate]]* and *[[Miracles#Reading|Reading]]* for free, without them counting towards the number of **Miracles** you know.
 ##### GLIMPSES OF FATE

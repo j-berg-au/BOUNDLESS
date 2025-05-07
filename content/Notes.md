@@ -1,4 +1,3 @@
-No Tiered Features, only initial features + Talents
 ### Damage Scaling
 Options:
 - TdX+T (e.g., 2d6+2), nTdX+T (e.g., (2 x 2)d6+2)
@@ -38,20 +37,13 @@ Steal from PF2e
 - Watch Castlevania and steal Sypha's spells
 - Push people
 - Gravity well that pulls people towards it
+- Open a Gate to the Sun, shooting a sun laser in a line (Tier III)
 
 **Miracles**
 - Harmful or helpful spores (Druid)
 - Roots to restrain/slow (Druid)
 - Create guardian angel that allows others to use prophet's divine intervention (Priest)
 - Summon an animal to fight (Druid)
-### Hero Types
-- **Vanguard**
-- **Adept**
-- **Mage**
-- **Prophet**
-### Classes
-- **Conduit**
-	- Instead of better stats, get one free augment point per turn
 ### Talents
 If you have an idea for what would be a "subclass", make it a talent tree.
 Exploding dice?
@@ -69,10 +61,15 @@ Exploding dice?
 	- Maybe make the second weapon a prerequisite, so that you can send one weapon flying and wield another. Then you can attack and do moves from either location. But give enemies some way of dealing with the flying weapon
 - Make Grapple better
 - Make Shove better
+- Spend Adrenaline to imbue weapon with MAGIC. It now do BONUS DAMAGE (a little) and maybe a BONUS EFFECT
 **Adept**
 - Buffs to invisibility (or buffs for while you are invisible)
+- +1 Die on Tricks with certain tags
+- Bonus from attacking from HIDDEN (bonus damage, increased crit range? Maybe this is a talent tree?)
+- Virtuoso talent that helps remove stress (Narrative)
 **Mage**
 - Flavour as alterations to your spellcasting weapon?
+- Spend extra Mana to turn a Major Action Spell into a Minor Action?
 - Arcane Theorems
 - Major/Minor Action to gain Mana. Limited use per combat.
 - Additional **Forbidden Deals** for Invoker.
@@ -102,7 +99,16 @@ Warlord/Tactician/???
 - **Mage**
 	- Summoner
 - **Prophet**
+### Weapons
+Vanguard
 
+Adept
+- Shortswords
+- Rapier
+
+Mage
+
+Prophet
 ### Other
 STEAL THINGS FROM DRAGONBACK
 

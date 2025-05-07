@@ -1,7 +1,7 @@
 ## Tier I
 -----
 ##### BEAR TRAP
-*Minor Action*
+*Minor Action*  
 You place down a bear trap within Range 3. The first time a character walks over the bear trap, they must make a **FINESSE** save or suffer an effect.
 
 | **Success Level** | **Effect**                                                                                                                                                                                                                                                                                   |
@@ -13,7 +13,7 @@ You place down a bear trap within Range 3. The first time a character walks over
 
 -----
 ##### BOLA
-*Minor Action*
+*Minor Action*  
 You throw or launch a bola at a target in Range 5. Make an attack roll against the target. On a hit, they suffer an effect according to the success level of the Trick.
 
 | **Success Level** | **Effect**                                                                                                                                                                                               |
@@ -25,7 +25,7 @@ You throw or launch a bola at a target in Range 5. Make an attack roll against t
 
 -----
 ##### CALTROPS
-*Minor Action, Trap*
+*Minor Action, Trap*  
 You empty a bag of caltrops onto the ground in a size 1 circle within Range 3. A character who moves into a space within this circle must make a **FINESSE** save. On a failed save, the caltrops within that space disappear and the character suffers effects depending on the success level of the Trick. On a successful save, the character is unaffected by the caltrops for the rest of their current movement.
 
 | **Success Level** | **Effect**                                                                                                                |
@@ -37,8 +37,8 @@ You empty a bag of caltrops onto the ground in a size 1 circle within Range 3. A
 
 -----
 ##### DASH & SLASH
-*Prerequisite: Melee Weapon*
-*Minor Action, Movement*
+*Prerequisite: Melee Weapon*  
+*Minor Action, Movement*  
 You dash forward, striking those in your path.
 
 | **Success Level** | **Effect**                                                                                                                                                                                                    |
@@ -50,7 +50,7 @@ You dash forward, striking those in your path.
 
 -----
 ##### INFECTED SHOT
-*Minor Action, Alchemy*
+*Minor Action, Alchemy*  
 You coat your weapon or ammunition in a poison. Make a *Basic Attack* against a target.
 
 | **Success Level** | **Effect**                                                                                                                                                |
@@ -62,7 +62,7 @@ You coat your weapon or ammunition in a poison. Make a *Basic Attack* against a 
 
 -----
 ##### PAINT-GRENADE
-*Minor Action, Gadget*
+*Minor Action, Gadget*  
 You throw a grenade to a space within Range 5. The success level of the Trick determines the effect.
 
 | **Success Level** | **Effect**                                                                                                                                                                                                                 |
@@ -74,7 +74,7 @@ You throw a grenade to a space within Range 5. The success level of the Trick de
 
 -----
 ##### PARKOUR
-*Minor Action, Movement*
+*Minor Action, Movement*  
 You move a number of spaces, detailed in the effect column in the table below. This movement ignores Reactions and any environmental hazards or traps. You may take actions in the middle of this movement.
 
 | **Success Level** | **Effect**                                 |
@@ -86,7 +86,7 @@ You move a number of spaces, detailed in the effect column in the table below. T
 
 -----
 ##### POCKET SAND
-*Minor Action*
+*Minor Action*  
 You reach into your pocket and throw sand towards the eyes of a target within Range 3.
 
 | **Success Level** | **Effect**                                                                                      |
@@ -98,8 +98,8 @@ You reach into your pocket and throw sand towards the eyes of a target within Ra
 
 -----
 ##### RICOCHET
-*Prerequisite: Ranged Weapon*
-*Major Action*
+*Prerequisite: Ranged Weapon*  
+*Major Action*  
 You attempt to bounce a piece of ammunition you fire between enemies. Make a *Basic Attack* against your first target. Each time the ammunition bounces, you may target a new character as if you were attacking from the previous target’s position, using your *Basic Attack*'s statistics.
 
 | **Success Level** | **Effect**                                                                                   |
@@ -111,7 +111,7 @@ You attempt to bounce a piece of ammunition you fire between enemies. Make a *Ba
 
 -----
 ##### SMOKE BOMB
-*Minor Action, Alchemy*
+*Minor Action, Alchemy*  
 You through down a smoke bomb and attempt to disappear.
 
 | **Success Level** | **Effect**                                                                                   |

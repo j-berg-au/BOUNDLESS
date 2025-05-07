@@ -10,13 +10,13 @@ You learn 3 **Tricks** of your choice. Every odd level, you learn a new **Trick*
 ##### EMOTIVE PRESENCE
 While in combat, your imbue your art with a particular **Emotion**. When combat begins, you declare an active **Emotion** from the list below. At the start of each of your turns, you may change the active **Emotion** as a Free Action. 
 
-**DESPAIR**
+**DESPAIR**  
 All enemies gain [[Conditions & Statuses#WEAK|WEAK]] with value equal to your Tier while within Range 3 of you.
 
-**PRIDE**
+**PRIDE**  
 You and all allies within Range 3 gain a **+2 Bonus** to all saves.
 
-**RAGE**
+**RAGE**  
 Each time you or an ally within Range 3 deals damage, they deal additional damage equal to your Tier.
 ##### SILVER TONGUE
 Whenever you are forced to make a save, you may choose to make a **PRESENCE** save instead.

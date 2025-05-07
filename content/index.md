@@ -1,5 +1,5 @@
 ---
-title: Boundless
+title: Welcome
 ---
 
 Welcome to ***BOUNDLESS*** the Tabletop Roleplaying Game. 
@@ -20,8 +20,6 @@ Once your ready, feel free to explore the different aspects of the game at your 
 - [[Character Creation]]
 - [[Storymaster]]
 - [[Foes]]
-#### Staying Connected
-This game is still a work in progress, and so we'd love to hear your feedback! You can supply yours by submitting a response to our Google Form, or feel free to express your thoughts and meet others in our Discord!
 #### Inspirations
 Here's a list of games and media that has inspired ***BOUNDLESS*** in both theme and mechanics. Be sure to check them out!
 

@@ -1,5 +1,4 @@
 ## Combat Talents
-- Spend Adrenaline to imbue weapon with MAGIC. It now do BONUS DAMAGE (a little) and maybe a BONUS EFFECT
 ### Tier I
 ##### EXPLOIT OPENING
 Once per turn, when an enemy is within reach of your Basic Attack and attempts to move out of reach, you may spend a Reaction to immediately make a Basic Attack against them.
