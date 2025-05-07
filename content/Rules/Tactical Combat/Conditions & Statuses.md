@@ -12,7 +12,7 @@ STUNNED characters can only take a single Minor Action on their turn, instead of
 ##### VULNERABLE
 When a character becomes VULNERABLE, a value for the VULNERABLE (for example VULNERABLE 2) condition is specified. All damage taken by a VULNERABLE character is increased by this value, except for [[Keywords#Persistent Damage|Persistent Damage]]. If a character has multiple instances of VULNERABLE, only the one with the highest value applies for a given damage calculation.
 ##### WEAK
-When a character becomes WEAK, a value for the WEAK condition is specified. All damage taken by a WEAK character is decreased by this value. If a character has multiple instances of WEAK, only the one with the highest value applies for a given damage calculation.
+When a character becomes WEAK, a value for the WEAK condition is specified. All damage dealt by a WEAK character is decreased by this value. If a character has multiple instances of WEAK, only the one with the highest value applies for a given damage calculation.
 ## Statuses
 
 ##### DEFEATED

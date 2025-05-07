@@ -15,7 +15,7 @@ Steal from PF2e
 **Tricks**
 - Ball Bearings/Otherwise cool traps
 - Flicker (Tier II) (Appear in 2 spaces at once, when hit or start of next turn or when you decide you can "collapse your superposition" for a 50/50 chance you're in either space)
-- Self Teleport
+- Self Teleport + leave behind shadow duplicate
 - Artisan tricks for each specialisation
 - Virtuoso tricks
 - Bomb
