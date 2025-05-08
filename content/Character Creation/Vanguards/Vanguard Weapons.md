@@ -1,5 +1,5 @@
 ##### BIG & HEAVY
-*[[Keywords#Inaccurate|Inaccurate]], [[Keywords#Graze|Graze]] 2, Reach 1*  
+*[[Keywords#Inaccurate|Inaccurate]], [[Keywords#Deadly|Deadly]], Reach 1*  
 **Damage:** 2d6+1  
 Examples: Greatsword, A Big Hammer, Scythe
 ##### BIG STICK
@@ -13,7 +13,7 @@ Examples: Axe, Sword, Hammer
 ##### MY TWO BESTIES
 *Reach 1*  
 **Damage:** 1d4+1  
-*Each time you attack with this weapon when not part of a **Move**, you may attack twice. When attacking with this weapon as part of a **Move**, it's damage becomes 2d4.*  
+*Each time you attack with this weapon when not part of a **Move**, you may attack twice. When attacking with this weapon as part of a **Move**, you attack once and it's damage becomes 2d4+1.*  
 Examples: Dual Swords, Dual Handaxes, Your Bare Hands
 ##### OL' TRUSTY
 *[[Keywords#Accurate|Accurate]], Reach 1*  

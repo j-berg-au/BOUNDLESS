@@ -5,6 +5,11 @@
 Make a *Basic Attack* against a character within Reach. On a hit, the target is knocked back a number of spaces equal to twice your Tier.
 
 -----
+##### BLOCK
+*3 Adrenaline, Reaction*  
+You take this Reaction when you would take damage. You immediately gain the effects of [[Your Turn#BRACE|BRACE]], without being inflicted with [[Conditions & Statuses#STUNNED|STUNNED]].
+
+-----
 ##### COMBO
 *2 Adrenaline, Free Action*  
 When you hit someone with a *Basic Attack* that is not part of a **Move**, you may use this **Move** to immediately make another *Basic Attack* against the same target. This move can trigger itself, if you spend the **Adrenaline** again.
@@ -25,9 +30,13 @@ Once per round, when an ally within your **SPEED** is hit by an attack, you may 
 Make a *Basic Attack* against a character within Reach. On a hit, the target takes additional [[Keywords#Persistent Damage|Persistent Damage]] equal to twice your Tier.
 
 -----
-##### TERRIFYING GAZE
-*0 Adrenaline. Minor Action*  
-You attempt to scare an opponent into surrendering. Target an enemy in Range 8. If the target has HP less than or equal to twice your Level, they must make a **PRESENCE** save. On a failure, they are immediately [[Conditions & Statuses#DEFEATED|DEFEATED]]. On a success, they become immune to this effect.
+##### THROW
+*3 Adrenaline, Minor Action*  
+Make an attack against a character of your size or smaller within Reach 1. On a hit, you throw the target a number of spaces away from you equal to 2 + your Tier. 
+
+If this causes the target to collide with a wall, they take 1d6 damage for every space they were unable to move.
+
+If this causes the target to collide with another character, they both take 1d6 damage for every space remaining. Then, the character that was not thrown must make a **MIGHT** save, moving the remaining number of spaces on a failure.
 
 -----
 ##### VANGUARD'S TAUNT
@@ -37,7 +46,7 @@ You attempt to taunt a character within Range 5. The target must make a **WIT** 
 -----
 ##### WHIRLWIND
 *3 Adrenaline, Minor Action*  
-All creatures adjacent to you are hit by your Basic Attack, taking half the usual damage (rounded up).
+All creatures adjacent to you are hit by your *Basic Attack*, taking half the usual damage (rounded up).
 
 -----
 

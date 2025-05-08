@@ -1,5 +1,5 @@
 #### Core Statistics
-| **HP**          | = X              |
+| **HP**          | = 30             |
 | :-------------- | ---------------- |
 | **EVASION**     | = 6 + your Level |
 | **HIT**         | = Your Level     |

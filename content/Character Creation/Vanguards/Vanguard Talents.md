@@ -1,13 +1,15 @@
 ## Combat Talents
 ### Tier I
 ##### EXPLOIT OPENING
-Once per turn, when an enemy is within reach of your Basic Attack and attempts to move out of reach, you may spend a Reaction to immediately make a Basic Attack against them.
+Once per turn, when an enemy is within reach of your *Basic Attack* and attempts to move out of reach, you may spend a Reaction to immediately make a *Basic Attack* against them.
 ##### FURTHER TRAINING
 You learn two additional **Moves** of your choice.
 ##### FURY-FUELLED
 When you score a **Critical Hit**, you gain **2 Adrenaline**.
 ##### SHIELD
 All attacks made against allies adjacent to you are made with **+1 Bane**.
+##### S#!T TALKER
+You may **TAUNT** once per turn as a Free Action.
 ##### SWIFT
 Increase your **SPEED** by your Tier.
 ##### TO ACTION!

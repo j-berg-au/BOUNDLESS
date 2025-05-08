@@ -1,3 +1,8 @@
+Maybe encourage hands-on resource management. Tokens for Adrenaline, Focus Points, Mana, etc.
+
+Maybe add a talent that allows your persistent damage to interact with VULNERABLE?
+
+Maybe add corresponding conditions to VULNERABLE and WEAK, RESITANT and STRENGTH perhaps?
 ### Damage Scaling
 Options:
 - TdX+T (e.g., 2d6+2), nTdX+T (e.g., (2 x 2)d6+2)
@@ -11,11 +16,15 @@ Steal from PF2e
 - Hook someone and pull them closer (Blackbeard from LANCER)
 - Save vs Fear?
 - Steel wind strike
+- Throw someone at someone else
+- Heal on hit
+- When an attack misses you or you reduce the damage to 0, you may counter-attack as a reaction
 
 **Tricks**
 - Ball Bearings/Otherwise cool traps
 - Flicker (Tier II) (Appear in 2 spaces at once, when hit or start of next turn or when you decide you can "collapse your superposition" for a 50/50 chance you're in either space)
 - Self Teleport + leave behind shadow duplicate
+- Dash & Slash, but you can change direction after each attack
 - Artisan tricks for each specialisation
 - Virtuoso tricks
 - Bomb
@@ -48,6 +57,8 @@ Steal from PF2e
 If you have an idea for what would be a "subclass", make it a talent tree.
 Exploding dice?
 **General**
+- Vampire Talent Tree
+- Lycanthrope Talent Tree
 **Vanguard**
 - A way to self-heal?
 - Bonus effects on crits
