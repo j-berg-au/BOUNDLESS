@@ -9,7 +9,7 @@ There are 3 Classes of **Mage**:
 - **[[Invoker]]**, practitioners of esoteric spells that bargain for power.
 - **[[Savant]]** , students of the arcane. They learn a vast number of spells, ensuring they are prepared for all situations.
 ### Mana
-During combat, **Mages** use a resource called **Mana**. A **Mage** starts with an amount of **Mana** equal to 10 + twice their Level, regaining all lost **Mana** at the end of combat.
+During combat, **Mages** use a resource called **Mana**. A **Mage** starts with an amount of **Mana** equal to 13 + twice their Level, regaining all lost **Mana** at the end of combat.
 
 A **Mage** can spend **Mana** to protect themselves from harm. When they would take damage, a **Mage** may expend up to twice their Level in **Mana**, reducing the damage they would take by 2 for each **Mana** spent, or half as much if the damage received was from a melee attack.
 ### Spells

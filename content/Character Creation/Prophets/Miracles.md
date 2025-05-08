@@ -102,9 +102,9 @@ As Standard Effect, but you learn all the options presented, instead of choosing
 *Fate Target: 8*  
 *Minor Action*  
 **Standard Effect:**  
-You touch a [[Conditions & Statuses#DEFEATED|DEFEATED]] ally within Reach 1. They regain 1 HP and clear the [[Conditions & Statuses#DEFEATED|DEFEATED]] status.  
+You bless a [[Conditions & Statuses#DEFEATED|DEFEATED]] ally within Range 5. They regain 1 HP and clear the [[Conditions & Statuses#DEFEATED|DEFEATED]] status.  
 **Divine Effect:**  
-You touch a [[Conditions & Statuses#DEFEATED|DEFEATED]] ally within Reach 1. They regain all HP and clear the [[Conditions & Statuses#DEFEATED|DEFEATED]] status.
+You bless a [[Conditions & Statuses#DEFEATED|DEFEATED]] ally within Range 5. They regain all HP and clear the [[Conditions & Statuses#DEFEATED|DEFEATED]] status.
 
 -----
 ##### STARLIGHT

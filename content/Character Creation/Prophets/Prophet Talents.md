@@ -8,7 +8,7 @@ When you use your *Basic Attack*, you may forego the attack to allow an ally wit
 *Prerequisite: Druid*  
 You may have two Totems active at a given time, but they must be active on different characters.
 ##### PROTECTIVE PRESENCE
-You an all allies adjacent to you gain **+1 Boon** on all saves.
+You an all allies within Range 3 gain **+1 Boon** on all saves.
 ### Tier II
 ### Tier III
 ## Narrative Talents

@@ -75,22 +75,6 @@ If a character fails their save against the boulder, they are [[Conditions & Sta
 If a character fails their save against the boulder, they are knocked back a number of spaces equal to twice the **Mana** spent.  
 
 -----
-##### SPONTANEOUS COMBUSTION
-*2 Mana, Minor Action, Range 6, **MIGHT** Save, Fire*  
-On Failure: The target takes 2d4 damage and takes 1d4 [[Keywords#Persistent Damage|Persistent Damage]].  
-On success: The target takes 2 damage.  
-
-**Augments**  
-*Arson. 1+ Mana*  
-On a failed save, the target takes an additional 1d4 damage for each **Mana** spent.  
-
-*Scorched Skin. 2+ Mana*  
-On a failed save, the target also becomes [[Conditions & Statuses#VULNERABLE|VULNERABLE]] with value equal to half the **Mana** spent (rounded down) until the end of your next turn.  
-
-*Soul Burn. 1 Mana.*  
-The spell forces the target to make a **PRESENCE** Save with **+1 Bane**, instead of a **MIGHT** Save.  
-
------
 ##### ICE SPEARS
 *3 Mana, Minor Action, Ice*  
 You summon 3 spears of ice floating around you. When you cast this **Spell** and as a Minor Action on your turn you may throw one of these spears.   
@@ -113,17 +97,33 @@ You summon an additional spear for each **Mana** spent.
 ##### INVOKE LIGHTNING
 *2 Mana, Major Action, Range 10, **FINESSE** Save, Lightning*  
 Target 3 characters in range.    
-On Failure: The target takes 1d4 damage.  
+On Failure: The target takes 1d6 damage.  
 
 **Augments**  
 *Amplified. 2+ Mana*  
-A target that fails its save takes an additional 1d4 damage for every **2 Mana** spent.  
+A target that fails its save takes an additional 1d6 damage for every **2 Mana** spent.  
 
 *Downpour. 1+ Mana*  
 You may target an additional character for each Mana spent.  
 
 *Focused. 0 Mana*  
 The range of the spell becomes 3, but is *Amplified* as if you had spent **2 Mana**.  
+
+-----
+##### SPONTANEOUS COMBUSTION
+*2 Mana, Minor Action, Range 6, **MIGHT** Save, Fire*  
+On Failure: The target takes 2d4 damage and takes 1d4 [[Keywords#Persistent Damage|Persistent Damage]].  
+On success: The target takes 2 damage.  
+
+**Augments**  
+*Arson. 1+ Mana*  
+On a failed save, the target takes an additional 1d4 damage for each **Mana** spent.  
+
+*Scorched Skin. 2+ Mana*  
+On a failed save, the target also becomes [[Conditions & Statuses#VULNERABLE|VULNERABLE]] with value equal to half the **Mana** spent (rounded down) until the end of your next turn.  
+
+*Soul Burn. 1 Mana.*  
+The spell forces the target to make a **PRESENCE** Save with **+1 Bane**, instead of a **MIGHT** Save.  
 
 -----
 ##### STONEWALL

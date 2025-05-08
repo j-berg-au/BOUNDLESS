@@ -8,9 +8,11 @@ Choose one of the following tags: Fire, Ice, Stone, Lightning. Any **Spell** you
 ##### FURTHER STUDY
 You learn two additional **Spells** of your choice.
 ##### MANA SINK
-While you have **0 Mana**, your *Basic Attack* deals an additional 1d6 damage on a hit.
+While you have an amount of **Mana** less than or equal to three times your Tier, your *Basic Attack* deals an additional 1d6 damage on a hit.
 ##### REST THE AETHER
-When you finish one of your turns on which you did not spend any **Mana** or use a *Basic Attack*, you regain **Mana** equal to your Tier.
+When you finish one of your turns on which you did not spend any **Mana** or use a *Basic Attack*, you regain **Mana** equal to twice your Tier.
+##### SIPHON
+When you hit with your *Basic Attack*, you regain **Mana** equal to your Tier.
 ### Tier II
 ##### DUAL DOMAIN
 *Prerequisite: Conduit, Tier II*  
