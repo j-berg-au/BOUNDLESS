@@ -1,6 +1,6 @@
 ## Tier I
 -----
-##### BEAR TOTEM
+##### Bear Totem
 *Prerequisite: Druid*  
 *Fate Target: 6*  
 *Minor Action, Totem*  
@@ -10,7 +10,7 @@ Choose an ally within Reach 1. They grow one size larger, and their attacks deal
 As Standard Effect, but the target also gains [[Keywords#Aegis|Aegis]] equal to your Level.
 
 -----
-##### CLEANSE
+##### Cleanse
 *Prerequisite: Druid or Priest*  
 *Fate Target: 7*  
 *Minor Action*  
@@ -20,7 +20,7 @@ You remove a condition on an ally within Range 5.
 You remove two conditions or one condition and all [[Keywords#Persistent Damage|Persistent Damage]] on an ally within Range 5.
 
 -----
-##### DECAY
+##### Decay
 *Prerequisite: Druid*  
 *Fate Target: 6*  
 *Minor Action*  
@@ -30,7 +30,7 @@ Choose a target within Range 8. They must make a **PRESENCE** save or gain [[Con
 As Standard Effect, but the target also gains **+1 Bane** on all saves until the effect is removed.
 
 -----
-##### DIVINE GRASP
+##### Divine Grasp
 *Fate Target: 7*  
 *Minor Action*  
 **Standard Effect:**  
@@ -39,7 +39,7 @@ Choose a target within Range 8. They must make a **MIGHT** save or be [[Conditio
 As Standard Effect, but the target is also [[Conditions & Statuses#STUNNED|STUNNED]] on a failed save.
 
 -----
-##### EAGLE TOTEM
+##### Eagle Totem
 *Prerequisite: Druid*  
 *Fate Target: 6*  
 *Minor Action, Totem*  
@@ -49,7 +49,7 @@ Choose an ally within Reach 1. They gain a bonus to their SPEED equal to your Ti
 As Standard Effect, but the target also gains a +2 bonus to their EVASION.
 
 -----
-##### ENVIGOUR
+##### Envigour
 *Fate Target: 6*  
 *Minor Action*  
 **Standard Effect:**  
@@ -58,7 +58,7 @@ You grant an ally within Range 5 an amount of [[Keywords#Aegis|Aegis]] equal to 
 You grant an ally within Range 5 an amount of [[Keywords#Aegis|Aegis]] equal to four times your Level.
 
 -----
-##### FORESEE
+##### Foresee
 *Prerequisite: Seer*  
 *Fate Target: 7*  
 *Minor Action*  
@@ -68,7 +68,7 @@ You grant an ally within Range 8 **+2 Boons** on their next attack roll or save 
 You grant an ally within Range 8 **+2 Boons** on their next attack roll or save before the end of their next turn. Additionally, they may roll the d20 twice, selecting either die to use when calculating their result.
 
 -----
-##### MANIPULATE FATE
+##### Manipulate Fate
 *Prerequisite: Seer*  
 *Fate Target: 5*  
 *Reaction*  
@@ -82,7 +82,7 @@ The first time you successfully use this **Miracle**, roll a d20. This will be y
 You may swap the d20 that triggered this **Miracle** with your **held fate**, *i.e.,* your **held fate** is used when calculating the result of the roll and the original d20 becomes your new **held fate**.
 
 -----
-##### READING
+##### Reading
 *Prerequisite: Seer*  
 *Fate Target: 7*  
 *Minor Action*  
@@ -98,7 +98,7 @@ Choose a target within Range 8. They must succeed on a **PRESENCE** save or you 
 As Standard Effect, but you learn all the options presented, instead of choosing 2.
 
 -----
-##### REVITALISE
+##### Revitalise
 *Fate Target: 8*  
 *Minor Action*  
 **Standard Effect:**  
@@ -107,7 +107,7 @@ You bless a [[Conditions & Statuses#DEFEATED|DEFEATED]] ally within Range 5. The
 You bless a [[Conditions & Statuses#DEFEATED|DEFEATED]] ally within Range 5. They regain all HP and clear the [[Conditions & Statuses#DEFEATED|DEFEATED]] status.
 
 -----
-##### STARLIGHT
+##### Starlight
 *Fate Target: 6*  
 *Minor Action*  
 **Standard Effect:**  
@@ -117,7 +117,7 @@ You illuminate a size 2 Circle within Range 8. All characters within the circle 
 As Standard Effect, but the Circle grows to size 3.
 
 -----
-##### WHISPERS OF TRUTH
+##### Whispers of Truth
 *Fate Target: 8*  
 *Minor Action*  
 **Standard Effect:**  

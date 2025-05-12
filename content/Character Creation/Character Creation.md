@@ -45,19 +45,22 @@ There are four **Attributes** that define your character, each of which are infl
 - Endure
 - Flex
 - Resolve
+
 **FINESSE**
 - Sleight
 - Sneak
 - Swift
+
 **WIT**
 - Sense
 - Study
 - Tinker
+
 **PRESENCE**
 - Command
 - Sway
 - Perform
-##### SAVES
+##### Saves
 Sometimes during combat you will need to roll to resist an effect, rolling a **save**. There are four different types of saves, one for each **Attribute**. To roll a save, roll 1d20 + your Attribute + your Level.
 ### Statistics
 

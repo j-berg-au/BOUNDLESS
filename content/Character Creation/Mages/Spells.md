@@ -1,6 +1,6 @@
 ## Tier I
 -----
-##### ARCING CURRENT
+##### Arcing Current
 *2 Mana, Minor Action, Range 0, Arc 5, Lightning*  
 All characters within the Arc of this **Spell** must make a **FINESSE** save or take 2d4 damage.
 
@@ -15,7 +15,7 @@ For every **Mana** spent, increase the size of the Arc by 2.
 On a successful save, a target takes 2 damage anyway.
 
 -----
-##### FIREWALL
+##### Firewall
 *2 Mana, Minor Action, Range 6, Arc 4, Fire*  
 The Arc created by this **Spell** lasts until dispelled as a Free Action by the caster. Any character who enters the area or starts their turn there takes 2 damage.
 
@@ -30,7 +30,7 @@ Increase the size of the Arc by 2 for each **Mana** spent.
 The wall grants **soft cover**.  
 
 -----
-##### FLASH FREEZE
+##### Flash Freeze
 *1 Mana, Minor Action, Ice*  
 Choose a character within Range 8. The target must make a **MIGHT** save or become [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]]. At the end of each of their turns, they may make another **MIGHT** save to end the effect.
 
@@ -45,7 +45,7 @@ On a failed save, the target takes 1d4 [[Keywords#Persistent Damage|Persistent D
 If the target passes their save, they are [[Conditions & Statuses#SLOWED|SLOWED]] until the end of their next turn. If the target fails their save and becomes [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]], once they end the effect they are [[Conditions & Statuses#SLOWED|SLOWED]] until the end of their following turn.  
 
 -----
-##### FOG OF WAR
+##### Fog of War
 *2 Mana, Minor Action, Range 6, Circle 3*  
 You create a cloud of fog within range. The fog grants **soft cover**.  
 
@@ -60,7 +60,7 @@ Reduce the size of the Circle by 1. When a character moves into the Circle or st
 Increase the size of the Circle for every **2 Mana** spent.
 
 -----
-##### HURL BOULDER
+##### Hurl Boulder
 *2 Mana, Minor Action, Stone*  
 You hurl a boulder in a size 8 Line starting in a space adjacent to you. The first character it would hit must make a **FINESSE** save or take 2d6 damage. On a success, the boulder continues down the Line, where the next character must make the same save, and so on until a character fails the save or the boulder reaches the end of the line.  
 
@@ -75,7 +75,7 @@ If a character fails their save against the boulder, they are [[Conditions & Sta
 If a character fails their save against the boulder, they are knocked back a number of spaces equal to twice the **Mana** spent.  
 
 -----
-##### ICE SPEARS
+##### Ice Spears
 *3 Mana, Minor Action, Ice*  
 You summon 3 spears of ice floating around you. When you cast this **Spell** and as a Minor Action on your turn you may throw one of these spears.   
 
@@ -94,7 +94,7 @@ Each spear deals an additional 1d10 damage on a hit.
 You summon an additional spear for each **Mana** spent.
 
 -----
-##### INVOKE LIGHTNING
+##### Invoke Lightning
 *2 Mana, Major Action, Range 10, **FINESSE** Save, Lightning*  
 Target 3 characters in range.    
 On Failure: The target takes 1d6 damage.  
@@ -110,7 +110,7 @@ You may target an additional character for each Mana spent.
 The range of the spell becomes 3, but is *Amplified* as if you had spent **2 Mana**.  
 
 -----
-##### SPONTANEOUS COMBUSTION
+##### Spontaneous Combustion
 *2 Mana, Minor Action, Range 6, **MIGHT** Save, Fire*  
 On Failure: The target takes 2d4 damage and takes 1d4 [[Keywords#Persistent Damage|Persistent Damage]].  
 On success: The target takes 2 damage.  
@@ -126,7 +126,7 @@ On a failed save, the target also becomes [[Conditions & Statuses#VULNERABLE|VUL
 The spell forces the target to make a **PRESENCE** Save with **+1 Bane**, instead of a **MIGHT** Save.  
 
 -----
-##### STONEWALL
+##### Stonewall
 *3 Mana, Minor Action, Range 6, Line 4, Stone*  
 The Line created by this **Spell** lasts until dispelled as a Free Action by the caster. The Line is a solid object, provides **hard cover**, and blocks line of sight.  
 
@@ -143,7 +143,7 @@ Increase the size of the Line by 2 for each **Mana** spent.
 The HP of each segment of the wall is increased to 15HP.  
 
 -----
-##### TELEPORT
+##### Teleport
 *2 Mana, Minor Action, Range 6, Teleport*  
 You teleport yourself or an ally within Reach 1 to an unoccupied space within range.   
 

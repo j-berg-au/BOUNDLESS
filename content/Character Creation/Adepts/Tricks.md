@@ -1,6 +1,6 @@
 ## Tier I
 -----
-##### BEAR TRAP
+##### Bear Trap
 *Minor Action*  
 You place down a bear trap within Range 3. The first time a character walks over the bear trap, they must make a **FINESSE** save or suffer an effect.
 
@@ -12,19 +12,7 @@ You place down a bear trap within Range 3. The first time a character walks over
 | Failure           | On a failed save, the target takes 1d6 damage and is [[Conditions & Statuses#SLOWED\|SLOWED]] until the end of their turn.                                                                                                                                                                   |
 
 -----
-##### BOLA
-*Minor Action*  
-You throw or launch a bola at a target in Range 5. Make an attack roll against the target. On a hit, they suffer an effect according to the success level of the Trick.
-
-| **Success Level** | **Effect**                                                                                                                                                                                               |
-| :---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Critical Success  | The target is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] and [[Conditions & Statuses#STUNNED\|STUNNED]] until they or another character adjacent to them spend a Minor Action to remove the Bola. |
-| Success           | The target is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or another character adjacent to them spend a Minor Action to remove the Bola.                                                |
-| Partial Success   | The target is [[Conditions & Statuses#SLOWED\|SLOWED]] until they or another character adjacent to them spend a Minor Action to remove the Bola.                                                         |
-| Failure           | The target is [[Conditions & Statuses#SLOWED\|SLOWED]] until the end of their next turn.                                                                                                                 |
-
------
-##### CALTROPS
+##### Caltrops
 *Minor Action, Trap*  
 You empty a bag of caltrops onto the ground in a size 1 circle within Range 3. A character who moves into a space within this circle must make a **FINESSE** save. On a failed save, the caltrops within that space disappear and the character suffers effects depending on the success level of the Trick. On a successful save, the character is unaffected by the caltrops for the rest of their current movement.
 
@@ -36,7 +24,7 @@ You empty a bag of caltrops onto the ground in a size 1 circle within Range 3. A
 | Failure           | The caltrops act as on a Success, however they are spread over a single space rather than a size 1 circle.                |
 
 -----
-##### DASH & SLASH
+##### Dash & Slash
 *Prerequisite: Melee Weapon*  
 *Minor Action, Movement*  
 You dash forward, striking those in your path.
@@ -49,7 +37,7 @@ You dash forward, striking those in your path.
 | Failure           | You move up to 3 spaces in a straight line, stopping in front of the first enemy in this line. You may make a *Basic Attack* against them.                                                                    |
 
 -----
-##### INFECTED SHOT
+##### Infected Shot
 *Minor Action, Alchemy*  
 You coat your weapon or ammunition in a poison. Make a *Basic Attack* against a target.
 
@@ -61,7 +49,19 @@ You coat your weapon or ammunition in a poison. Make a *Basic Attack* against a 
 | Failure           | The target suffers no additional effects.                                                                                                                 |
 
 -----
-##### PAINT-GRENADE
+##### Net
+*Minor Action*  
+You throw or launch a bola at a target in Range 5. Make an attack roll against the target. On a hit, they suffer an effect according to the success level of the Trick.
+
+| **Success Level** | **Effect**                                                                                                                                                                                              |
+| :---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | The target is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] and [[Conditions & Statuses#STUNNED\|STUNNED]] until they or another character adjacent to them spend a Minor Action to remove the net. |
+| Success           | The target is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or another character adjacent to them spend a Minor Action to remove the net.                                                |
+| Partial Success   | The target is [[Conditions & Statuses#SLOWED\|SLOWED]] until they or another character adjacent to them spend a Minor Action to remove the net.                                                         |
+| Failure           | The target is [[Conditions & Statuses#SLOWED\|SLOWED]] until the end of their next turn.                                                                                                                |
+
+-----
+##### Paint-Grenade
 *Minor Action, Gadget*  
 You throw a grenade to a space within Range 5. The success level of the Trick determines the effect.
 
@@ -73,7 +73,7 @@ You throw a grenade to a space within Range 5. The success level of the Trick de
 | Failure           | The grenade fails to go off.                                                                                                                                                                                               |
 
 -----
-##### PARKOUR
+##### Parkour
 *Minor Action, Movement*  
 You move a number of spaces, detailed in the effect column in the table below. This movement ignores Reactions and any environmental hazards or traps. You may take actions in the middle of this movement.
 
@@ -85,7 +85,7 @@ You move a number of spaces, detailed in the effect column in the table below. T
 | Failure           | Two spaces.                                |
 
 -----
-##### POCKET SAND
+##### Pocket Sand
 *Minor Action*  
 You reach into your pocket and throw sand towards the eyes of a target within Range 3.
 
@@ -97,7 +97,7 @@ You reach into your pocket and throw sand towards the eyes of a target within Ra
 | Failure           | The target is unaffected.                                                                       |
 
 -----
-##### RICOCHET
+##### Ricochet
 *Prerequisite: Ranged Weapon*  
 *Major Action*  
 You attempt to bounce a piece of ammunition you fire between enemies. Make a *Basic Attack* against your first target. Each time the ammunition bounces, you may target a new character as if you were attacking from the previous target’s position, using your *Basic Attack*'s statistics.
@@ -110,7 +110,7 @@ You attempt to bounce a piece of ammunition you fire between enemies. Make a *Ba
 | Failure           | You may bounce the ammunition to one more target, but this attack is made with **+2 Banes**. |
 
 -----
-##### SMOKE BOMB
+##### Smoke Bomb
 *Minor Action, Alchemy*  
 You through down a smoke bomb and attempt to disappear.
 

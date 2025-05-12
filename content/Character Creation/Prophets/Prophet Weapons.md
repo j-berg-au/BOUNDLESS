@@ -1,16 +1,16 @@
-##### EMPYREAN STAFF
+##### Empyrean Staff
 *Range 8*  
 **Damage:** 1d6  
 *On a hit, the target is [[Conditions & Statuses#VULNERABLE|VULNERABLE]]* (value equal to your Tier) until the end of their next turn.
-##### HOLY AMULET
+##### Holy Amulet
 *Range 5, [[Keywords#Graze|Graze]] 1*  
 **Damage:** 1d8  
 *On a hit, the target is [[Conditions & Statuses#SLOWED|SLOWED]] until the end of their next turn.*
-##### RUNIC TOKENS
+##### Runic Tokens
 *Range 8, [[Keywords#Accurate|Accurate]]*  
 **Damage:** 1d4  
 *On a hit, the target is [[Conditions & Statuses#MARKED|MARKED]].*
-##### SACRED TOME
+##### Sacred Tome
 *Range 15, [[Keywords#Graze|Graze]] 1*  
 **Damage:** 1d6  
 

@@ -5,11 +5,11 @@
 | **HIT**         | = Your Level      |
 | **SPEED**       | = 4               |
 | **Save Target** | = 10 + your Level |
-##### MIRACLES
+##### Miracles
 You learn 3 **Miracles** of your choice. Each time you increase in Tier, you learn an additional 4 **Miracles**.
-##### GIFTS OF THE EARTH
+##### Gifts of the Earth
 You gain the **Miracles** *[[Miracles#BEAR TOTEM|Bear Totem]]* and *[[Miracles#EAGLE TOTEM|Eagle Totem]]* for free, without them counting towards the number of **Miracles** you know.
-##### FEATHERED FRIEND
+##### Feathered Friend
 When combat starts, you summon a fae bird to your aid. The bird appears in a space adjacent to you and has the following statistics. 
 
 | **HP**            | = 1               |
