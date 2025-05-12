@@ -1,8 +1,12 @@
 Maybe encourage hands-on resource management. Tokens for Adrenaline, Focus Points, Mana, etc.
 
+Maybe add a Prone status
+
 Maybe add a talent that allows your persistent damage to interact with VULNERABLE?
 
 Maybe add corresponding conditions to VULNERABLE and WEAK, RESITANT and STRENGTH perhaps?
+
+Evolving weapons would be cool
 ### Damage Scaling
 Options:
 - TdX+T (e.g., 2d6+2), nTdX+T (e.g., (2 x 2)d6+2)
@@ -67,10 +71,6 @@ Exploding dice?
 - Apply magic to weapon
 - On miss, deal small damage anyway
 - *Basic Attack* is no longer restricted to once per turn
-- When hit 0HP, don't.
-- Floating weapon (Alucard)
-	- Maybe make the second weapon a prerequisite, so that you can send one weapon flying and wield another. Then you can attack and do moves from either location. But give enemies some way of dealing with the flying weapon
-- Make Grapple better
 - Make Shove better
 - Spend Adrenaline to imbue weapon with MAGIC. It now do BONUS DAMAGE (a little) and maybe a BONUS EFFECT
 **Adept**
@@ -99,7 +99,7 @@ When you cast a **Spell** that misses its attack or all targets pass their save,
 Any **Spells** that create lingering Areas of Effect do not trigger this Talent.
 - Need to be careful with this one.
 **Prophet**
-- Druid pet
+- Better [[Your Turn#Set-Up|Set-Up]]
 ### Future Classes
 Warlord/Tactician/???
 - **Vanguard**

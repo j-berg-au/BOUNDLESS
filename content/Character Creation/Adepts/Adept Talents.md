@@ -3,6 +3,8 @@
 ##### Amplified
 *Prerequisite: Virtuoso*  
 The Range on all your active **Emotions** increases by your Tier.
+##### Callouts
+As a Minor Action, you may inflict the [[Conditions & Statuses#Marked|MARKED]] condition on a target within Range 8.
 ##### Careful Aim
 At the beginning of your turn, you can hold steady to line up your shots. Until the start of your next turn you are [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]] and gain **+1 Boon** on all attack rolls.
 ##### Engineer
@@ -13,6 +15,8 @@ You no longer suffer consequences from attacking with a Ranged weapon while adja
 You learn two additional **Tricks** of your choice.
 ##### Slippery
 When an attack misses you, you may move up to 2 spaces as a Reaction.
+##### Sneaky Attack
+When you make an attack while [[Conditions & Statuses#Hidden|HIDDEN]], the attack deals an additional Td4 damage.
 ##### Resilient
 Increase your HP by 2.
 ##### Watch Out!

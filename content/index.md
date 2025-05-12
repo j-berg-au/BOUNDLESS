@@ -34,7 +34,6 @@ Here's a list of games and media that has inspired ***BOUNDLESS*** in both theme
 - *[ICON](https://massif-press.itch.io/icon)* by Tom Bloom
 - [*LANCER*](https://massif-press.itch.io/corebook-pdf-free) by Massif Press
 - *[Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel)* by John Harper
-- *[The Wildsea](https://felixisaacs.itch.io/thewildsea)* by Felix Isaacs
 
 **Video Games:**
 

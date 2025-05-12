@@ -112,12 +112,12 @@ The range of the spell becomes 3, but is *Amplified* as if you had spent **2 Man
 -----
 ##### Spontaneous Combustion
 *2 Mana, Minor Action, Range 6, **MIGHT** Save, Fire*  
-On Failure: The target takes 2d4 damage and takes 1d4 [[Keywords#Persistent Damage|Persistent Damage]].  
+On Failure: The target takes 2d4 [[Keywords#Persistent Damage|Persistent Damage]].  
 On success: The target takes 2 damage.  
 
 **Augments**  
-*Arson. 1+ Mana*  
-On a failed save, the target takes an additional 1d4 damage for each **Mana** spent.  
+*Arson. 2+ Mana*  
+On a failed save, the target takes an additional 1d4 [[Keywords#Persistent Damage|Persistent Damage]] for every **2** **Mana** spent.  
 
 *Scorched Skin. 2+ Mana*  
 On a failed save, the target also becomes [[Conditions & Statuses#VULNERABLE|VULNERABLE]] with value equal to half the **Mana** spent (rounded down) until the end of your next turn.  

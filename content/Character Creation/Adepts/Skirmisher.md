@@ -8,6 +8,6 @@
 ##### Tricks
 You learn 3 **Tricks** of your choice. Every odd level, you learn a new **Trick**. Additionally, each time you increase in Tier you may learn an additional **Trick**.
 ##### Unseen
-At the start of each of your turns, you may Hide as a Free Action.
+At the start of each of your turns, you may [[Your Turn#Hide|Hide]] as a Free Action.
 ##### Elusive
 You gain **+1 Boon** to all saves.

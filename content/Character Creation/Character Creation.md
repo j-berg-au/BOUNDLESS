@@ -37,7 +37,9 @@ In ***BOUNDLESS*** there are 12 "Levels", which represent how powerful your char
 |    11     |   III    |        15        |         12         |           6           |
 |    12     |   III    |        16        |         13         |           6           |
 ### Tier
-The Levels are separated into three **Tiers**, each representing a substantial jump in power. See the table above to check which Levels correspond to which Tiers.
+The Levels are separated into three **Tiers**, each representing a substantial jump in power. See the table above to check which Levels correspond to which Tiers. 
+
+Sometimes Tier is referred to simply as **T**, particularly in the context of calculating dice rolls. For example, **Td6 + T** represents rolling a number of six-sided dice equal to your Tier, then adding your Tier to the result. You may also see something like **2Td8**, which means to roll a number of eight-sided dice equal to twice your Tier.
 ### Attributes & Skills
 There are four **Attributes** that define your character, each of which are influenced by your **Skills**. Each Attribute has a value equal to half the sum of its corresponding Skills values, rounded down.
 

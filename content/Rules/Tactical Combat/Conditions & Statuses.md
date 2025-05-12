@@ -18,8 +18,12 @@ When a character becomes WEAK, a value for the WEAK condition is specified. All 
 ##### Defeated
 A DEFEATED character cannot voluntarily move or take any actions (including Free Actions and Reactions).
 ##### Hidden
+When making an attack roll while you are HIDDEN, you gain **+1 Boon** on the attack roll and are no longer HIDDEN immediately after making the attack.
 
+The exact location of HIDDEN targets cannot be identified and they cannot be targeted directly by attacks or hostile actions, but they can still be hit by attacks that affect an area.
+
+You cease to be HIDDEN if you make an attack or if you take a hostile action (such as forcing a target to make a save). Using Dash or taking reactions also causes you to lose HIDDEN. Other actions can be taken as normal.
+
+You also immediately lose HIDDEN if your cover disappears or is destroyed, or if you lose cover due to line of sight. If you’re hiding while [[Conditions & Statuses#Invisible|INVISIBLE]], you lose HIDDEN when you cease to be [[Conditions & Statuses#Invisible|INVISIBLE]] unless you are in cover.
 ##### Invisible
-An INVISIBLE character...
-##### Prone
-Does this exist? Idk lol
+An INVISIBLE character appears as a subtle bending of light in their location, making them barely noticeable. Before making an attack roll against an INVISIBLE character, roll an even-sided die (d4, d6, d8, d10, d12, or d20). On an odd result, the attack automatically misses. On an even result, you roll the attack roll as normal.

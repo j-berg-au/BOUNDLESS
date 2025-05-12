@@ -1,17 +1,17 @@
 Mage weapons consist of Grimoires, staffs, orbs, wands and more. Select a weapon from this list below.
-##### Bolt Caller
+##### Boltcaller
 *Range 12, Lightning*  
-**Damage:** 2  
+**Damage:** twice your Tier  
 *This Basic Attack can target two different characters within Range.*
 ##### Fireflinger
 *Range 8, Fire*  
-**Damage:** 1d4  
+**Damage:** Td4  
 *On a hit, the target takes 1 [[Keywords#Persistent Damage|Persistent Damage]]*.
 ##### Icelauncher
 *Range 8, Ice*  
-**Damage:** 1d4  
+**Damage:** Td4  
 *This Basic Attack targets all creatures within a size 1 Circle.*
 ##### Truthseeker
 *Range 8*  
-**Damage:** 3  
+**Damage:** three times your Tier  
 *This attack always hits.*
