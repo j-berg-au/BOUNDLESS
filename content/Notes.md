@@ -7,6 +7,10 @@ Maybe add a talent that allows your persistent damage to interact with VULNERABL
 Maybe add corresponding conditions to VULNERABLE and WEAK, RESITANT and STRENGTH perhaps?
 
 Evolving weapons would be cool
+
+Maybe add a series of options for narrative items, similar to "Packs" in D&D. Don't use something like Kit Points though (or maybe do?)
+
+Steal Hooks & Afflictions from CAIN.
 ### Damage Scaling
 Options:
 - TdX+T (e.g., 2d6+2), nTdX+T (e.g., (2 x 2)d6+2)
@@ -121,13 +125,12 @@ Mage
 
 Prophet
 ### Other
-STEAL THINGS FROM DRAGONBACK
 
 Do guns exist? Does just some artisans get them?
 
 Ranged attacks gain +1 Bane (or +2 Banes) when adjacent to an enemy
 
-Hit 0HP = Take 1 or 2 Strain
+Hit 0HP = Take 3 Strain
 - Steal from ICON
 
 Minor Action to maintain effects?

@@ -14,6 +14,7 @@
 ##### Critical Hits
 
 ##### Taking Damage
+- When you hit 0, you take **3 Strain**.
 
 ##### Persistent Damage
 
