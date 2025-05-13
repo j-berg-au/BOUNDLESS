@@ -4,11 +4,11 @@
 All **Spells** you know have their Range increased by 2, provided that their Range was not initially 0.
 ##### Assimilate Elements
 *Prerequisite: Conduit*  
-Choose one of the following tags: Fire, Ice, Stone, Lightning. Any **Spell** you know that has one of these tags but not your chosen tag is transformed, having that tag swapped for your chosen tag. 
+Choose one of the following tags: Fire, Ice, Stone, Storm. Any **Spell** you know that has one of these tags but not your chosen tag is transformed, having that tag swapped for your chosen tag. 
 ##### Further Study
 You learn two additional **Spells** of your choice.
 ##### Mana Sink
-While you have an amount of **Mana** less than or equal to three times your Tier, your *Basic Attack* deals an additional 1d6 damage on a hit.
+While you have an amount of **Mana** less than or equal to three times your Tier, your *Basic Attack* deals an additional Td6 damage on a hit.
 ##### Rest the Aether
 When you finish one of your turns on which you did not spend any **Mana** or use a *Basic Attack*, you regain **Mana** equal to twice your Tier.
 ##### Siphon

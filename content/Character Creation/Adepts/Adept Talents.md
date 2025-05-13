@@ -14,7 +14,7 @@ You no longer suffer consequences from attacking with a Ranged weapon while adja
 ##### More Up My Sleeve
 You learn two additional **Tricks** of your choice.
 ##### Slippery
-When an attack misses you, you may move up to 2 spaces as a Reaction.
+When an attack misses you, you may move up to 2 spaces as a Reaction. This movement does not trigger any Reactions.
 ##### Sneaky Attack
 When you make an attack while [[Conditions & Statuses#Hidden|HIDDEN]], the attack deals an additional Td4 damage.
 ##### Resilient
@@ -35,5 +35,7 @@ You have finally perfected your favourite creation. Select a Trick that you know
 - Buffs to leading group checks
 - Pet
 ### Tier I
+##### Adept's Pet
+You have a small pet that you bring with you on your adventures, providing moral support. You may increase your **Stress Cap** by 1.
 ### Tier II
 ### Tier III

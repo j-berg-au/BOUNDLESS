@@ -51,7 +51,7 @@ You are immune to all forms of involuntary movement and gain an amount of [[Keyw
 
 ---
 **TYPHONIC MAGIC**  
-*Spell Tag: Lightning*
+*Spell Tag: Storm*
 
 **Granted Spells.**  
 *Tier I: [[Spells#ARCING CURRENT|Arcing Current]], [[Spells#INVOKE LIGHTNING|Invoke Lightning]]*  

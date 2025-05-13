@@ -13,7 +13,7 @@
 *Don't worry about throwing them, you've brought plenty.*
 ##### Whip
 *Reach 2*  
-**Damage:** Td8+T  
+**Damage:** Td6+T  
 *While wielding this weapon, you can grapple others within the weapon's Reach.*
 
 

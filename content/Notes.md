@@ -1,3 +1,11 @@
+Add ways (Probably talents) that help each Type improve:
+- Save Target
+- Crit Threshold?
+- HIT?
+- Evasion?
+
+Maybe instead of letting people spend 7 points willy nilly, make them pick two skills to set to 2, and three skills to set to 1.
+
 Maybe encourage hands-on resource management. Tokens for Adrenaline, Focus Points, Mana, etc.
 
 Maybe add a Prone status
@@ -84,6 +92,7 @@ Exploding dice?
 - Bonus from attacking from HIDDEN (bonus damage, increased crit range? Maybe this is a talent tree?)
 - Virtuoso talent that helps remove stress (Narrative)
 **Mage**
+- More things to do that don't cost Mana
 - Flavour as alterations to your spellcasting weapon?
 - Spend extra Mana to turn a Major Action Spell into a Minor Action?
 - Arcane Theorems

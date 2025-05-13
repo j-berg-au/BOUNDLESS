@@ -6,7 +6,7 @@ Mage weapons consist of Grimoires, staffs, orbs, wands and more. Select a weapon
 ##### Fireflinger
 *Range 8, Fire*  
 **Damage:** Td4  
-*On a hit, the target takes 1 [[Keywords#Persistent Damage|Persistent Damage]]*.
+*On a hit, the target takes an amount of [[Keywords#Persistent Damage|Persistent Damage]]* equal to your Tier.
 ##### Icelauncher
 *Range 8, Ice*  
 **Damage:** Td4  

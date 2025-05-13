@@ -94,6 +94,7 @@ Choose a target within Range 8. They must succeed on a **PRESENCE** save or you 
 - SPEED
 - Highest save
 - Lowest save
+
 **Divine Effect:**  
 As Standard Effect, but you learn all the options presented, instead of choosing 2.
 

@@ -1,7 +1,7 @@
 ## Tier I
 -----
 ##### Bear Trap
-*Minor Action*  
+*Minor Action, Gadget*  
 You place down a bear trap within Range 3. The first time a character walks over the bear trap, they must make a **FINESSE** save or suffer an effect.
 
 | **Success Level** | **Effect**                                                                                                                                                                                                                                                                                    |
@@ -112,7 +112,7 @@ You attempt to bounce a piece of ammunition you fire between enemies. Make a *Ba
 -----
 ##### Smoke Bomb
 *Minor Action, Alchemy*  
-You through down a smoke bomb and attempt to disappear.
+You throw down a smoke bomb and attempt to disappear.
 
 | **Success Level** | **Effect**                                                                                   |
 | :---------------- | -------------------------------------------------------------------------------------------- |

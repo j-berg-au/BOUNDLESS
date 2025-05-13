@@ -1,7 +1,7 @@
 ## Tier I
 -----
 ##### Arcing Current
-*2 Mana, Minor Action, Range 0, Arc 5, Lightning*  
+*2 Mana, Minor Action, Range 0, Arc 5, Storm*  
 All characters within the Arc of this **Spell** must make a **FINESSE** save or take 2d4 damage.
 
 **Augments**  
@@ -46,7 +46,7 @@ If the target passes their save, they are [[Conditions & Statuses#SLOWED|SLOWED]
 
 -----
 ##### Fog of War
-*2 Mana, Minor Action, Range 6, Circle 3*  
+*2 Mana, Minor Action, Range 6, Circle 3, Storm*  
 You create a cloud of fog within range. The fog grants **soft cover**.  
 
 **Augments**  
@@ -95,7 +95,7 @@ You summon an additional spear for each **Mana** spent.
 
 -----
 ##### Invoke Lightning
-*2 Mana, Major Action, Range 10, **FINESSE** Save, Lightning*  
+*2 Mana, Major Action, Range 10, **FINESSE** Save, Storm*  
 Target 3 characters in range.    
 On Failure: The target takes 1d6 damage.  
 

@@ -21,7 +21,7 @@ You are an expert in your field. Choose a specialisation below, gaining it's cor
 *Tier II: Blank*   
 *Tier III: Blank*   
 **Feature: BANDOLIER**  
-You have a number of vials in your bandolier equal to your twice your Tier. Outside of combat, you may fill these vials with **Tricks** you know with the Alchemy tag. 
+You have a number of vials in your bandolier equal to twice your Tier. Outside of combat, you may fill these vials with **Tricks** you know with the Alchemy tag. 
 
 During combat, you may expend the vial to use the **Trick** without spending any **Focus Points**. Roll 2d6 for the **Trick**.
 

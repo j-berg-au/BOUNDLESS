@@ -29,8 +29,6 @@ When you are reduced to 0HP, flip a coin and call it. If you guess correctly, yo
 All attacks made against allies adjacent to you are made with **+1 Bane**.
 ##### S#!t Talker
 You may **TAUNT** once per turn as a Free Action.
-##### Swift
-Increase your **SPEED** by your Tier.
 ##### To Action!
 At the beginning of combat, you may move up to your **SPEED** before anyone takes a turn.
 ##### Unnatural Force
