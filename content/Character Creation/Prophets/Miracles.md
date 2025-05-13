@@ -111,10 +111,10 @@ You bless a [[Conditions & Statuses#DEFEATED|DEFEATED]] ally within Range 5. The
 *Fate Target: 6*  
 *Minor Action*  
 **Standard Effect:**  
-You illuminate a size 2 Circle within Range 8. All characters within the circle are [[Conditions & Statuses#MARKED|MARKED]].  
+You illuminate a size 1 Circle within Range 8. All characters within the circle are [[Conditions & Statuses#MARKED|MARKED]].  
 
 **Divine Effect:**  
-As Standard Effect, but the Circle grows to size 3.
+As Standard Effect, but the Circle grows to size 2.
 
 -----
 ##### Whispers of Truth

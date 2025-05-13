@@ -35,7 +35,7 @@ Some example consequences, based on **Risk**, are listed below.
 | Tick a **Clock** by **4 Segments** | Tick a **Clock** by **2 Segments** | Tick a **Clock** by **1 Segment**  |
 | Introduce a **major complication** | Introduce a **complication**       | Introduce a **minor complication** |
 
-On a **Partial Success**, you may also forego a consequence to allow the play to **Succeed** with reduced **Reward**, particularly for **Controlled** rolls.
+On a **Partial Success**, you may also forego a consequence to allow the player to **Succeed** with reduced **Reward**, particularly for **Controlled** rolls.
 #### Threats
 Instead of inflicting an immediate consequence, you may instead **Threaten** a more severe consequence. This gives the players a chance to deal with the threat, but could lead to something severe.
 
@@ -61,6 +61,7 @@ When rolling a Skill Check, the player may propose a deal with the Storymaster, 
 - Giving the bad guy an opportunity to escape
 - Losing or breaking an important item
 - Introduce a new complication, such as additional bad guys showing up to the scene
+The Storymaster then chooses whether to accept or refuse the proposal. They may also propose their own deal in return.
 ### NPCs
 During the Narrative portion of the game, the NPCs don't make any rolls. Instead, they act **through the consequences of players' actions**. 
 ### Summary
