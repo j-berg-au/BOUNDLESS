@@ -1,5 +1,7 @@
 ## Combat Talents
 ### Tier I
+##### Blood Rage
+While your HP is less than half of its maximum, your **Crit Threshold** is reduced by 1.
 ##### Chainmaster
 You carry a chain that you may use to grapple others. You may Grapple a target within Range 3, instead of Reach 1.
 ##### Crushing Grip
