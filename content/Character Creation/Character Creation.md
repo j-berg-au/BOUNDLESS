@@ -7,8 +7,8 @@ To quickly build a Level 1 character, you will need to:
 - Choose a **Weapon**
 - Choose 2 **Combat Talents**
 - Choose a **Narrative Talent**
-- Choose your **Moves**/**Tricks**/**Spells**/**Miracles**.
-- Spend 5 points on **Skills**, and calculate your **Attributes**
+- Choose your **Moves**, **Tricks**, **Spells**, or **Miracles**.
+- Spend 7 points on **Skills**, and calculate your **Attributes**
 - Calculate your **Statistics**
 ## Character Anatomy
 ### Hero Types
@@ -24,18 +24,18 @@ In ***BOUNDLESS*** there are 12 "Levels", which represent how powerful your char
 
 | **Level** | **Tier** | **Skill Points** | **Combat Talents** | **Narrative Talents** |
 | :-------: | :------: | :--------------: | :----------------: | :-------------------: |
-|     1     |    I     |        5         |         2          |           1           |
-|     2     |    I     |        6         |         3          |           1           |
-|     3     |    I     |        7         |         4          |           2           |
-|     4     |    I     |        8         |         5          |           2           |
-|     5     |    II    |        9         |         6          |           3           |
-|     6     |    II    |        10        |         7          |           3           |
-|     7     |    II    |        11        |         8          |           4           |
-|     8     |    II    |        12        |         9          |           4           |
-|     9     |   III    |        13        |         10         |           5           |
-|    10     |   III    |        14        |         11         |           5           |
-|    11     |   III    |        15        |         12         |           6           |
-|    12     |   III    |        16        |         13         |           6           |
+|     1     |    I     |        7         |         2          |           1           |
+|     2     |    I     |        8         |         3          |           1           |
+|     3     |    I     |        9         |         4          |           2           |
+|     4     |    I     |        10        |         5          |           2           |
+|     5     |    II    |        11        |         6          |           3           |
+|     6     |    II    |        12        |         7          |           3           |
+|     7     |    II    |        13        |         8          |           4           |
+|     8     |    II    |        14        |         9          |           4           |
+|     9     |   III    |        15        |         10         |           5           |
+|    10     |   III    |        16        |         11         |           5           |
+|    11     |   III    |        17        |         12         |           6           |
+|    12     |   III    |        18        |         13         |           6           |
 ### Tier
 The Levels are separated into three **Tiers**, each representing a substantial jump in power. See the table above to check which Levels correspond to which Tiers. 
 
