@@ -30,6 +30,10 @@ You may have two **Emotions** active at a time, rather than one.
 *Prerequisite: Artisan or Virtuoso, Tier III*  
 You have finally perfected your favourite creation. Select a Trick that you know. When you use this Trick, it is automatically treated as a Critical Success.
 ## Narrative Talents
+- Clear someone's stress (Virtuoso)
+- Buffs to stealth/group stealth (Skirmisher)
+- Buffs to leading group checks
+- Pet
 ### Tier I
 ### Tier II
 ### Tier III

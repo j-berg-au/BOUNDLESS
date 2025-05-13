@@ -65,8 +65,8 @@ Steal from PF2e
 If you have an idea for what would be a "subclass", make it a talent tree.
 Exploding dice?
 **General**
-- Vampire Talent Tree
-- Lycanthrope Talent Tree
+- Vampire Talent Tree (start as Narrative Talent)
+- Lycanthrope Talent Tree (start as Narrative Talent)
 **Vanguard**
 - A way to self-heal?
 - Bonus effects on crits
@@ -77,6 +77,7 @@ Exploding dice?
 - *Basic Attack* is no longer restricted to once per turn
 - Make Shove better
 - Spend Adrenaline to imbue weapon with MAGIC. It now do BONUS DAMAGE (a little) and maybe a BONUS EFFECT
+- Mount
 **Adept**
 - Buffs to invisibility (or buffs for while you are invisible)
 - +1 Die on Tricks with certain tags

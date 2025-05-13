@@ -16,6 +16,7 @@ You an all allies within Range 3 gain **+1 Boon** on all saves.
 ### Tier II
 ### Tier III
 ## Narrative Talents
+- Heal wounds, limited times per Quest (maybe instead of outright removing the wound, put progress towards the clock)
 ### Tier I
 ### Tier II
 ### Tier III
