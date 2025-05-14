@@ -13,7 +13,7 @@ There are 3 Classes of **Adept**:
 - **[[Artisan]]**, experts of a chosen craft whose creations provide great utility to their party.
 - **[[Skirmisher]]**, rogues who employ stealth and street smarts to achieve their goals.
 - **[[Virtuoso]]**, scholars who inspire others and themselves through their mastery in performance, art, and academic knowledge.
-### Focus Pool
+### Focus Points
 While in combat, **Adepts** use a resource called **Focus Points**. This is a pool of points that they may trade for dice when using **Tricks**. An **Adept** starts combat with a number of **Focus Points** equal to 3 + twice their Tier. An Adept can never have more **Focus Points** than this amount. There are a few ways an **Adept** can regain **Focus Points**:
 - At the end of each round in which the **Adept** didn’t take damage, they regain **1 Focus Point**.
 - As a Minor Action, they may collect themselves and regain a number of **Focus Points** equal to their Tier.
