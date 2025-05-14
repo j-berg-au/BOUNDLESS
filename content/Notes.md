@@ -74,7 +74,9 @@ If you have an idea for what would be a "subclass", make it a talent tree.
 Exploding dice?
 **General**
 - Vampire Talent Tree (start as Narrative Talent)
+	- Self-heal on hit
 - Lycanthrope Talent Tree (start as Narrative Talent)
+	- Grow larger
 - Reputation (An NPC recognises you and helps you in some way, Narrative)
 **Vanguard**
 - A way to self-heal?

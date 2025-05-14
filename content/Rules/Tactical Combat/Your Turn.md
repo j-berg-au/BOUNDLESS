@@ -23,10 +23,13 @@ You move up to your SPEED.
 To Grapple, choose an adjacent character and make an attack against them. On a hit, the following are in effect until the Grapple ends:
 - Neither character can Dash or take Reactions
 - The smaller character becomes [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]] but moves when the larger character moves, mirroring their movement. If both characters are the same size, either can make contested **MIGHT** saves at the start of their turn: the winner counts as larger than the loser until this contest is repeated.
+
 A Grapple ends when:
 - Either character breaks adjacency, such as if they are knocked back by another effect
 - The attacker chooses to end the Grapple as a Free Action
 - The defender breaks free by succeeding on a **MIGHT** save as a Minor Action.
+
+An attacker can only Grapple one target at a time.
 ##### Hide
 To Hide, you must be outside of any enemies’ line of sight, obscured by sufficient cover, or [[Conditions & Statuses#INVISIBLE|INVISIBLE]]. If you Hide while meeting one of these criteria, you gain the [[Conditions & Statuses#HIDDEN|HIDDEN]] status.
 
