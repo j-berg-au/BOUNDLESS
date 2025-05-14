@@ -75,6 +75,7 @@ Exploding dice?
 **General**
 - Vampire Talent Tree (start as Narrative Talent)
 - Lycanthrope Talent Tree (start as Narrative Talent)
+- Reputation (An NPC recognises you and helps you in some way, Narrative)
 **Vanguard**
 - A way to self-heal?
 - Bonus effects on crits
