@@ -16,10 +16,10 @@ There is however the possibility that we fail to foresee any potential problems 
 #### Have a Look Around
 Once your ready, feel free to explore the different aspects of the game at your own pace, in your own order! Below are the four broadly important topics, however if you aren't playing as the Storymaster (commonly known as Game Master or GM), you can ignore the Storymaster and Foes section.
 - [[Player Quick Links]]
-- [[Rules]]
-- [[Character Creation]]
-- [[Storymaster]]
-- [[Foes]]
+- [[Rules/index|Rules]]
+- [[Character Creation/index|Character Creation]]
+- [[Storymaster/index]]
+- [[Foes/index|Foes]]
 #### Inspirations
 Here's a list of games and media that has inspired ***BOUNDLESS*** in both theme and mechanics. Be sure to check them out!
 

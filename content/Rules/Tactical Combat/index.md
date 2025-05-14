@@ -1,3 +1,8 @@
+---
+title: Tactical Combat
+aliases:
+  - Tactical Combat
+---
 ### Starting & Ending Combat
 
 ### Turns & Rounds

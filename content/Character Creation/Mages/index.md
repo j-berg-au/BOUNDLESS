@@ -1,3 +1,8 @@
+---
+title: Mages
+aliases:
+  - Mages
+---
 **Mages** are individuals with the capability to use magic to produce wondrous effects. If you want to cast flashy spells and shape the battlefield, play a **Mage**.
 ### Navigation
 - [[Mage Talents]]

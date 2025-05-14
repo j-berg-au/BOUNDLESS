@@ -1,3 +1,8 @@
+---
+title: Adepts
+aliases:
+  - Adepts
+---
 **Adepts** are heroes that shine through practical knowledge and evasiveness. If you want to avoid getting hit and aid your party through your area of expertise, play an **Adept**.
 ### Navigation
 - [[Adept Talents]]

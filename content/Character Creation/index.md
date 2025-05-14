@@ -1,3 +1,8 @@
+---
+title: Character Creation
+aliases:
+  - Character Creation
+---
 ### Character Sheets
 To build a character, you will need to record information about them and their abilities on a character sheet. You can access a simple character sheet made in Google Docs [here](https://docs.google.com/document/d/1OYMxx8W1ax0zZ_fu4ow2jHwixzG2U5D9_pxEX_xh3Hw/edit?usp=sharing), just simply press File > Make a Copy to start editing your own character sheet.
 ### Overview
@@ -13,10 +18,10 @@ To quickly build a Level 1 character, you will need to:
 ## Character Anatomy
 ### Hero Types
 When building your character, the most important decision you will make is *"What **Type** of hero do I want to play?"* In ***BOUNDLESS***, there are four Hero Types to choose from. Although not a requirement, it is recommended that a party has one character of each Type.
-- [[Vanguards]] are frontliners who take the hits so their party doesn't have to.
-- [[Adepts]] are mobile experts whose knowledge can turn the tide of battle.
-- [[Mages]] are masters of magic, casting spells to control areas of the battlefield.
-- [[Prophets]] support their allies to be their best by channelling divine forces.
+- [[Character Creation/Vanguards/index|Vanguards]] are frontliners who take the hits so their party doesn't have to.
+- [[Character Creation/Adepts/index|Adepts]] are mobile experts whose knowledge can turn the tide of battle.
+- [[Character Creation/Mages/index|Mages]] are masters of magic, casting spells to control areas of the battlefield.
+- [[Character Creation/Prophets/index|Prophets]] support their allies to be their best by channelling divine forces.
 ### Classes
 Each Hero Type is broken down into **Classes**, each of which is listed on the corresponding Type's page. Your character will be one of these Classes, so choose wisely.
 ### Levels

@@ -1,7 +1,7 @@
 ### Important Pages
-- [[Rules#The Basics|The Basics]]
-- [[Narrative Play]]
-- [[Tactical Combat]]
+- [[Rules/index#The Basics|The Basics]]
+- [[Rules/Narrative Play/index|Narrative Play]]
+- [[Rules/Tactical Combat/index|Tactical Combat]]
 - [[Your Turn]]
 - [[Conditions & Statuses]]
 - [[Keywords]]

@@ -1,9 +1,14 @@
+---
+title: Narrative Play
+aliases:
+  - Narrative Play
+---
 ## Skill Checks
 When a player wants to do something that carries some level of risk or with a notable chance of failure, the player must roll a **Skill Check**. 
 ### Risk & Reward
-Before a Skill Check is rolled, the Storymaster will set a Risk and Reward. The purpose of this is to set expectations with the player, and giving them information to either use resources or abilities on the check, [[Narrative Play#Negotiating with Fate|Negotiate with Fate]], or back out of the check.
+Before a Skill Check is rolled, the Storymaster will set a Risk and Reward. The purpose of this is to set expectations with the player, and giving them information to either use resources or abilities on the check, [[Rules/Narrative Play/index#Negotiating with Fate|Negotiate with Fate]], or back out of the check.
 
-**Risk**, as the name implies, represents how dangerous a course of action could potentially be. The Risk informs the severity of any [[Narrative Play#Consequences|Consequences]] the check may result in. Risk ranges from:
+**Risk**, as the name implies, represents how dangerous a course of action could potentially be. The Risk informs the severity of any [[Rules/Narrative Play/index#Consequences|Consequences]] the check may result in. Risk ranges from:
 - **Dangerous**
 - **Risky**
 - **Controlled**
@@ -17,9 +22,9 @@ Before a Skill Check is rolled, the Storymaster will set a Risk and Reward. The 
 
 Most Skill Checks are **Risky/Standard**.
 ### Rolling the Check
-To roll a Skill Check, the player will roll a number of d6's equal to the value of an appropriate [[Character Creation#Attributes & Skills|Skill]], taking the highest result.
-- On a 1-3, the player fails at what they had set out to do and will suffer [[Narrative Play#Consequences|Consequences]]. This is called a **Failure**.
-- On a 4-5, the player succeeds, but suffers [[Narrative Play#Consequences|Consequences]]. This is called a **Partial Success**.
+To roll a Skill Check, the player will roll a number of d6's equal to the value of an appropriate [[Character Creation/index#Attributes & Skills|Skill]], taking the highest result.
+- On a 1-3, the player fails at what they had set out to do and will suffer [[Rules/Narrative Play/index#Consequences|Consequences]]. This is called a **Failure**.
+- On a 4-5, the player succeeds, but suffers [[Rules/Narrative Play/index#Consequences|Consequences]]. This is called a **Partial Success**.
 - On a 6, the player succeeds with no Consequences! 
 - If the player rolls multiple 6's, they **Critically Succeed**! Doing so comes with some added benefit determined by the Storymaster, such as increase **Reward**.
 ##### Rolling with 0 Dice
@@ -67,14 +72,14 @@ During the Narrative portion of the game, the NPCs don't make any rolls. Instead
 ### Summary
 Here's a **summary** for Skill Checks.
 - The player describes what their character would like to do.
-- The Storymaster decides if a Skill Check is necessary, and assigns an appropriate [[Narrative Play#Risk & Reward|Risk & Reward]].
-- The player chooses an appropriate [[Character Creation#Attributes & Skills|Skill]] to use for the check.
+- The Storymaster decides if a Skill Check is necessary, and assigns an appropriate [[Rules/Narrative Play/index#Risk & Reward|Risk & Reward]].
+- The player chooses an appropriate [[Character Creation/index#Attributes & Skills|Skill]] to use for the check.
 - The player rolls the dice.
 - The Storymaster describes the outcome!
 ### Group Checks
 If a group of players want to all work together to achieve a course of action, such as sneaking through an area together, they may do so in a group check.
 
-To perform a group check, nominate a leader. Then, everyone rolls an appropriate [[Character Creation#Attributes & Skills|Skill]] (which must be the same for each player), taking the **highest result amongst all players.**
+To perform a group check, nominate a leader. Then, everyone rolls an appropriate [[Character Creation/index#Attributes & Skills|Skill]] (which must be the same for each player), taking the **highest result amongst all players.**
 
 However, for each player that would have failed the check, the leader takes **1 Stress**.
 ## Clocks

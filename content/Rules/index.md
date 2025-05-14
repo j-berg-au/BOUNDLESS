@@ -1,6 +1,11 @@
+---
+title: Rules
+aliases:
+  - Rules
+---
 ### Navigation
-- [[Narrative Play]]
-- [[Tactical Combat]]
+- [[Rules/Narrative Play/index|Narrative Play]]
+- [[Rules/Tactical Combat/index|Tactical Combat]]
 ### The Basics
 ##### What you need
 To play ***BOUNDLESS***, you will need the following:

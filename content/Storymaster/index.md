@@ -1,0 +1,5 @@
+---
+title: Storymaster
+aliases:
+  - Storymaster
+---
