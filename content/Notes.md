@@ -1,3 +1,19 @@
+### Strategy
+Write a general strategy section helping players git gud
+- Make sure your Vanguard takes the hits, and support them as best you can in doing so.
+- Avoid having your Prophet take hits.
+- As a Mage, always keep Mana spare to block damage.
+- Adepts & Mages who aren't being targeted become much more effective.
+### General
+MIGHT save is too common, try to balance out saves.
+
+Mage enemies take bonus damage from melee, makes it easier to run as GM (as opposed to tracking Mana).
+
+Consider giving exploit opening to all Vanguards for free.
+
+Remove resistance rolls from Narrative play
+- What are the Attributes used for? Just saves?
+
 Add ways (Probably talents) that help each Type improve:
 - Save Target
 - Crit Threshold?
@@ -89,6 +105,7 @@ Exploding dice?
 - Make Shove better
 - Spend Adrenaline to imbue weapon with MAGIC. It now do BONUS DAMAGE (a little) and maybe a BONUS EFFECT
 - Mount
+- Grapple multiple targets at once
 **Adept**
 - Buffs to invisibility (or buffs for while you are invisible)
 - +1 Die on Tricks with certain tags

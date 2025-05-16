@@ -24,7 +24,7 @@ When building your character, the most important decision you will make is *"Wha
 ### Classes
 Each Hero Type is broken down into **Classes**, each of which is listed on the corresponding Type's page. Your character will be one of these Classes, so choose wisely. These Classes are listed under the page for each Hero Type.
 ### Levels
-In ***BOUNDLESS*** there are 12 "Levels", which represent how powerful your character is. A character usually starts at Level 1. At the end of each Quest, you gain a Level.
+In ***BOUNDLESS*** there are 12 "Levels", which represent how powerful your character is. A character usually starts at Level 1. At the end of each Quest, you gain a Level, which grants you new abilities and increases your statistics.
 ### Tier
 The Levels are separated into three **Tiers**, each representing a substantial jump in power. See the table above to check which Levels correspond to which Tiers. 
 

@@ -31,15 +31,15 @@ The wall grants **soft cover**.
 
 -----
 ##### Flash Freeze
-*1 Mana, Minor Action, Ice*  
+*2 Mana, Minor Action, Ice*  
 Choose a character within Range 8. The target must make a **MIGHT** save or become [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]]. At the end of each of their turns, they may make another **MIGHT** save to end the effect.
 
 **Augments**  
 *Brittle. 2+ Mana*  
 On a failed save, the target becomes [[Conditions & Statuses#VULNERABLE|VULNERABLE]] with value equal to half the **Mana** spent (rounded down) until the **Spell's** effect ends.  
 
-*Frostbite. 1+ Mana*  
-On a failed save, the target takes 1d4 [[Keywords#Persistent Damage|Persistent Damage]] for each **Mana** spent.  
+*Frostbite. 2+ Mana*  
+On a failed save, the target takes 1d4 [[Keywords#Persistent Damage|Persistent Damage]] for every **2 Mana** spent.  
 
 *Lingering. 1 Mana*  
 If the target passes their save, they are [[Conditions & Statuses#SLOWED|SLOWED]] until the end of their next turn. If the target fails their save and becomes [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]], once they end the effect they are [[Conditions & Statuses#SLOWED|SLOWED]] until the end of their following turn.  

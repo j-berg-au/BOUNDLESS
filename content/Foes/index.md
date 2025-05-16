@@ -18,3 +18,15 @@ A **Grunt** automatically fails all saves.
 The **Grunt** deals **Td4** damage to a character within Range 5.
 
 -----
+### Brute
+
+---
+### Mage
+
+---
+### Support
+
+---
+### Rogue
+
+---

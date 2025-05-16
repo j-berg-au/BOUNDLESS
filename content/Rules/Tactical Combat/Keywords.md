@@ -13,8 +13,10 @@ A weapon with this tag deals at least an amount of damage equal to the Graze val
 ##### Inaccurate
 A weapon with this tag makes all attacks with **+1 Bane**.
 ##### Persistent Damage
-When a character has taken **Persistent Damage**, they must roll a MIGHT or a WIT save (their choice) at the end of each of their turns. On a failure, they take they take damage equal to the amount of **Persistent Damage**. On a success, they clear all **Persistent Damage**.
+When a character has taken **Persistent Damage**, they immediately take damage equal to the amount of **Persistent Damage**. 
+
+Then, they must roll a MIGHT or a WIT save (their choice) at the end of each of their turns. On a failure, they take they take damage equal to the amount of **Persistent Damage**. On a success, they clear all **Persistent Damage**.
 
 When a character takes **Persistent Damage** and is already affected by another source of **Persistent Damage**, the values stack and the highest Save Target is taken.
 
-**Persistent Damage** is unaffected by [[Conditions & Statuses#VULNERABLE|VULNERABLE]].
+**Persistent Damage** is unaffected by [[Conditions & Statuses#VULNERABLE|VULNERABLE]], [[Conditions & Statuses#Weak|WEAK]], and [[Keywords#Armour|Armour]].
