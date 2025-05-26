@@ -6,7 +6,7 @@ Make a *Basic Attack* against a character within Reach. On a hit, the target is 
 
 -----
 ##### Block
-*3 Adrenaline, Reaction*  
+*2 Adrenaline, Reaction*  
 You take this Reaction when you would take damage. You immediately gain the effects of [[Your Turn#BRACE|BRACE]], without being inflicted with [[Conditions & Statuses#STUNNED|STUNNED]].
 
 -----

@@ -1,8 +1,8 @@
 ## Tier I
 -----
 ##### Arcing Current
-*2 Mana, Minor Action, Range 0, Arc 5, Storm*  
-All characters within the Arc of this **Spell** must make a **FINESSE** save or take 2d4 damage.
+*2 Mana, Minor Action, Storm*  
+You create a size 5 Arc starting at a space adjacent to yourself. All characters within the Arc must make a **FINESSE** save or take 2d4 damage.
 
 **Augments**  
 *Amped. 2+ Mana*  
@@ -16,8 +16,9 @@ On a successful save, a target takes 2 damage anyway.
 
 -----
 ##### Firewall
-*2 Mana, Minor Action, Range 6, Arc 4, Fire*  
-The Arc created by this **Spell** lasts until dispelled as a Free Action by the caster. Any character who enters the area or starts their turn there takes 2 damage.
+*2 Mana, Minor Action, Fire*  
+You create a size 4 Arc of blazing flames within Range 6.
+The Arc lasts until dispelled as a Free Action by the caster. Any character who enters the area or starts their turn there takes 2 damage.
 
 **Augments**  
 *Blazing. 2+ Mana*  
@@ -46,8 +47,8 @@ If the target passes their save, they are [[Conditions & Statuses#SLOWED|SLOWED]
 
 -----
 ##### Fog of War
-*2 Mana, Minor Action, Range 6, Circle 3, Storm*  
-You create a cloud of fog within range. The fog grants **soft cover**.  
+*2 Mana, Minor Action, Storm*  
+You create a size 4 Circle within Range 6, in which fog fills the area. The fog grants **soft cover**.
 
 **Augments**  
 *Dense. 2 Mana*  
@@ -95,9 +96,8 @@ You summon an additional spear for each **Mana** spent.
 
 -----
 ##### Invoke Lightning
-*2 Mana, Major Action, Range 10, **FINESSE** Save, Storm*  
-Target 3 characters in range.    
-On Failure: The target takes 1d6 damage.  
+*2 Mana, Major Action, Storm*  
+Target three characters within Range 10. All characters must pass a **FINESSE** save or take 1d6 damage.
 
 **Augments**  
 *Amplified. 2+ Mana*  
@@ -111,9 +111,8 @@ The range of the spell becomes 3, but is *Amplified* as if you had spent **2 Man
 
 -----
 ##### Spontaneous Combustion
-*2 Mana, Minor Action, Range 6, **MIGHT** Save, Fire*  
-On Failure: The target takes 2d4 [[Keywords#Persistent Damage|Persistent Damage]].  
-On success: The target takes 2 damage.  
+*2 Mana, Minor Action, Fire*  
+You target a character within Range 6, who must then make a **MIGHT** save or take 2d4 [[Keywords#Persistent Damage|Persistent Damage]].  On a successful save, they take 2 damage.
 
 **Augments**  
 *Arson. 2+ Mana*  
@@ -127,8 +126,8 @@ The spell forces the target to make a **PRESENCE** Save with **+1 Bane**, instea
 
 -----
 ##### Stonewall
-*3 Mana, Minor Action, Range 6, Line 4, Stone*  
-The Line created by this **Spell** lasts until dispelled as a Free Action by the caster. The Line is a solid object, provides **hard cover**, and blocks line of sight.  
+*3 Mana, Minor Action, Stone*  
+You create a size 4 Line within Range 6, from which earth erupts into a stone wall. The wall lasts until dispelled as a Free Action by the caster. The wall is a solid object, provides **hard cover**, and blocks line of sight.  
 
 Each space the wall occupies is considered its own segment of the wall. Each segment has 10HP and can be destroyed individually.  
 
@@ -144,8 +143,8 @@ The HP of each segment of the wall is increased to 15HP.
 
 -----
 ##### Teleport
-*2 Mana, Minor Action, Range 6, Teleport*  
-You teleport yourself or an ally within Reach 1 to an unoccupied space within range.   
+*2 Mana, Minor Action, Teleport*  
+You teleport yourself or an ally within Reach 1 to an occupied space within Range 6.
 
 **Augments**  
 *Distant. 1+ Mana*  

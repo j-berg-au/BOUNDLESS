@@ -4,24 +4,39 @@ aliases:
   - Foes
 ---
 -----
-### Grunt
+### Minion
+
 |   HP    |      1      |
 | :-----: | :---------: |
 | EVASION | = 5 + Level |
 |  SPEED  |      4      |
 ##### Coordination
-Two **Grunts** can take their turn at the same time.
+Two **Minion** can take their turn at the same time.
 ##### Clumsy
-A **Grunt** automatically fails all saves.
+A **Minion** automatically fails all saves.
 ##### Attack!
 *Major Action*
-The **Grunt** deals **Td4** damage to a character within Range 5.
+The **Minion** deals **Td4** damage to a character within Range 5.
 
 -----
 ### Brute
 
 ---
-### Mage
+### Spellcaster
+
+|     HP      | = X          |
+| :---------: | ------------ |
+|     HIT     | = Level      |
+|   EVASION   | = 8 + Level  |
+| Save Target | = 10 + Level |
+|    SPEED    | = 4          |
+
+##### Frail
+Any damage a **Spellcaster** takes from a melee attack is doubled.
+##### Spells
+A **Spellcaster** may cast Spells they know, using **HP** in place of **Spellcaster**. A **Spellcaster** cannot reduce themselves to 0HP this way.
+
+When creating a **Spellcaster**, select three [[Spells]] they know. 
 
 ---
 ### Support

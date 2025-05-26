@@ -1,8 +1,10 @@
 ## Combat Talents
 ### Tier I
 ##### Amplified
-*Prerequisite: Virtuoso*  
+*Prerequisite: [[Virtuoso]]*  
 The Range on all your active **Emotions** increases by your Tier.
+##### Calculated
+Once per combat, you may foresee the outcome of a **Trick** before committing to it. On your turn before using a **Trick**, you may declare how many **Focus Points** you will spend and roll the corresponding amount of dice. After checking your result, you may choose whether or not you will indeed use the **Trick**. If you do, expend the **Focus Points** and use the result you had rolled for the **Trick**. If you choose not to use the **Trick**, you cannot use that **Trick** this turn.
 ##### Callouts
 As a Minor Action, you may inflict the [[Conditions & Statuses#Marked|MARKED]] condition on a target within Range 8.
 ##### Careful Aim
@@ -23,11 +25,11 @@ Increase your HP by 2.
 When an ally within Range 3 takes damage, you may use your Reaction to spend any number of **Focus Points** to help them avoid the damage, as if you were spending them to avoid damage for yourself.
 ### Tier II
 ##### Genre Fusion
-*Prerequisite: Virtuoso, Tier II*  
+*Prerequisite: [[Virtuoso]], Tier II*  
 You may have two **Emotions** active at a time, rather than one.
 ### Tier III
 ##### Magnum Opus
-*Prerequisite: Artisan or Virtuoso, Tier III*  
+*Prerequisite: [[Artisan]] or [[Virtuoso]], Tier III*  
 You have finally perfected your favourite creation. Select a Trick that you know. When you use this Trick, it is automatically treated as a Critical Success.
 ## Narrative Talents
 - Clear someone's stress (Virtuoso)

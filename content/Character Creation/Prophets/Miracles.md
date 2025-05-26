@@ -1,7 +1,7 @@
 ## Tier I
 -----
 ##### Bear Totem
-*Prerequisite: Druid*  
+*Prerequisite: [[Druid]]*  
 *Fate Target: 6*  
 *Minor Action, Totem*  
 **Standard Effect:**  
@@ -11,7 +11,7 @@ As Standard Effect, but the target also gains [[Keywords#Aegis|Aegis]] equal to 
 
 -----
 ##### Cleanse
-*Prerequisite: Druid or Priest*  
+*Prerequisite: [[Druid]] or [[Priest]]*  
 *Fate Target: 7*  
 *Minor Action*  
 **Standard Effect:**  
@@ -21,7 +21,7 @@ You remove two conditions or one condition and all [[Keywords#Persistent Damage|
 
 -----
 ##### Decay
-*Prerequisite: Druid*  
+*Prerequisite: [[Druid]]*  
 *Fate Target: 6*  
 *Minor Action*  
 **Standard Effect:**  
@@ -40,11 +40,11 @@ As Standard Effect, but the target is also [[Conditions & Statuses#STUNNED|STUNN
 
 -----
 ##### Eagle Totem
-*Prerequisite: Druid*  
+*Prerequisite: [[Druid]]*  
 *Fate Target: 6*  
 *Minor Action, Totem*  
 **Standard Effect:**  
-Choose an ally within Reach 1. They gain a bonus to their SPEED equal to your Tier. Only one ally can benefit from a Totem at a time.  
+Choose an ally within Reach 1. They gain a bonus to their **SPEED** equal to your Tier. Only one ally can benefit from a Totem at a time.  
 **Divine Effect:**  
 As Standard Effect, but the target also gains a +2 bonus to their EVASION.
 
@@ -59,7 +59,7 @@ You grant an ally within Range 5 an amount of [[Keywords#Aegis|Aegis]] equal to 
 
 -----
 ##### Foresee
-*Prerequisite: Seer*  
+*Prerequisite: [[Seer]]*  
 *Fate Target: 7*  
 *Minor Action*  
 **Standard Effect:**  
@@ -69,7 +69,7 @@ You grant an ally within Range 8 **+2 Boons** on their next attack roll or save 
 
 -----
 ##### Manipulate Fate
-*Prerequisite: Seer*  
+*Prerequisite: [[Seer]]*  
 *Fate Target: 5*  
 *Reaction*  
 **Standard Effect:**  
@@ -83,7 +83,7 @@ You may swap the d20 that triggered this **Miracle** with your **held fate**, *i
 
 -----
 ##### Reading
-*Prerequisite: Seer*  
+*Prerequisite: [[Seer]]*  
 *Fate Target: 7*  
 *Minor Action*  
 **Standard Effect:**  

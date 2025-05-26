@@ -2,7 +2,7 @@
 -----
 ##### Bear Trap
 *Minor Action, Gadget*  
-You place down a bear trap within Range 3. The first time a character walks over the bear trap, they must make a **FINESSE** save or suffer an effect.
+You place down a bear trap within Range 3. The first time a character walks over the bear trap, they must make a **WIT** save or suffer an effect.
 
 | **Success Level** | **Effect**                                                                                                                                                                                                                                                                                    |
 | :---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -77,12 +77,12 @@ You throw a grenade to a space within Range 5. The success level of the Trick de
 *Minor Action, Movement*  
 You move a number of spaces, detailed in the effect column in the table below. This movement ignores Reactions and any environmental hazards or traps. You may take actions in the middle of this movement.
 
-| **Success Level** | **Effect**                                 |
-| :---------------- | ------------------------------------------ |
-| Critical Success  | Twice your SPEED.                          |
-| Success           | Your SPEED, plus an additional two spaces. |
-| Partial Success   | Your SPEED.                                |
-| Failure           | Two spaces.                                |
+| **Success Level** | **Effect**                                     |
+| :---------------- | ---------------------------------------------- |
+| Critical Success  | Twice your **SPEED**.                          |
+| Success           | Your **SPEED**, plus an additional two spaces. |
+| Partial Success   | Your **SPEED**.                                |
+| Failure           | Two spaces.                                    |
 
 -----
 ##### Pocket Sand

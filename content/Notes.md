@@ -1,3 +1,29 @@
+### Big Changes
+- BONUS TALENTS
+- Write Combat Section
+- Cooler weapon names
+- Maybe give universal feature to Mages & Prophets? What could it be? Is it necessary?
+- Make more enemies
+- Collapse Attributes into just Saves
+- Reconsider how persistent effects work. (Firewall, etc). Do you need to maintain them?
+- Storymaster Section
+	- Advice on Combat Balancing
+	- Advice on Quest-Building
+	- Advice on Artefacts (magic items)
+		- Recommend one Artefact per Player per Quest.
+		- Plus consumables
+##### Equipment
+Have the players choose a "Pack" of narrative items your character has on them.
+
+For magic items (artefacts), each character has a few different "slots" for items. 
+- Amulet
+- 2 Rings (one for each hand)
+- Garments
+- Weapon
+
+More than one item per slot causes the magic to fight over you.
+
+Magic items come in Tiers, which correspond to the Tier of Play you would receive said item.
 ### Strategy
 Write a general strategy section helping players git gud
 - Make sure your Vanguard takes the hits, and support them as best you can in doing so.
@@ -7,20 +33,11 @@ Write a general strategy section helping players git gud
 ### General
 MIGHT save is too common, try to balance out saves.
 
-Mage enemies take bonus damage from melee, makes it easier to run as GM (as opposed to tracking Mana).
-
-Consider giving exploit opening to all Vanguards for free.
-
-Remove resistance rolls from Narrative play
-- What are the Attributes used for? Just saves?
-
 Add ways (Probably talents) that help each Type improve:
 - Save Target
 - Crit Threshold?
 - HIT?
 - Evasion?
-
-Maybe instead of letting people spend 7 points willy nilly, make them pick two skills to set to 2, and three skills to set to 1.
 
 Maybe encourage hands-on resource management. Tokens for Adrenaline, Focus Points, Mana, etc.
 
@@ -90,9 +107,24 @@ If you have an idea for what would be a "subclass", make it a talent tree.
 Exploding dice?
 **General**
 - Vampire Talent Tree (start as Narrative Talent)
-	- Self-heal on hit
+	- Each Talent comes with a different drawback
+		- Sunlight
+		- Garlic
+		- Running Water
+		- Crosses
+		- etc
 - Lycanthrope Talent Tree (start as Narrative Talent)
 	- Grow larger
+	- Maybe the base talent makes you go fully wild under a certain circumstance? A point of no return.
+		- Taking Scars may inflict this.
+		- Meeting certain conditions may inflict this. (For example, the Curse can give you buffs, but in doing so builds this counter. Start a clock?)
+##### Curse of Lycanthropy
+You have contracted lycanthropy, a curse that blurs the line between person and beast. 
+
+There are various strains of lycanthropy, many of which remain undiscovered. Each variant shapes those infected into monstrous people with traits of a particular animal. When you take this Talent, you may choose which strain you have been infected with. Common strains include wolves, bears, rats, boars, and tigers.
+
+Start a permanent Clock for your character, titled ***Caging the Beast***. This clock has 12 segments.
+
 - Reputation (An NPC recognises you and helps you in some way, Narrative)
 **Vanguard**
 - A way to self-heal?
@@ -106,6 +138,7 @@ Exploding dice?
 - Spend Adrenaline to imbue weapon with MAGIC. It now do BONUS DAMAGE (a little) and maybe a BONUS EFFECT
 - Mount
 - Grapple multiple targets at once
+- One that grants a Totem from Druid
 **Adept**
 - Buffs to invisibility (or buffs for while you are invisible)
 - +1 Die on Tricks with certain tags
@@ -159,9 +192,6 @@ Prophet
 Do guns exist? Does just some artisans get them?
 
 Ranged attacks gain +1 Bane (or +2 Banes) when adjacent to an enemy
-
-Hit 0HP = Take 3 Strain
-- Steal from ICON
 
 Minor Action to maintain effects?
 

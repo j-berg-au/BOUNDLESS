@@ -7,8 +7,8 @@
 | **Save Target** | = 10 + your Level |
 ##### Tricks
 You learn 3 **Tricks** of your choice. Every odd level, you learn a new **Trick**. Additionally, each time you increase in Tier you may learn an additional **Trick**.
-##### Quick Thinking
-Whenever you are forced to make a save, you may choose to make a **WIT** save instead.
+##### Elusive
+You gain **+1 Boon** to all **FINESSE**, **WIT**, and **PRESENCE** saves.
 ##### Specialisation
 You are an expert in your field. Choose a specialisation below, gaining it's corresponding **Tricks** and feature.
 
