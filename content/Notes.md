@@ -4,7 +4,6 @@
 - Cooler weapon names
 - Maybe give universal feature to Mages & Prophets? What could it be? Is it necessary?
 - Make more enemies
-- Collapse Attributes into just Saves
 - Reconsider how persistent effects work. (Firewall, etc). Do you need to maintain them?
 - Storymaster Section
 	- Advice on Combat Balancing

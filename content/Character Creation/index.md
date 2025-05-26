@@ -11,8 +11,8 @@ There are several parts to your character that makes them unique. A quick overvi
 - Your **Class** defines your abilities a little more narrowly, providing features and your statistics.
 - Your **Level** represents how powerful you are, and how many abilities you have.
 - Levels are grouped into **Tiers**, which show substantial power jumps.
-- **Attributes** represent your characters general competency in different areas.
-- Each Attribute has three **Skills** that represent your character's specific competencies.
+- **Saves** represent your characters ability to react to certain types of situations.
+- Each Save has three **Skills** that represent your character's specific competencies.
 - Your character has a few different **Statistics**, used during combat.
 - Your character will gain a few **Talents**, which are abilities you choose to really make your character your own.
 ### Hero Types
@@ -29,16 +29,16 @@ In ***BOUNDLESS*** there are 12 "Levels", which represent how powerful your char
 The Levels are separated into three **Tiers**, each representing a substantial jump in power. See the table above to check which Levels correspond to which Tiers. 
 
 Sometimes Tier is referred to simply as **T**, particularly in the context of calculating dice rolls. For example, **Td6 + T** represents rolling a number of six-sided dice equal to your Tier, then adding your Tier to the result. You may also see something like **2Td8**, which means to roll a number of eight-sided dice equal to twice your Tier.
-### Attributes & Skills
-There are four **Attributes** that define your character, **MIGHT**, **FINESSE**, **WIT**, and **PRESENCE**. These are used for your Resistance Rolls during Narrative Play, as well as your saves during Tactical Combat.
+### Saves & Skills
+There are four **Saves** that define your character, **MIGHT**, **FINESSE**, **WIT**, and **PRESENCE**. These are used to avoid certain consequences during Tactical Combat.
 
-Each Attribute has three corresponding **Skills**, which are used for **Skill Checks** during Narrative Play.
+Each Save has three corresponding **Skills**, which are used for **Skill Checks** during Narrative Play.
 
 Each Skill has a corresponding value, ranging from 0 to 3.
 
-Each of your Attributes will also have a value, equal to half the sum of its corresponding Skills' values (rounded down).
+Each of your Saves will also have a value, equal to half the sum of its corresponding Skills' values (rounded down), plus your Level.
 
-The Skills are each listed below, under the corresponding Attribute.
+The Skills are each listed below, under the corresponding Save.
 
 **MIGHT**
 - Endure — Push through physical stresses. Run long distances. Tough out a wound. 
@@ -59,8 +59,6 @@ The Skills are each listed below, under the corresponding Attribute.
 - Command — Use your authority to influence others. Make someone afraid.
 - Sway — Persuade someone. Smooth talk your way out of a sticky situation.
 - Perform — Bring your art into the world. Sing a song. Do a little dance.
-##### Saves
-Sometimes during combat you will need to roll to resist an effect, rolling a **save**. There are four different types of saves, one for each **Attribute**. To roll a save, roll 1d20 + your Attribute + your Level.
 ### Statistics
 There are a few additional statistics, most of which are provided by your **Class**.
 - **HP**. This usually has a maximum of 6. If you ever take damage, this will be reduced.
@@ -82,18 +80,17 @@ When selecting your Talents, you may choose from the [[Generic Talents]] or from
 To quickly build a Level 1 character, you will need to:
 - Choose a **Hero Type**, noting it's mechanics.
 - Choose a **Class**, noting it's Core Statistics and Features.
-- Choose a **Weapon**.
-- Choose 2 **Combat Talents**.
-- Choose a **Narrative Talent**.
+- Choose a **Weapon** and an **Equipment Pack**.
+- Choose 2 **Combat Talents** and 1 **Narrative Talent**.
 - Choose your **Moves**, **Tricks**, **Spells**, or **Miracles**.
-- Set two of your **Skills** to 2, and three to 1. Then, calculate your **Attributes**.
-- Calculate your **Statistics**.
+- Set two of your **Skills** to 2, and three to 1. Then, calculate your **Saves**.
+- Calculate your other **Statistics**.
 ### Levelling Up
 As you gain Levels, you become more powerful. To Level Up, do the following:
 - Increase any **Statistics** that are calculated from your Level.
 - Choose a new **Combat Talent**.
 - If the new Level is an odd Level, choose a new **Narrative Talent**.
-- Increase one of your **Skills** by 1, to a maximum of 3. This may increase the corresponding Attribute.
+- Increase one of your **Skills** by 1, to a maximum of 3. This may increase the corresponding Save.
 - Check your Class to see if you learn any additional **Moves**, **Tricks**, **Spells**, or **Miracles**.
 - If this is your 5th or 9th Level, increase in Tier.
 
