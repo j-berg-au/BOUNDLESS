@@ -1,28 +1,49 @@
-### Big Changes
-- BONUS TALENTS
-- Flow state talent for Adepts
-- Get rid of folder contents at end of folder page
-	- Delete the folderpage plugin thing from the config file?
-- STANCES. Everyone loves Stances. Should there be a class for that? Exemplar? An Adept? Is it a Talent (or series of Talents)?
-	- Offensive: All your attacks have +1 Boon, but all attacks against you also have +1 Boon
-	- Defensive: ???
-	- Stanceless: None
+### To Do
 - Write Combat Section
-- Abilities that get buffed if the target has a certain status. 
-	- If the target has persistent damage, deal additional damage equal to the persistent damage
-- Enemy "Weakspots" are certain numbers you want to hit on your attack roll. For example, an enemy might have a weakspot on 17. To hit it, you must roll exactly a 17 on your attack roll, dealing double damage and destroying the weak spot. 
-	- Maybe, at the cost of 1 Bane, the players can move their result one up or down to attempt to hit the Weakspot
-	- Maybe instead of double damage, simply bonus flat damage
-- Cooler weapon names
-- Maybe give universal feature to Mages & Prophets? What could it be? Is it necessary?
-- Make more enemies
-- Reconsider how persistent effects work. (Firewall, etc). Do you need to maintain them?
-- Storymaster Section
-	- Advice on Combat Balancing
-	- Advice on Quest-Building
-	- Advice on Artefacts (magic items)
-		- Recommend one Artefact per Player per Quest.
-		- Plus consumables
+- Write GM Section
+	- Quest-Building
+	- Combat-Building
+		- Balancing Combats
+		- Foe Templates
+		- Foe Amplifiers
+			- Weakspots
+				- Enemy "Weakspots" are certain numbers you want to hit on your attack roll. For example, an enemy might have a weakspot on 17. To hit it, you must roll exactly a 17 on your attack roll, dealing double damage and destroying the weak spot. 
+				- Maybe, at the cost of 1 Bane, the players can move their result one up or down to attempt to hit the Weakspot
+				- Maybe instead of double damage, simply bonus flat damage
+		- Objectives
+		- Environmental Effects
+		- Boss Battles?
+	- Magic Items
+		- Artefacts
+			- Recommend one Artefact per Player per Quest.
+		- Consumables
+- Get rid of Folder Contents at end of Folder Page
+	- Delete the folderpage plugin thing from the config file?
+- Cooler Weapon Names
+- Equipment Packs
+- Narrative Talents
+- More Combat Builds
+	- New Classes:
+		- Monk (Vanguard)
+			- Low(ish) Health
+			- No **Armour**
+			- High **EVASION**
+			- At the start of each turn, gain 1 **Aegis**.
+		- Psychic (Adept)
+		- Summoner (Mage)
+			- Can summon 2T Minions, can two at a time as a Minor Action
+		- Virtuoso (Prophet)
+			- Replace/Rework Adept Virtuoso
+			- Rather than an external divine force, a Virtuoso draws from their own Divine Inspiration.
+	- New Talents:
+		- Lycanthropy Talent Tree
+			- Grow a Size (Prereq: Vanguard)
+		- Vampire Talent Tree
+		- Stances
+		- Adept Flow State
+		- Buff certain abilities when a target has a certain status
+			- If the target has persistent damage, deal additional damage equal to the persistent damage
+
 ##### Equipment
 Have the players choose a "Pack" of narrative items your character has on them.
 
@@ -182,12 +203,14 @@ Any **Spells** that create lingering Areas of Effect do not trigger this Talent.
 Warlord/Tactician/???
 - **Vanguard**
 	- Cursed/Monster/Whatever
+	- Monk
+		- Unusually low Health, but high evasion. Pseudo-Adept. No armour? But maybe **Aegis**? (You collect yourself at the start of each of your turns, foreseeing their next strike, gaining **Aegis**.) 
 - **Adept**
 	- Psychic/Psion/Mystic/Whatever
-	- Monk
 - **Mage**
 	- Summoner
 - **Prophet**
+	- Bard?
 ### Weapons
 Vanguard
 

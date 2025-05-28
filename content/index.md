@@ -19,7 +19,7 @@ Once your ready, feel free to explore the different aspects of the game at your 
 - [[Rules/index|Rules]]
 - [[Character Creation/index|Character Creation]]
 - [[Storymaster/index|Storymaster]]
-- [[Foes/index|Foes]]
+- [[Storymaster/Foes/index|Foes]]
 #### Inspirations
 Here's a list of games and media that has inspired ***BOUNDLESS*** in both theme and mechanics. Be sure to check them out!
 

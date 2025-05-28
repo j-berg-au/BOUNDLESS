@@ -1,8 +1,3 @@
----
-title: Foes
-aliases:
-  - Foes
----
 -----
 ### Minion
 
@@ -11,7 +6,7 @@ aliases:
 | EVASION | = 5 + Level |
 |  SPEED  |      4      |
 ##### Coordination
-Two **Minion** can take their turn at the same time.
+Two **Minions** can take their turn at the same time.
 ##### Clumsy
 A **Minion** automatically fails all saves.
 ##### Attack!
