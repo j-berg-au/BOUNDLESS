@@ -1,6 +1,18 @@
 ### Big Changes
 - BONUS TALENTS
+- Flow state talent for Adepts
+- Get rid of folder contents at end of folder page
+	- Delete the folderpage plugin thing from the config file?
+- STANCES. Everyone loves Stances. Should there be a class for that? Exemplar? An Adept? Is it a Talent (or series of Talents)?
+	- Offensive: All your attacks have +1 Boon, but all attacks against you also have +1 Boon
+	- Defensive: ???
+	- Stanceless: None
 - Write Combat Section
+- Abilities that get buffed if the target has a certain status. 
+	- If the target has persistent damage, deal additional damage equal to the persistent damage
+- Enemy "Weakspots" are certain numbers you want to hit on your attack roll. For example, an enemy might have a weakspot on 17. To hit it, you must roll exactly a 17 on your attack roll, dealing double damage and destroying the weak spot. 
+	- Maybe, at the cost of 1 Bane, the players can move their result one up or down to attempt to hit the Weakspot
+	- Maybe instead of double damage, simply bonus flat damage
 - Cooler weapon names
 - Maybe give universal feature to Mages & Prophets? What could it be? Is it necessary?
 - Make more enemies

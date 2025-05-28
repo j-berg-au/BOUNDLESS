@@ -13,14 +13,20 @@ At the beginning of your turn, you can hold steady to line up your shots. Until 
 When using a **Trick** with the Gadget tag, you can roll an additional d6 when determining the success level of the **Trick**.
 ##### Hipfire
 You no longer suffer consequences from attacking with a Ranged weapon while adjacent to an enemy.
+##### In the Groove
+When you score a **Critical Hit**, you regain **1 Focus Point**.
 ##### More Up My Sleeve
 You learn two additional **Tricks** of your choice.
+##### Quick Thinking
+Whenever you would make a save, you may make a **WIT** save instead.
+##### Resilient
+Increase your HP by 2.
+##### Silver Tongue
+Whenever you would make a save, you may make a **PRESENCE** save instead.
 ##### Slippery
 When an attack misses you, you may move up to 2 spaces as a Reaction. This movement does not trigger any Reactions.
 ##### Sneaky Attack
 When you make an attack while [[Conditions & Statuses#Hidden|HIDDEN]], the attack deals an additional Td4 damage.
-##### Resilient
-Increase your HP by 2.
 ##### Watch Out!
 When an ally within Range 3 takes damage, you may use your Reaction to spend any number of **Focus Points** to help them avoid the damage, as if you were spending them to avoid damage for yourself.
 ### Tier II

@@ -6,7 +6,7 @@ During your turn you may do the following in any order you choose:
 - Use any number of **Free Actions**
 You cannot take the same action more than once in a given turn.
 
-You cannot break up your movement from your Standard Move. For example, if your SPEED is 4, you may **not** move 2 spaces, take a Minor Action, then move another 2 spaces.
+You cannot break up your movement from your Standard Move. For example, if your **SPEED** is 4, you may **not** move 2 spaces, take a Minor Action, then move another 2 spaces.
 ### Major Actions
 Here is a list of Major Actions all characters have access to.
 
@@ -18,7 +18,7 @@ You reach out to a fallen ally, bringing them back into the fray. Select a [[Con
 ##### Basic Attack
 You use your *Basic Attack* granted by your weapon.
 ##### Dash
-You move up to your SPEED.
+You move up to your **SPEED**.
 ##### Grapple
 To Grapple, choose an adjacent character and make an attack against them. On a hit, the following are in effect until the Grapple ends:
 - Neither character can Dash or take Reactions

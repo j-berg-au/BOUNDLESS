@@ -1,15 +1,5 @@
 ## Tier I
 -----
-##### Bear Totem
-*Prerequisite: [[Druid]]*  
-*Fate Target: 6*  
-*Minor Action, Totem*  
-**Standard Effect:**  
-Choose an ally within Reach 1. They grow one size larger, and their attacks deal additional damage equal to your Tier. Only one ally can benefit from a Totem at a time.  
-**Divine Effect:**  
-As Standard Effect, but the target also gains [[Keywords#Aegis|Aegis]] equal to your Level.
-
------
 ##### Cleanse
 *Prerequisite: [[Druid]] or [[Priest]]*  
 *Fate Target: 7*  
@@ -25,7 +15,7 @@ You remove two conditions or one condition and all [[Keywords#Persistent Damage|
 *Fate Target: 6*  
 *Minor Action*  
 **Standard Effect:**  
-Choose a target within Range 8. They must make a **PRESENCE** save or gain [[Conditions & Statuses#WEAK|WEAK]] (value equal to Tier) and have their EVASION reduced by 1. They may repeat the save at the end of each of their turns to remove the effect.
+Choose a target within Range 8. They must make a **PRESENCE** save or gain [[Conditions & Statuses#WEAK|WEAK]] (value equal to Tier) and have their **EVASION** reduced by 1. They may repeat the save at the end of each of their turns to remove the effect.
 **Divine Effect:**  
 As Standard Effect, but the target also gains **+1 Bane** on all saves until the effect is removed.
 
@@ -46,16 +36,16 @@ As Standard Effect, but the target is also [[Conditions & Statuses#STUNNED|STUNN
 **Standard Effect:**  
 Choose an ally within Reach 1. They gain a bonus to their **SPEED** equal to your Tier. Only one ally can benefit from a Totem at a time.  
 **Divine Effect:**  
-As Standard Effect, but the target also gains a +2 bonus to their EVASION.
+As Standard Effect, but the target also gains a +2 bonus to their **EVASION**.
 
 -----
 ##### Envigour
 *Fate Target: 6*  
 *Minor Action*  
 **Standard Effect:**  
-You grant an ally within Range 5 an amount of [[Keywords#Aegis|Aegis]] equal to twice your Level.  
+You grant an ally within Range 5 an amount of [[Keywords#Shield|Shield]] equal to twice your Level.  
 **Divine Effect:**  
-You grant an ally within Range 5 an amount of [[Keywords#Aegis|Aegis]] equal to four times your Level.
+You grant an ally within Range 5 an amount of [[Keywords#Shield|Shield]] equal to four times your Level.
 
 -----
 ##### Foresee
@@ -88,10 +78,10 @@ You may swap the d20 that triggered this **Miracle** with your **held fate**, *i
 *Minor Action*  
 **Standard Effect:**  
 Choose a target within Range 8. They must succeed on a **PRESENCE** save or you learn two of their following statistics (your choice):
-- Current HP
-- EVASION
-- HIT
-- SPEED
+- Current **HP**
+- **EVASION**
+- **HIT**
+- **SPEED**
 - Highest save
 - Lowest save
 
@@ -116,6 +106,16 @@ You illuminate a size 1 Circle within Range 8. All characters within the circle 
 
 **Divine Effect:**  
 As Standard Effect, but the Circle grows to size 2.
+
+-----
+##### Ursine Totem
+*Prerequisite: [[Druid]]*  
+*Fate Target: 6*  
+*Minor Action, Totem*  
+**Standard Effect:**  
+Choose an ally within Reach 1. They grow one size larger, and their attacks deal additional damage equal to your Tier. Only one ally can benefit from a Totem at a time.  
+**Divine Effect:**  
+As Standard Effect, but the target also gains [[Keywords#Shield|Shield]] equal to your Level.
 
 -----
 ##### Whispers of Truth

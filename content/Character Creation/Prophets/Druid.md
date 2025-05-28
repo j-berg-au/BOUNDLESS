@@ -8,7 +8,7 @@
 ##### Miracles
 You learn 3 **Miracles** of your choice. Each time you increase in Tier, you learn an additional 4 **Miracles**.
 ##### Gifts of the Earth
-You gain the **Miracles** *[[Miracles#BEAR TOTEM|Bear Totem]]* and *[[Miracles#EAGLE TOTEM|Eagle Totem]]* for free, without them counting towards the number of **Miracles** you know.
+You gain the **Miracles** *[[Miracles#Ursine Totem|Ursine Totem]]* and *[[Miracles#EAGLE TOTEM|Eagle Totem]]* for free, without them counting towards the number of **Miracles** you know.
 ##### Feathered Friend
 When combat starts, you summon a fae bird to your aid. The bird appears in a space adjacent to you and has the following statistics. 
 

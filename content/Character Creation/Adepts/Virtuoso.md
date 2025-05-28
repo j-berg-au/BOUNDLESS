@@ -10,7 +10,7 @@ You learn 3 **Tricks** of your choice. Every odd level, you learn a new **Trick*
 ##### Elusive
 You gain **+1 Boon** to all **FINESSE**, **WIT**, and **PRESENCE** saves.
 ##### Emotive Presence
-While in combat, you imbue your art with a particular **Emotion**. When combat begins, you declare an active **Emotion** from the list below. At the start of each of your turns, you may change the active **Emotion** as a Free Action. 
+While in combat, you imbue your art with a particular **Emotion**. Each time you use a **Trick**, you may declare an Active Emotion from the list below, gaining its effects until the start of your next turn. You may only have one Active Emotion at a time.
 
 **DESPAIR**  
 All enemies gain [[Conditions & Statuses#WEAK|WEAK]] with value equal to your Tier while within Range 3 of you.

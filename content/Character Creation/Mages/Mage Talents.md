@@ -11,12 +11,15 @@ As a Minor Action, you may reduce your HP by 1 and clear all Conditions and **Pe
 ##### Further Study
 You learn two additional **Spells** of your choice.
 ##### Mana Sink
-While you have an amount of **Mana** less than or equal to three times your Tier, your *Basic Attack* deals an additional Td6 damage on a hit to one of its targets.
+While you have an amount of **Mana** less than or equal to three times your Tier, your *Basic Attack* deals an additional Td6 damage on a hit.
 ##### Rest the Aether
 When you finish one of your turns on which you did not spend any **Mana** or use a *Basic Attack*, you regain **Mana** equal to twice your Tier.
 ##### Siphon
 When you hit with your *Basic Attack*, you regain **Mana** equal to your Tier.
 ### Tier II
+##### Battlemage
+*Prerequisite: Tier II*
+Whenever you spend **Mana** on a **Spell**, you gain [[Keywords#Shield|Shield]] equal to the **Mana** spent.
 ##### Dual Domain
 *Prerequisite: Tier II, [[Conduit]]*  
 Select an additional **Magical Domain**, gaining its **Spells** and feature.

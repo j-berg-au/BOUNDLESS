@@ -36,7 +36,7 @@ When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell
 *Tier II:*  
 *Tier III:*  
 **Feature: CRYSTAL DEFENCE**  
-When you cast a **Spell** with the Ice tag, you gain [[Keywords#Aegis|Aegis]] equal to your Level.
+When you cast a **Spell** with the Ice tag, you gain [[Keywords#Shield|Shield]] equal to your Level.
 
 ---
 **SEISMIC MAGIC**  

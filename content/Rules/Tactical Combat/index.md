@@ -21,7 +21,7 @@ When you score a **Critical Hit**, the attack automatically hits regardless of t
 ##### Taking Damage
 When you take damage, you reduce your HP by the amount of damage taken. 
 
-If this would cause you to reach 0HP or a negative HP, your HP is set to zero and you gain the [[Conditions & Statuses#Defeated|DEFEATED]] status. Additionally, you gain **3 Strain**.
+If this would cause you to reach 0HP or a negative HP, your HP is set to zero and you gain the [[Conditions & Statuses#Defeated|DEFEATED]] status. Additionally, you gain a **Scar**.
 ##### Persistent Damage
 When a character has taken **Persistent Damage**, they immediately take damage equal to the amount of **Persistent Damage**. 
 

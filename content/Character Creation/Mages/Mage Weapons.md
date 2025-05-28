@@ -1,8 +1,8 @@
 Mage weapons consist of Grimoires, staffs, orbs, wands and more. Select a weapon from this list below.
 ##### Boltcaller
 *Range 12, Lightning*  
-**Damage:** twice your Tier  
-*This Basic Attack can target two different characters within Range.*
+**Damage:** Td4  
+*For every 4 you roll on a die for damage with this Basic Attack, you may add an additional 1d4 damage to the total as lightning strikes again.*
 ##### Fireflinger
 *Range 8, Fire*  
 **Damage:** Td4  
@@ -10,7 +10,10 @@ Mage weapons consist of Grimoires, staffs, orbs, wands and more. Select a weapon
 ##### Icelauncher
 *Range 8, Ice*  
 **Damage:** Td4  
-*This Basic Attack targets all creatures within a size 1 Circle.*
+*On a hit, the target is [[Conditions & Statuses#Slowed|SLOWED]].*
+##### Stonethrower
+*Range 8, [[Keywords#Knockback|Knockback]] 2, Stone*
+**Damage:** Td6
 ##### Truthseeker
 *Range 8*  
 **Damage:** three times your Tier  
