@@ -1,14 +1,17 @@
 -----
 ### Minion
 
-|   HP    |      1      |
-| :-----: | :---------: |
-| EVASION | = 5 + Level |
-|  SPEED  |      4      |
+| **Core Statistics** |             |
+| :-----------------: | :---------: |
+|         HP          |      1      |
+|       EVASION       | = 5 + Level |
+|        SPEED        |      4      |
 ##### Coordination
 Two **Minions** can take their turn at the same time.
 ##### Clumsy
 A **Minion** automatically fails all saves.
+##### Tunnel Vision
+Any Minor Actions a **Minion** takes counts as taking a Major Action.
 ##### Attack!
 *Major Action*
 The **Minion** deals **Td4** damage to a character within Range 5.

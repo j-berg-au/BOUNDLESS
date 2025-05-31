@@ -7,6 +7,7 @@
 	- Each time you enter your Defensive Stance, gain 1 Aegis.
 - Buff Blood Rage slightly (give extra small feature)
 - Mage Talent that grants a Vanguard Weapon
+- Skill cap increases with Tier, instead of being a Talent
 - Write Combat Section
 - Write GM Section
 	- Quest-Building
