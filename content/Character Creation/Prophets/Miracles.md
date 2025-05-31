@@ -108,6 +108,16 @@ You illuminate a size 1 Circle within Range 8. All characters within the circle 
 As Standard Effect, but the Circle grows to size 2.
 
 -----
+##### Untouchable Dance
+*Prerequisite: [[Virtuoso]]*  
+*Fate Target: 6*  
+*Minor Action*  
+**Standard Effect:**  
+You begin a dance that makes you incredibly difficult to hit. Until the end of your next turn, any attacks made against you gain **+2 Banes**.
+**Divine Effect:**  
+As Standard Effect, but you also gain 1 [[Keywords#Aegis|Aegis]].
+
+-----
 ##### Ursine Totem
 *Prerequisite: [[Druid]]*  
 *Fate Target: 6*  

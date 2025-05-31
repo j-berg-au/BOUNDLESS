@@ -33,8 +33,9 @@ Activate as Free Action. Two rounds of ABSOLUTE POWER. One round of losing your 
 *Prerequisite: Tier III, [[Conduit]], [[Mage Talents#Dual Domain|Dual Domain]]*  
 Select an additional **Magical Domain**, gaining its **Spells** and feature.
 ## Narrative Talents
-- Flight (spend stress?)
 - Familiar for Invoker & Savant
 ### Tier I
+##### Flight
+You have learnt the magic required to grant yourself flight. You may spend **2 Stress** to gain the ability to fly for the rest of the scene.
 ### Tier II
 ### Tier III

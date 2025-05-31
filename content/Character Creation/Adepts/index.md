@@ -9,10 +9,11 @@ aliases:
 - [[Tricks]]
 - [[Adept Weapons]]
 ### Classes
-There are 3 Classes of **Adept**:
+There are 4 Classes of **Adept**:
 - **[[Artisan]]**, experts of a chosen craft whose creations provide great utility to their party.
-- **[[Skirmisher]]**, rogues who employ stealth and street smarts to achieve their goals.
-- **[[Virtuoso]]**, scholars who inspire others and themselves through their mastery in performance, art, and academic knowledge.
+- **[[Psychic]]**, masters of the mind who influence others and the world without lifting a finger.
+- **[[Shadow]]**, rogues who employ stealth and street smarts to achieve their goals.
+- **[[Tactician]]**, leaders who command and control the flow of a battle.
 ### Focus Points
 While in combat, **Adepts** use a resource called **Focus Points**. This is a pool of points that they may trade for dice when using **Tricks**. An **Adept** starts combat with a number of **Focus Points** equal to 3 + twice their Tier. An Adept can never have more **Focus Points** than this amount. There are a few ways an **Adept** can regain **Focus Points**:
 - At the end of each round in which the **Adept** didn’t take damage, they regain **1 Focus Point**.

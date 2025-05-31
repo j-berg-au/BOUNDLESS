@@ -1,4 +1,12 @@
 ### To Do
+- Make Talents that interact with Stances, and maybe including new ones. Additional bonus when in certain stances? Additional ways to enter certain stances.
+	- When you use your *Basic Attack*, you enter Offensive Stance.
+	- When you Brace or use the Block move, you enter Defensive Stance.
+	- While in your Offensive Stance, your *Basic Attack* generates twice as much Adrenaline on a hit.
+	- While in your Defensive Stance, you generate twice as much Adrenaline when you are targeted by an attack.
+	- Each time you enter your Defensive Stance, gain 1 Aegis.
+- Buff Blood Rage slightly (give extra small feature)
+- Mage Talent that grants a Vanguard Weapon
 - Write Combat Section
 - Write GM Section
 	- Quest-Building
@@ -23,24 +31,12 @@
 - Equipment Packs
 - Narrative Talents
 - More Combat Builds
-	- New Classes:
-		- Monk (Vanguard)
-			- Low(ish) Health
-			- No **Armour**
-			- High **EVASION**
-			- At the start of each turn, gain 1 **Aegis**.
-		- Psychic (Adept)
-		- Summoner (Mage)
-			- Can summon 2T Minions, can two at a time as a Minor Action
-		- Virtuoso (Prophet)
-			- Replace/Rework Adept Virtuoso
-			- Rather than an external divine force, a Virtuoso draws from their own Divine Inspiration.
 	- New Talents:
 		- Lycanthropy Talent Tree
 			- Grow a Size (Prereq: Vanguard)
 		- Vampire Talent Tree
-		- Stances
 		- Adept Flow State
+		- Alternative uses of Priest's Favour.
 		- Buff certain abilities when a target has a certain status
 			- If the target has persistent damage, deal additional damage equal to the persistent damage
 
@@ -64,12 +60,6 @@ Write a general strategy section helping players git gud
 - Adepts & Mages who aren't being targeted become much more effective.
 ### General
 MIGHT save is too common, try to balance out saves.
-
-Add ways (Probably talents) that help each Type improve:
-- Save Target
-- Crit Threshold?
-- HIT?
-- Evasion?
 
 Maybe encourage hands-on resource management. Tokens for Adrenaline, Focus Points, Mana, etc.
 

@@ -13,6 +13,7 @@ There are 3 Classes of **Prophet**:
 - **[[Druid]]**, representatives of nature itself who turn the environment against the enemy.
 - **[[Priest]]**, children of divine beings who call upon their power to bolster and heal their allies.
 - **[[Seer]]**, oracles who use the art of divination to prepare their party for what awaits them.
+- **[[Virtuoso]]**, artists who call upon their own divine expression to bring to life their imagination.
 ### Fate Die
 During their adventures, a **Prophet**’s connection to their divine force is represented by their **Fate** **Die**. A Tier I **Prophet**’s **Fate Die** is a d8, becoming a d10 at Tier II, and a d12 at Tier III.  
 

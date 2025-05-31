@@ -36,7 +36,7 @@ Here's a list of games and media that has inspired ***BOUNDLESS*** in both theme
 - *[Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel)* by John Harper
 
 **Video Games:**
-
+- *Clair Obscur: Expedition 33* by Sandfall Interactive
 #### Credits
 EMRYS - He/They
 Game Design, Writing

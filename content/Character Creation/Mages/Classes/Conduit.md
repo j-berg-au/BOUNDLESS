@@ -1,12 +1,21 @@
-#### Core Statistics
-| **HP**          | = 6               |
-| :-------------- | ----------------- |
-| **EVASION**     | = 8 + your Level  |
-| **HIT**         | = Your Level      |
-| **SPEED**       | = 4               |
-| **Save Target** | = 10 + your Level |
-##### Spells
+**Description**  
+Blessed or cursed, a **Conduit** is a being with magic infused into their very body. 
+
+**Playstyle**  
+Conduits utilise a specific type of magic determined by their Magical Domain. Within this domain they are unmatched by any other Mage, but this power comes at the cost of flexibility.
+
+**Complexity:** ★★☆☆☆
+
+| **Core Statistics** |                   |
+| :------------------ | ----------------- |
+| **HP**              | = 6               |
+| **EVASION**         | = 8 + your Level  |
+| **HIT**             | = Your Level      |
+| **SPEED**           | = 4               |
+| **Save Target**     | = 10 + your Level |
+#### Spells
 You learn 1 **Spell** of your choice, in addition to the **Spells** granted by your Magical Domain. At every odd Level, you learn an additional **Spell** of your choice.
+#### Features
 ##### Magical Domain
 As a **Conduit**, a very specific type of magic flows through you. This type of magic is known as your **Magical Domain**.
 

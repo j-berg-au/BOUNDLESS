@@ -1,12 +1,21 @@
-#### Core Statistics
-| **HP**          | = 6               |
-| :-------------- | ----------------- |
-| **EVASION**     | = 13 + your Level |
-| **HIT**         | = Your Level      |
-| **SPEED**       | = 5               |
-| **Save Target** | = 10 + your Level |
-##### Tricks
+**Description**  
+Artisans are folks with a special interest in a particular craft. If you're hoping to befriend one, simply ask them about what they're currently working on and endure the conversation the follows.
+
+**Playstyle**  
+Planning ahead and making the most of the Tricks is what an Artisan does best. Lean into the Tricks that complement your preferred Specialisation to succeed.
+
+**Complexity:** ★★★☆☆
+
+| **Core Statistics** |                   |
+| :------------------ | ----------------- |
+| **HP**              | = 6               |
+| **EVASION**         | = 13 + your Level |
+| **HIT**             | = Your Level      |
+| **SPEED**           | = 5               |
+| **Save Target**     | = 10 + your Level |
+#### Tricks
 You learn 3 **Tricks** of your choice. Every odd level, you learn a new **Trick**. Additionally, each time you increase in Tier you may learn an additional **Trick**.
+#### Features
 ##### Elusive
 You gain **+1 Boon** to all **FINESSE**, **WIT**, and **PRESENCE** saves.
 ##### Specialisation

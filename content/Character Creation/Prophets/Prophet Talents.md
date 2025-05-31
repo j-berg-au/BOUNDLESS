@@ -1,5 +1,8 @@
 ## Combat Talents
 ### Tier I
+##### Amplified
+*Prerequisite: [[Virtuoso]]*  
+The Range on all your active **Emotions** increases by your Tier.
 ##### Blessing
 Each time you gain the Divine Effect from a Miracle, you gain 1 [[Keywords#Aegis|Aegis]].
 ##### Condemn
@@ -18,6 +21,9 @@ You an all allies within Range 3 gain **+1 Boon** on all saves.
 ### Tier II
 ##### Duality of Decay
 When you inflict [[Conditions & Statuses#Weak|WEAK]] onto a target, you also inflict [[Conditions & Statuses#Vulnerable|VULNERABLE]] of equal value for the same duration. When you inflict [[Conditions & Statuses#Vulnerable|VULNERABLE]] onto a target, you also inflict [[Conditions & Statuses#Weak|WEAK]] of equal value for the same duration.
+##### Genre Fusion
+*Prerequisite: [[Virtuoso]], Tier II*  
+You may have two **Emotions** active at a time, rather than one.
 ### Tier III
 ## Narrative Talents
 - Heal wounds, limited times per Quest (maybe instead of outright removing the wound, put progress towards the clock)
