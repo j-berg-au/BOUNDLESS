@@ -33,12 +33,17 @@ When an ally within Range 5 takes damage, you may use your Reaction to spend any
 *Prerequisite: [[Artisan]], Tier III*  
 You have finally perfected your favourite creation. Select a Trick that you know. When you use this Trick, it is automatically treated as a Critical Success.
 ## Narrative Talents
-- Clear someone's stress (Virtuoso)
 - Buffs to stealth/group stealth (Skirmisher)
 - Buffs to leading group checks
 - Pet
 ### Tier I
 ##### Adept's Pet
 You have a small pet that you bring with you on your adventures, providing moral support. You may increase your **Stress Cap** by 1.
+##### Delve Thoughts
+*Prerequisite: [[Psychic]]*
+You may spend **2 Stress** to gain the ability to read the surface thoughts of others for the rest of the scene. In this context, surface thoughts means only what a person is currently thinking about.
+##### Eye of Lies
+*Prerequisite: [[Psychic]]*
+You know when another in your presence knowingly tells a lie.
 ### Tier II
 ### Tier III

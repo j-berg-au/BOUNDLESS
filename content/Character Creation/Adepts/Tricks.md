@@ -51,7 +51,7 @@ You coat your weapon or ammunition in a poison. Make a *Basic Attack* against a 
 -----
 ##### Net
 *Minor Action*  
-You throw or launch a bola at a target in Range 5. Make an attack roll against the target. On a hit, they suffer an effect according to the success level of the Trick.
+You throw or launch a net at a target in Range 5. Make an attack roll against the target. On a hit, they suffer an effect according to the success level of the Trick.
 
 | **Success Level** | **Effect**                                                                                                                                                                                              |
 | :---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -9,7 +9,7 @@ aliases:
 - [[Spells]]
 - [[Mage Weapons]]
 ### Classes
-There are 3 Classes of **Mage**:
+There are 4 Classes of **Mage**:
 - **[[Conduit]]**, individuals whose very being is tied to an aspect of magic. Although they don’t have many spells at their disposal, they are unmatched within their domain.
 - **[[Invoker]]**, practitioners of esoteric spells that bargain for power.
 - **[[Maestro]]**, summoners who call otherworldly creatures to fight in their stead.

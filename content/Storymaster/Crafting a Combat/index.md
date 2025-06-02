@@ -28,5 +28,16 @@ aliases:
 ### Objectives
 
 ### Spicing Up the Battlefield
+- Traps
+- Events that modify the battlefield
+- Terrain
+- Cover (soft + hard)
+- Healing Towers for enemies that need to be taken out
+- Towers that spawn Minions that need to be taken out
+- Don't forget things the players can use *to their advantage*
 
 ### Boss Battles
+- Many turns per round
+- Summon minions
+- Multiple phases?
+- Unique mechanics

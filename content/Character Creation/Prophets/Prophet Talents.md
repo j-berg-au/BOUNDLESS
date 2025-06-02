@@ -27,6 +27,7 @@ You may have two **Emotions** active at a time, rather than one.
 ### Tier III
 ## Narrative Talents
 - Heal wounds, limited times per Quest (maybe instead of outright removing the wound, put progress towards the clock)
+- Clear someone's stress (Virtuoso)
 ### Tier I
 ### Tier II
 ### Tier III

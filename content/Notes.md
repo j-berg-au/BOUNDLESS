@@ -1,4 +1,8 @@
 ### To Do
+- Class Index pages
+- Give Savant an actual Feature
+- Build Psychic + Tricks
+- Rename Difficulty Points (DP is an unfortunate acronym, "Double Penetration")
 - Make Talents that interact with Stances, and maybe including new ones. Additional bonus when in certain stances? Additional ways to enter certain stances.
 	- When you use your *Basic Attack*, you enter Offensive Stance.
 	- When you Brace or use the Block move, you enter Defensive Stance.
@@ -6,8 +10,6 @@
 	- While in your Defensive Stance, you generate twice as much Adrenaline when you are targeted by an attack.
 	- Each time you enter your Defensive Stance, gain 1 Aegis.
 - Buff Blood Rage slightly (give extra small feature)
-- Mage Talent that grants a Vanguard Weapon
-- Skill cap increases with Tier, instead of being a Talent
 - Write Combat Section
 - Write GM Section
 	- Quest-Building
@@ -22,15 +24,26 @@
 		- Objectives
 		- Environmental Effects
 		- Boss Battles?
-	- Magic Items
+	- Equipment
+		- Bag
+			- Can claim any item (within reason). Can make certain rolls possible, grant a Boon on a check, or increase Reward on a check.
 		- Artefacts
-			- Recommend one Artefact per Player per Quest.
+			- Recommend one Artefact per Player per Quest. Almost always found as treasure, might be offered by a strange wandering merchant for coin.
 		- Consumables
+			- Bought during downtime, found by on Quests, or crafted.
 - Get rid of Folder Contents at end of Folder Page
 	- Delete the folderpage plugin thing from the config file?
 - Cooler Weapon Names
 - Equipment Packs
 - Narrative Talents
+	- Pack more stuff
+	- More consumables
+	- Each Type can make a kind of consumable
+		- V: Temporarily upgraded weapons.
+			- Sharpened: The first X times you deal damage with this weapon, it's increased by X
+		- A: Potions, Poisons, etc
+		- M: Imbue things with temporary magic
+		- P: Bless things. Make holy water. Make remedies.
 - More Combat Builds
 	- New Talents:
 		- Lycanthropy Talent Tree
@@ -38,21 +51,9 @@
 		- Vampire Talent Tree
 		- Adept Flow State
 		- Alternative uses of Priest's Favour.
+		- Mage Talent that grants a Vanguard Weapon
 		- Buff certain abilities when a target has a certain status
 			- If the target has persistent damage, deal additional damage equal to the persistent damage
-
-##### Equipment
-Have the players choose a "Pack" of narrative items your character has on them.
-
-For magic items (artefacts), each character has a few different "slots" for items. 
-- Amulet
-- 2 Rings (one for each hand)
-- Garments
-- Weapon
-
-More than one item per slot causes the magic to fight over you.
-
-Magic items come in Tiers, which correspond to the Tier of Play you would receive said item.
 ### Strategy
 Write a general strategy section helping players git gud
 - Make sure your Vanguard takes the hits, and support them as best you can in doing so.
@@ -72,13 +73,7 @@ Maybe add corresponding conditions to VULNERABLE and WEAK, RESITANT and STRENGTH
 
 Evolving weapons would be cool
 
-Maybe add a series of options for narrative items, similar to "Packs" in D&D. Don't use something like Kit Points though (or maybe do?)
-
 Steal Hooks & Afflictions from CAIN.
-### Damage Scaling
-Options:
-- TdX+T (e.g., 2d6+2), nTdX+T (e.g., (2 x 2)d6+2)
-- Simply write three versions of all weapons, one for each Tier
 ### Abilities
 More abilities that force saves
 Steal from Dragonback
@@ -190,30 +185,7 @@ Any **Spells** that create lingering Areas of Effect do not trigger this Talent.
 - Need to be careful with this one.
 **Prophet**
 - Better [[Your Turn#Set-Up|Set-Up]]
-### Future Classes
-Warlord/Tactician/???
-- **Vanguard**
-	- Cursed/Monster/Whatever
-	- Monk
-		- Unusually low Health, but high evasion. Pseudo-Adept. No armour? But maybe **Aegis**? (You collect yourself at the start of each of your turns, foreseeing their next strike, gaining **Aegis**.) 
-- **Adept**
-	- Psychic/Psion/Mystic/Whatever
-- **Mage**
-	- Summoner
-- **Prophet**
-	- Bard?
-### Weapons
-Vanguard
-
-Adept
-- Shortswords
-- Rapier
-
-Mage
-
-Prophet
 ### Other
-
 Do guns exist? Does just some artisans get them?
 
 Ranged attacks gain +1 Bane (or +2 Banes) when adjacent to an enemy

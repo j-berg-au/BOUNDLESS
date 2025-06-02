@@ -1,0 +1,2 @@
+- Point Crawls
+	- Don't plan everything in detail. Plan a rough idea, and plan when they start down a path. For example, don't put a combat immediately after a fork.

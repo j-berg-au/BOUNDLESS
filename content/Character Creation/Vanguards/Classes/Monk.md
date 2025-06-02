@@ -17,7 +17,7 @@ Monks utilise [[Keywords#Aegis|Aegis]] to tank damage and allow them to perform 
 You learn 3 **Moves** of your choice. At every odd Level, you learn an another **Move**. Additionally, each time you increase in Tier you learn another **Move**.
 #### Features
 ##### Exploit Opening
-Once per turn, when an enemy is within reach of your *Basic Attack* and attempts to move out of reach, you may spend a Reaction to immediately make a *Basic Attack* against them.
+Once per round, when an enemy is within reach of your *Basic Attack* and attempts to move out of reach, you may spend a Reaction to immediately make a *Basic Attack* against them.
 ##### Serenity
 At the start of each of your turns, if you don't have any [[Keywords#Aegis|Aegis]], you gain 1 [[Keywords#Aegis|Aegis]].
 ##### Counterattack

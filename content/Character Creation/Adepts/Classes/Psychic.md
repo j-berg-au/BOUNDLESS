@@ -18,6 +18,9 @@ You learn 3 **Tricks** of your choice. Every odd level, you learn a new **Trick*
 #### Features
 ##### Elusive
 You gain **+1 Boon** to all **FINESSE**, **WIT**, and **PRESENCE** saves.
-##### Feature 1
+##### Telepathy
+You can sense the intent of those trying to harm you. All attacks made against you gain **+1 Bane**.
+##### Telekinesis
 
-##### Feature 2
+
+- Needs free Tricks

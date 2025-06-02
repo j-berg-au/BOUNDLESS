@@ -34,6 +34,8 @@ When you fill your ***Bloodlust*** clock, your cravings take control. Choose one
 Regardless of your choice, the emotional trauma of losing control inflicts a **Scar**.
 
 Your ***Bloodlust*** clock is reset to 0 in between Quests.
+##### Deep Pockets
+You may select up to 5 items from your Bag, rather than 3, during a Quest. 
 ##### "I Won't Let You Down"
 You are driven to ensure you are seen as reliable. When another player spends **Stress** to help you on a **Skill Check** you are making, a result of a 2 or a 3 counts as a Partial Success.
 ### Tier II
