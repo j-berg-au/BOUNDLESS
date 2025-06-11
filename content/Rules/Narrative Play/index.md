@@ -36,7 +36,7 @@ Some example consequences, based on **Risk**, are listed below.
 
 | **Dangerous**                      | **Risky**                          | **Controlled**                     |
 | :--------------------------------- | ---------------------------------- | ---------------------------------- |
-| Take **2 Strain**                  | Take **1 Strain**                  | Take **1 Stress**                  |
+| Take **1 Strain**                  | Take **3 Stress**                  | Take **1 Stress**                  |
 | Tick a **Clock** by **4 Segments** | Tick a **Clock** by **2 Segments** | Tick a **Clock** by **1 Segment**  |
 | Introduce a **major complication** | Introduce a **complication**       | Introduce a **minor complication** |
 
@@ -45,8 +45,8 @@ On a **Partial Success**, you may also forego a consequence to allow the player 
 Instead of inflicting an immediate consequence, you may instead **Threaten** a more severe consequence. This gives the players a chance to deal with the threat, but could lead to something severe.
 
 When issuing a **Threat**, describe the situation to the players. The monster pins down a player and prepares a worrying attack, a bad guy goes to sound the alarm, etc. Then, give the players a chance to prevent this using a single **Skill Check**. This check has no Risk or Reward. On a success, the consequence is avoided. On a failure, choose a consequence from the examples above (or make your own), and make it **twice as bad**. For example:
-- Inflict **4 Strain** instead of 2 on a Dangerous roll.
-- Inflict **1 Strain to two different PCs** on a Risky roll.
+- Inflict **2 Strain** instead of 1 on a Dangerous roll.
+- Inflict **1 Strain to two different PCs** on a Dangerous roll.
 - Tick a **Clock** by twice as many segments.
 - Introduce a more severe complication.
 

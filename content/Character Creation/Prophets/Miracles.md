@@ -6,6 +6,7 @@
 *Minor Action*  
 **Standard Effect:**  
 You remove a condition on an ally within Range 5.  
+
 **Divine Effect:**  
 You remove two conditions or one condition and all [[Keywords#Persistent Damage|Persistent Damage]] on an ally within Range 5.
 
@@ -16,6 +17,7 @@ You remove two conditions or one condition and all [[Keywords#Persistent Damage|
 *Minor Action*  
 **Standard Effect:**  
 Choose a target within Range 8. They must make a **PRESENCE** save or gain [[Conditions & Statuses#WEAK|WEAK]] (value equal to Tier) and have their **EVASION** reduced by 1. They may repeat the save at the end of each of their turns to remove the effect.
+
 **Divine Effect:**  
 As Standard Effect, but the target also gains **+1 Bane** on all saves until the effect is removed.
 
@@ -25,6 +27,7 @@ As Standard Effect, but the target also gains **+1 Bane** on all saves until the
 *Minor Action*  
 **Standard Effect:**  
 Choose a target within Range 8. They must make a **MIGHT** save or be [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]] until the end of their next turn.  
+
 **Divine Effect:**  
 As Standard Effect, but the target is also [[Conditions & Statuses#STUNNED|STUNNED]] on a failed save.
 
@@ -35,6 +38,7 @@ As Standard Effect, but the target is also [[Conditions & Statuses#STUNNED|STUNN
 *Minor Action, Totem*  
 **Standard Effect:**  
 Choose an ally within Reach 1. They gain a bonus to their **SPEED** equal to your Tier. Only one ally can benefit from a Totem at a time.  
+
 **Divine Effect:**  
 As Standard Effect, but the target also gains a +2 bonus to their **EVASION**.
 
@@ -44,6 +48,7 @@ As Standard Effect, but the target also gains a +2 bonus to their **EVASION**.
 *Minor Action*  
 **Standard Effect:**  
 You grant an ally within Range 5 an amount of [[Keywords#Shield|Shield]] equal to twice your Level.  
+
 **Divine Effect:**  
 You grant an ally within Range 5 an amount of [[Keywords#Shield|Shield]] equal to four times your Level.
 
@@ -54,6 +59,7 @@ You grant an ally within Range 5 an amount of [[Keywords#Shield|Shield]] equal t
 *Minor Action*  
 **Standard Effect:**  
 You grant an ally within Range 8 **+2 Boons** on their next attack roll or save before the end of their next turn.  
+
 **Divine Effect:**  
 You grant an ally within Range 8 **+2 Boons** on their next attack roll or save before the end of their next turn. Additionally, they may roll the d20 twice, selecting either die to use when calculating their result.
 
@@ -64,6 +70,7 @@ You grant an ally within Range 8 **+2 Boons** on their next attack roll or save 
 *Reaction*  
 **Standard Effect:**  
 None.  
+
 **Divine Effect:**  
 You take this Reaction when a character within Range 8 rolls a d20.  
 
@@ -94,6 +101,7 @@ As Standard Effect, but you learn all the options presented, instead of choosing
 *Minor Action*  
 **Standard Effect:**  
 You bless a [[Conditions & Statuses#DEFEATED|DEFEATED]] ally within Range 5. They regain 1 HP and clear the [[Conditions & Statuses#DEFEATED|DEFEATED]] status.  
+
 **Divine Effect:**  
 You bless a [[Conditions & Statuses#DEFEATED|DEFEATED]] ally within Range 5. They regain all HP and clear the [[Conditions & Statuses#DEFEATED|DEFEATED]] status.
 
@@ -114,6 +122,7 @@ As Standard Effect, but the Circle grows to size 2.
 *Minor Action*  
 **Standard Effect:**  
 You begin a dance that makes you incredibly difficult to hit. Until the end of your next turn, any attacks made against you gain **+2 Banes**.
+
 **Divine Effect:**  
 As Standard Effect, but you also gain 1 [[Keywords#Aegis|Aegis]].
 
@@ -124,6 +133,7 @@ As Standard Effect, but you also gain 1 [[Keywords#Aegis|Aegis]].
 *Minor Action, Totem*  
 **Standard Effect:**  
 Choose an ally within Reach 1. They grow one size larger, and their attacks deal additional damage equal to your Tier. Only one ally can benefit from a Totem at a time.  
+
 **Divine Effect:**  
 As Standard Effect, but the target also gains [[Keywords#Shield|Shield]] equal to your Level.
 

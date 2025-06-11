@@ -32,7 +32,7 @@ When you are reduced to 0HP, flip a coin and call it. If you guess correctly, yo
 *Prerequisite: [[Vanguard Talents#Dancing Weapon|Dancing Weapon]]*
 You may use **Moves** as if you were in your Dancing Weapon's space.
 ##### Read the Battle
-You have a knack for learning the attack patterns of your foes. Each time you are hit by an attack from an enemy, your **EVASION** increases by 1. At the end of the combat, your **EVASION** returns to its usual value.
+You have a knack for learning the attack patterns of your foes. Once per round when you are hit by an attack from an enemy, your **EVASION** increases by 1. At the end of the combat, your **EVASION** returns to its usual value.
 ##### Sanguine Thirst
 *Prerequisite: [[Generic Talents#Curse of Vampirism|Curse of Vampirism]]*
 When you hit with your *Basic Attack*, excluding when part of a **Move**, you regain HP equal to your Tier. The target must have blood for this effect to trigger.

@@ -24,3 +24,5 @@ You can sense the intent of those trying to harm you. All attacks made against y
 
 
 - Needs free Tricks
+- Can spend HP as FP?? Limit this tho. Maybe 2HP=1FP
+- Puppet Trick that forces movement

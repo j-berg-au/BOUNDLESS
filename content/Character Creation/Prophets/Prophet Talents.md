@@ -26,8 +26,16 @@ When you inflict [[Conditions & Statuses#Weak|WEAK]] onto a target, you also inf
 You may have two **Emotions** active at a time, rather than one.
 ### Tier III
 ## Narrative Talents
-- Heal wounds, limited times per Quest (maybe instead of outright removing the wound, put progress towards the clock)
-- Clear someone's stress (Virtuoso)
+- Heal Strain
+- Progress towards healing Scars
+- Clear someone's stress
+- Trustworthy. As a Priest, people tend to trust your word. You gain +1 Boon on CERTAIN ROLLS?
+##### Beastspeak
+*Prerequisite: [[Druid]]*
+- Spend Stress to speak with animals
+##### Greenspeak
+*Prerequisite: [[Druid]]*
+- Spend Stress to speak with plants
 ### Tier I
 ### Tier II
 ### Tier III

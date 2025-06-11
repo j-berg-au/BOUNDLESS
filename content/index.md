@@ -28,6 +28,8 @@ Here's a list of games and media that has inspired ***BOUNDLESS*** in both theme
 **Movies:**
 
 **Shows:**
+- *Arcane*
+- *Castlevania*
 
 **TTRPGs:**
 - *[ICON](https://massif-press.itch.io/icon)* by Tom Bloom

@@ -1,14 +1,23 @@
 ### To Do
 - Class Index pages
+- Something effected by the round number (on even rounds, you gain X. on odd rounds, X)
+- Should each class grant a Narrative Ability?
+	- Probably, but when you do reduce initial Narrative Talents to 1
+	- Maybe give a free Narrative Talent?
+	- Yeah do that
+- Tweak Stress/Strain amounts (increase Stress, decrease Strain?)
 - Give Savant an actual Feature
+	- Either Grimoire themed or Arcane Theorem themed
 - Build Psychic + Tricks
+	- Use HP as FP
+- Rename Maestro
+	- Riftcaller
 - Rename Difficulty Points (DP is an unfortunate acronym, "Double Penetration")
 - Make Talents that interact with Stances, and maybe including new ones. Additional bonus when in certain stances? Additional ways to enter certain stances.
 	- When you use your *Basic Attack*, you enter Offensive Stance.
 	- When you Brace or use the Block move, you enter Defensive Stance.
 	- While in your Offensive Stance, your *Basic Attack* generates twice as much Adrenaline on a hit.
 	- While in your Defensive Stance, you generate twice as much Adrenaline when you are targeted by an attack.
-	- Each time you enter your Defensive Stance, gain 1 Aegis.
 - Buff Blood Rage slightly (give extra small feature)
 - Write Combat Section
 - Write GM Section
@@ -16,11 +25,14 @@
 	- Combat-Building
 		- Balancing Combats
 		- Foe Templates
+			- Enemy that deals 1 "True" Persistent Damage (cannot be reduced or ignored in any way, other than through usual Persistent Damage save)
+			- Have Templates for Generic Enemies, then also "Specific" Enemy stat blocks
 		- Foe Amplifiers
 			- Weakspots
 				- Enemy "Weakspots" are certain numbers you want to hit on your attack roll. For example, an enemy might have a weakspot on 17. To hit it, you must roll exactly a 17 on your attack roll, dealing double damage and destroying the weak spot. 
 				- Maybe, at the cost of 1 Bane, the players can move their result one up or down to attempt to hit the Weakspot
-				- Maybe instead of double damage, simply bonus flat damage
+				- Maybe instead of double damage, simply bonus flat damage. Make it substantial, to make it worth the effort of finding it.
+				- Storymaster starts by explaining the mechanics and giving a range (maybe 10?) of where the weakspot might be. 
 		- Objectives
 		- Environmental Effects
 		- Boss Battles?
@@ -36,8 +48,12 @@
 - Cooler Weapon Names
 - Equipment Packs
 - Narrative Talents
-	- Pack more stuff
 	- More consumables
+	- Change appearance at will (changeling)
+	- Fey bs?
+	- Tiefling
+	- Aasimar
+	- Telepathy for Psychic
 	- Each Type can make a kind of consumable
 		- V: Temporarily upgraded weapons.
 			- Sharpened: The first X times you deal damage with this weapon, it's increased by X
@@ -52,6 +68,7 @@
 		- Adept Flow State
 		- Alternative uses of Priest's Favour.
 		- Mage Talent that grants a Vanguard Weapon
+		- Tier II Mage Talent that takes a spell that costs X mana or lower and makes it free
 		- Buff certain abilities when a target has a certain status
 			- If the target has persistent damage, deal additional damage equal to the persistent damage
 ### Strategy

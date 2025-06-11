@@ -1,5 +1,5 @@
 **Description**  
-Scholars of magic, **Savants** dedicate their lives to understanding the aether. 
+Scholars of magic, **Savants** dedicate their lives to understanding and manipulating the aether. They are lifelong learners with a drive to understand the world around them.
 
 **Playstyle**  
 Savants boast the widest selection of Spells of any Mage, granting them a level of flexibility otherwise unattainable. 

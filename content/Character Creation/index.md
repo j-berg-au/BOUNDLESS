@@ -81,7 +81,7 @@ To quickly build a Level 1 character, you will need to:
 - Choose a **Hero Type**, noting it's mechanics.
 - Choose a **Class**, noting it's Core Statistics and Features.
 - Choose a **Weapon** and an **Equipment Pack**.
-- Choose 2 **Combat Talents** and 1 **Narrative Talent**.
+- Choose 2 **Combat Talents** and 2 **Narrative Talents**.
 - Choose your **Moves**, **Tricks**, **Spells**, or **Miracles**.
 - Set two of your **Skills** to 2, and three to 1. Then, calculate your **Saves**.
 - Calculate your other **Statistics**.
@@ -98,15 +98,15 @@ A summary of each Level can be found in the Table below.
 
 | **Level** | **Tier** | **Skill Points** | **Combat Talents** | **Narrative Talents** |
 | :-------: | :------: | :--------------: | :----------------: | :-------------------: |
-|     1     |    I     |        7         |         2          |           1           |
-|     2     |    I     |        8         |         3          |           1           |
-|     3     |    I     |        9         |         4          |           2           |
-|     4     |    I     |        10        |         5          |           2           |
-|     5     |    II    |        11        |         6          |           3           |
-|     6     |    II    |        12        |         7          |           3           |
-|     7     |    II    |        13        |         8          |           4           |
-|     8     |    II    |        14        |         9          |           4           |
-|     9     |   III    |        15        |         10         |           5           |
-|    10     |   III    |        16        |         11         |           5           |
-|    11     |   III    |        17        |         12         |           6           |
-|    12     |   III    |        18        |         13         |           6           |
+|     1     |    I     |        7         |         2          |           2           |
+|     2     |    I     |        8         |         3          |           2           |
+|     3     |    I     |        9         |         4          |           3           |
+|     4     |    I     |        10        |         5          |           3           |
+|     5     |    II    |        11        |         6          |           4           |
+|     6     |    II    |        12        |         7          |           4           |
+|     7     |    II    |        13        |         8          |           5           |
+|     8     |    II    |        14        |         9          |           5           |
+|     9     |   III    |        15        |         10         |           6           |
+|    10     |   III    |        16        |         11         |           6           |
+|    11     |   III    |        17        |         12         |           7           |
+|    12     |   III    |        18        |         13         |           7           |
