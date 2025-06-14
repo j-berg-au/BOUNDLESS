@@ -7,6 +7,9 @@ Once per combat, you may foresee the outcome of a **Trick** before committing to
 As a Minor Action, you may inflict the [[Conditions & Statuses#Marked|MARKED]] condition on a target within Range 8.
 ##### Careful Aim
 At the beginning of your turn, you can hold steady to line up your shots. Until the start of your next turn you are [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]] and gain **+1 Boon** on all attack rolls.
+##### Combat Telepathy
+*Prerequisite: [[Psychic]]*
+You can sense the intent of those trying to harm you. All attacks made against you gain **+1 Bane**.
 ##### Engineer
 When using a **Trick** with the Gadget tag, you can roll an additional d6 when determining the success level of the **Trick**.
 ##### Hipfire
@@ -45,5 +48,8 @@ You may spend **2 Stress** to gain the ability to read the surface thoughts of o
 ##### Eye of Lies
 *Prerequisite: [[Psychic]]*
 You know when another in your presence knowingly tells a lie.
+##### Telepathy
+*Prerequisite: [[Psychic]]*
+You can speak directly into the minds of creatures you can see. They may choose to reply to you in a similar fashion should you do so.
 ### Tier II
 ### Tier III

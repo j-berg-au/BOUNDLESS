@@ -1,8 +1,8 @@
 **Description**  
-Mages who bind other creatures to serve them are called **Maestros**. These creatures could be undead, animals, spirits, or any other kind of creature.
+Mages who bind other creatures to serve them, calling the through rifts in the Aether, are known as **Riftcallers**. These creatures could be undead, animals, spirits, elementals, or any other kind of creature.
 
 **Playstyle**  
-A Maestro summons creatures to fight alongside them, distracting enemies, and taking hits. A good Maestro will always have a Minion beside them, ready to take a hit for their master.
+A Riftcaller summons creatures to fight alongside them, distracting enemies, and taking hits. A good Riftcaller will always have a Minion beside them, ready to take a hit for their master.
 
 **Complexity:** ★★★★★
 

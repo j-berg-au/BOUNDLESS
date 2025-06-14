@@ -30,12 +30,12 @@ You may have two **Emotions** active at a time, rather than one.
 - Progress towards healing Scars
 - Clear someone's stress
 - Trustworthy. As a Priest, people tend to trust your word. You gain +1 Boon on CERTAIN ROLLS?
+### Tier I
 ##### Beastspeak
 *Prerequisite: [[Druid]]*
-- Spend Stress to speak with animals
+- Spend 2 Stress to speak with animals
 ##### Greenspeak
 *Prerequisite: [[Druid]]*
-- Spend Stress to speak with plants
-### Tier I
+- Spend 2 Stress to speak with plants
 ### Tier II
 ### Tier III

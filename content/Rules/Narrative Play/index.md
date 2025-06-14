@@ -84,3 +84,10 @@ To perform a group check, nominate a leader. Then, everyone rolls an appropriate
 However, for each player that would have failed the check, the leader takes **1 Stress**.
 ## Clocks
 
+## Equipment
+### Artefacts
+
+### Bag
+
+### Consumable
+

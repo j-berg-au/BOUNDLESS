@@ -16,6 +16,6 @@ Savants boast the widest selection of Spells of any Mage, granting them a level 
 #### Spells
 You learn 5 **Spells** of your choice. Each time you gain a Level, you learn another **Spell**. Additionally, each time you increase in Tier, you learn an additional **Spell**.
 #### Features
-##### Studious
+##### Well-Learned
 You gain one **Combat Talent** of your choice. This Combat Talent doesn't count towards the number of **Combat Talents** you have.
 

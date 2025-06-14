@@ -97,6 +97,19 @@ You reach into your pocket and throw sand towards the eyes of a target within Ra
 | Failure           | The target is unaffected.                                                                       |
 
 -----
+##### Puppetmaster
+*Prerequisite: [[Psychic]]*  
+*Minor Action*  
+You reach into the mind of a character within Range 5, forcing them to move. The target must succeed on a **PRESENCE** save or suffer an effect as below.
+
+| **Success Level** | **Effect**                                                            |
+| :---------------- | --------------------------------------------------------------------- |
+| Critical Success  | As success, but you may target two characters, rather than one.       |
+| Success           | The target moves up to their **SPEED** in a direction of your choice. |
+| Partial Success   | The target moves up to their **SPEED** in a direction of your choice. |
+| Failure           | The target moves 1 space in a direction of your choice.               |
+
+-----
 ##### Ricochet
 *Prerequisite: Ranged Weapon*  
 *Major Action*  

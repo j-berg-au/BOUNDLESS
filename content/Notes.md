@@ -1,17 +1,18 @@
 ### To Do
-- Class Index pages
-- Something effected by the round number (on even rounds, you gain X. on odd rounds, X)
+- Psychic
+	- Write description/playstyle
+	- Write more tricks
+		- Forced movement/knockback
+		- Psychic damage
+		- Make more vulnerable to WIT/PRESENCE saves
+	- Write narrative talents
 - Should each class grant a Narrative Ability?
 	- Probably, but when you do reduce initial Narrative Talents to 1
 	- Maybe give a free Narrative Talent?
 	- Yeah do that
-- Tweak Stress/Strain amounts (increase Stress, decrease Strain?)
+	- Maybe nah, just give 2 Narrative Talents. Allows choice
 - Give Savant an actual Feature
 	- Either Grimoire themed or Arcane Theorem themed
-- Build Psychic + Tricks
-	- Use HP as FP
-- Rename Maestro
-	- Riftcaller
 - Rename Difficulty Points (DP is an unfortunate acronym, "Double Penetration")
 - Make Talents that interact with Stances, and maybe including new ones. Additional bonus when in certain stances? Additional ways to enter certain stances.
 	- When you use your *Basic Attack*, you enter Offensive Stance.
@@ -35,25 +36,28 @@
 				- Storymaster starts by explaining the mechanics and giving a range (maybe 10?) of where the weakspot might be. 
 		- Objectives
 		- Environmental Effects
+			- Ambush. Enemies go first
 		- Boss Battles?
 	- Equipment
 		- Bag
 			- Can claim any item (within reason). Can make certain rolls possible, grant a Boon on a check, or increase Reward on a check.
 		- Artefacts
 			- Recommend one Artefact per Player per Quest. Almost always found as treasure, might be offered by a strange wandering merchant for coin.
+			- Weapon that make you invisible on hit
+			- Artefacts modify stats, maybe instead of those Talents?
 		- Consumables
 			- Bought during downtime, found by on Quests, or crafted.
 - Get rid of Folder Contents at end of Folder Page
 	- Delete the folderpage plugin thing from the config file?
 - Cooler Weapon Names
-- Equipment Packs
+- Crafting System (clocks, downtime actions, travel actions??? Maybe just downtime actions for now)
 - Narrative Talents
 	- More consumables
-	- Change appearance at will (changeling)
-	- Fey bs?
 	- Tiefling
+	- Telekinesis for Psychic/Mage
 	- Aasimar
-	- Telepathy for Psychic
+	- Reputation where you can once per session say "I know a guy" or have someone recognise you. (would that get annoying?)
+	- Artisan talent to be best crafter
 	- Each Type can make a kind of consumable
 		- V: Temporarily upgraded weapons.
 			- Sharpened: The first X times you deal damage with this weapon, it's increased by X
@@ -78,24 +82,20 @@ Write a general strategy section helping players git gud
 - As a Mage, always keep Mana spare to block damage.
 - Adepts & Mages who aren't being targeted become much more effective.
 ### General
-MIGHT save is too common, try to balance out saves.
-
-Maybe encourage hands-on resource management. Tokens for Adrenaline, Focus Points, Mana, etc.
-
-Maybe add a Prone status
-
-Maybe add a talent that allows your persistent damage to interact with VULNERABLE?
-
-Maybe add corresponding conditions to VULNERABLE and WEAK, RESITANT and STRENGTH perhaps?
-
-Evolving weapons would be cool
-
-Steal Hooks & Afflictions from CAIN.
+- Something effected by the round number (on even rounds, you gain X. on odd rounds, X)
+- MIGHT save is too common, try to balance out saves.
+- Maybe encourage hands-on resource management. Tokens for Adrenaline, Focus Points, Mana, etc.
+- Maybe add a Prone status
+- Maybe add a talent that allows your persistent damage to interact with VULNERABLE?
+- Maybe add corresponding conditions to VULNERABLE and WEAK, RESITANT and STRENGTH perhaps?
+- Evolving weapons would be cool
+- Steal Hooks & Afflictions from CAIN.
 ### Abilities
 More abilities that force saves
 Steal from Dragonback
 Steal from 5e
 Steal from PF2e
+Steal from Magnagothica Maleghast
 **Moves**
 - Hook someone and pull them closer (Blackbeard from LANCER)
 - Save vs Fear?
