@@ -1,7 +1,6 @@
 ---
-title: Foes
-aliases:
-  - Foes
+title: Crafting a Combat
+aliases: []
 ---
 ### Balancing Combats
 
