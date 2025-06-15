@@ -8,7 +8,7 @@ Your **Save Target** is increased by 1.
 Your **Crit Threshold** is reduced by 1.
 ##### Reliability
 Your **HIT** is increased by 1.
-##### Resistance
+##### Resilient
 When you are reduced to 0HP and become [[Conditions & Statuses#Defeated|DEFEATED]], you gain **2 Strain** in place of a **Scar**.
 ##### Swift
 Increase your **SPEED** by your Tier.

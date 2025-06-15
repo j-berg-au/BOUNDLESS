@@ -1,11 +1,32 @@
 ## Combat Talents
 ### Tier I
+-----
+#### General
+##### Further Training
+You learn two additional **Moves** of your choice.
+##### Iron-Willed
+When you are reduced to 0HP, flip a coin and call it. If you guess correctly, you fall to 1HP instead.
+##### Read the Battle
+You have a knack for learning the attack patterns of your foes. Once per round when you are hit by an attack from an enemy, your **EVASION** increases by 1. At the end of the combat, your **EVASION** returns to its usual value.
+##### Sanguine Thirst
+*Prerequisite: [[Generic Talents#Curse of Vampirism|Curse of Vampirism]]*  
+When you hit with your *Basic Attack*, excluding when part of a **Move**, you regain HP equal to your Tier. The target must have blood for this effect to trigger.
+##### Shield
+All attacks made against allies adjacent to you are made with **+1 Bane**.
+##### S#!t Talker
+You may **TAUNT** once per turn as a Free Action.
+##### To Action!
+At the beginning of combat, you may move up to your **SPEED** before anyone takes a turn.
+##### Unnatural Force
+When you take the Shove action, you are able to knock back the target up to 3 spaces.
+##### Versatile Training
+You may take an additional weapon into battle. At the start of each of your turns, you may decide which of the weapons to wield until the start of your next turn.
+#### Critical Hits
 ##### Blood Rage
 While your HP is less than half of its maximum, your **Crit Threshold** is reduced by 1.
-##### Chainmaster
-You carry a chain that you may use to grapple others. You may Grapple a target within Range 3, instead of Reach 1.
-##### Crushing Grip
-When a character ends their turn while grappled by you, they take damage equal to your Tier.
+##### Fury-Fuelled
+When you score a **Critical Hit**, you gain **2 Adrenaline**.
+#### Dancing Weapon
 ##### Dancing Weapon
 *Prerequisite: [[Vanguard Talents#Versatile Training|Versatile Training]]*  
 You learn to telekinetically control your weapon, allowing it to attack all on its own. 
@@ -17,38 +38,22 @@ Until you recall the weapon as a Free Action, you are able to make a *Basic Atta
 On each of your turns you may move it again, up to 3 spaces. It must always remain at most 10 spaces away from you, otherwise it drops to the ground and requires another Minor Action when within 10 spaces to regain control.
 
 You cannot take Reactions from the weapon's space, and the weapon cannot use any **Moves**.
+##### Independent Weapon
+*Prerequisite: [[Vanguard Talents#Dancing Weapon|Dancing Weapon]]*  
+Once per turn, you may spend **1 Adrenaline** to make a *Basic Attack* using your Dancing Weapon as a Free Action.
+##### Practiced Weapon
+*Prerequisite: [[Vanguard Talents#Dancing Weapon|Dancing Weapon]]*  
+You may use **Moves** as if you were in your Dancing Weapon's space.
+##### Sentinel Weapon
+*Prerequisite: [[Vanguard Talents#Dancing Weapon|Dancing Weapon]]*  
+Once per round, when an enemy is within reach of your *Basic Attack* from your Dancing Weapon's space and attempts to move out of reach, you may spend a Reaction to immediately make a *Basic Attack* against them.
+#### Grappling
+##### Chainmaster
+You carry a chain that you may use to grapple others. You may Grapple a target within Range 3, instead of Reach 1.
+##### Crushing Grip
+When a character ends their turn while grappled by you, they take damage equal to your Tier.
 ##### Formidable
 You count as one size larger for grapples. Additionally, you gain **+1 Boon** on attack rolls against a target you are grappling.
-##### Further Training
-You learn two additional **Moves** of your choice.
-##### Fury-Fuelled
-When you score a **Critical Hit**, you gain **2 Adrenaline**.
-##### Independent Weapon
-*Prerequisite: [[Vanguard Talents#Dancing Weapon|Dancing Weapon]]*
-Once per turn, you may spend **1 Adrenaline** to make a *Basic Attack* using your Dancing Weapon as a Free Action.
-##### Iron-Willed
-When you are reduced to 0HP, flip a coin and call it. If you guess correctly, you fall to 1HP instead.
-##### Practiced Weapon
-*Prerequisite: [[Vanguard Talents#Dancing Weapon|Dancing Weapon]]*
-You may use **Moves** as if you were in your Dancing Weapon's space.
-##### Read the Battle
-You have a knack for learning the attack patterns of your foes. Once per round when you are hit by an attack from an enemy, your **EVASION** increases by 1. At the end of the combat, your **EVASION** returns to its usual value.
-##### Sanguine Thirst
-*Prerequisite: [[Generic Talents#Curse of Vampirism|Curse of Vampirism]]*
-When you hit with your *Basic Attack*, excluding when part of a **Move**, you regain HP equal to your Tier. The target must have blood for this effect to trigger.
-##### Sentinel Weapon
-*Prerequisite: [[Vanguard Talents#Dancing Weapon|Dancing Weapon]]*
-Once per round, when an enemy is within reach of your *Basic Attack* from your Dancing Weapon's space and attempts to move out of reach, you may spend a Reaction to immediately make a *Basic Attack* against them.
-##### Shield
-All attacks made against allies adjacent to you are made with **+1 Bane**.
-##### S#!t Talker
-You may **TAUNT** once per turn as a Free Action.
-##### To Action!
-At the beginning of combat, you may move up to your **SPEED** before anyone takes a turn.
-##### Unnatural Force
-When you take the Shove action, you are able to knock back the target up to 3 spaces.
-##### Versatile Training
-You may take an additional weapon into battle. At the start of each of your turns, you may decide which of the weapons to wield until the start of your next turn.
 ### Tier II
 ### Tier III
 

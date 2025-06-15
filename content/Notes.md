@@ -1,4 +1,9 @@
 ### To Do
+- Sort Talents into groups (for easier finding)
+- Riftcaller
+	- More summons spells (available to all Mages?)
+	- Can use body block on all summons
+	- Something like spiritual weapon?
 - Psychic
 	- Write description/playstyle
 	- Write more tricks
@@ -13,6 +18,8 @@
 	- Maybe nah, just give 2 Narrative Talents. Allows choice
 - Give Savant an actual Feature
 	- Either Grimoire themed or Arcane Theorem themed
+	- Spend Stress to swap out a spell?
+		- Idk about this. Having access to the entire mage spell list is wild. Could limit it to a spellbook, but that complicates things. 
 - Rename Difficulty Points (DP is an unfortunate acronym, "Double Penetration")
 - Make Talents that interact with Stances, and maybe including new ones. Additional bonus when in certain stances? Additional ways to enter certain stances.
 	- When you use your *Basic Attack*, you enter Offensive Stance.
@@ -100,6 +107,7 @@ Steal from Magnagothica Maleghast
 - Hook someone and pull them closer (Blackbeard from LANCER)
 - Save vs Fear?
 - Steel wind strike
+- Parry (reduce damage then basic attack)
 - Throw someone at someone else
 - Heal on hit
 - When an attack misses you or you reduce the damage to 0, you may counter-attack as a reaction
@@ -211,79 +219,61 @@ Minor Action to maintain effects?
 
 Enemy thing that lets you do 1 damage regardless of hit, miss, blocks, etc. 1 True Damage.
 ### Fantasies to Cover
-**Vanguard**
-- Berserker
-	- Angy
-	- Primal
-- Exemplar
-	- Spellblade
-- Knight
-	- Paladin
-**Adept**
-- Artisan
-	- Tinkerer
-	- Artist
-	- Alchemist
-		- Poisons
-- Skirmisher
-	- Rogue
-	- Ranger
-		- Pet
-- Virtuoso
-	- Bard
-	- Scholar
-**Mage**
-- Conduit
-	- All elemental mages
-		- Fire
-		- Water/Ice
-		- Earth
-		- Air
-		- Lightning (combined with air?)
-- Invoker
-	- Negotiate contracts for power
-	- Witch
-	- Illusions
-- Savant
-	- Chronomancer
-	- Illusions
-**Prophet**
-- Druid
-	- Pet (Talent)
-	- Summon animals/spirits?
-- Priest
-- Seer
-### Class Inspirations
-**Vanguard**
-- Berserker
-	- Vi (Arcane)
-- Exemplar
-	- Alucard (Castlevania)
-	- Stark (Frieren)
-- Knight
-
-**Adept**
-- Artisan
-	- Alchemist
-	- Artist
-	- Tinkerer
-		- Jinx (Arcane)
-- Skirmisher
-- Virtuoso
-	- Himmel (Frieren)
-
-**Mage**
-- Conduit
-	- Sypha Belnades (Castlevania)
-- Invoker
-	- Alchemists from Fullmetal Alchemist
-	- Devil Hunters (Chainsaw Man)
-		- DO SOMETHING LIKE SUMMONING FOX DEVIL
-- Savant
-	- Fern, Frieren (Frieren)
-
-**Prophet**
-- Druid
-- Priest
-	- Heiter (Frieren)
-- Seer
+- **Vanguard**
+	- Berserker
+		- Angy
+		- Primal
+		- Elemental
+		- Ancestral
+	- Exemplar
+		- Spellblade
+	- Knight
+		- Paladin
+		- Spellblade
+		- Mount
+	- Monk
+		- Ninja
+- **Adept**
+	- Artisan
+		- Forge
+		- Tinkerer
+			- Armour
+			- Build robots to fight for you
+			- Upgrade self
+		- Alchemist
+			- Poisons
+	- Psychic
+		- Telepathy
+		- Telekinesis
+		- See all
+		- See future (but not Seer)
+	- Shadow
+		- Rogue
+		- Ranger
+			- Pet
+	- Tactician
+- **Mage**
+	- Conduit
+		- Elemental
+	- Invoker
+		- Witch
+		- Illusions
+		- Occult
+	- Riftcaller
+		- Necromancer
+		- Shaman
+	- Savant
+		- Chronomancer
+		- Illusions
+- **Prophet**
+	- Druid
+		- Pets
+		- Turn into animals
+		- Summon animals/spirits?
+	- Priest
+	- Seer
+	- Virtuoso
+		- Dance
+		- Paint
+		- Music
+		- Orator

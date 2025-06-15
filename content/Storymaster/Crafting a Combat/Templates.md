@@ -1,11 +1,13 @@
 -----
 ### Minion
 
-| **Core Statistics** |             |
-| :-----------------: | :---------: |
-|         HP          |      1      |
-|       EVASION       | = 5 + Level |
-|        SPEED        |      4      |
+| **Core Statistics** |              |
+| :-----------------: | :----------: |
+|         HP          |      1       |
+|         HIT         | = -2 + Level |
+|       EVASION       | = 5 + Level  |
+|        SPEED        |      4       |
+|     Save Target     | = 5 + Level  |
 ##### Coordination
 Two **Minions** can take their turn at the same time.
 ##### Clumsy
