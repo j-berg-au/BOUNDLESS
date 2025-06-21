@@ -1,4 +1,6 @@
 ### To Do
+- Stat increases only from artefacts, or as rider effects to smaller talents
+- Exploding minion amplifier
 - Sort Talents into groups (for easier finding)
 - Riftcaller
 	- More summons spells (available to all Mages?)
@@ -35,6 +37,7 @@
 		- Foe Templates
 			- Enemy that deals 1 "True" Persistent Damage (cannot be reduced or ignored in any way, other than through usual Persistent Damage save)
 			- Have Templates for Generic Enemies, then also "Specific" Enemy stat blocks
+			- Sentinels with exploit opening
 		- Foe Amplifiers
 			- Weakspots
 				- Enemy "Weakspots" are certain numbers you want to hit on your attack roll. For example, an enemy might have a weakspot on 17. To hit it, you must roll exactly a 17 on your attack roll, dealing double damage and destroying the weak spot. 
@@ -42,6 +45,11 @@
 				- Maybe instead of double damage, simply bonus flat damage. Make it substantial, to make it worth the effort of finding it.
 				- Storymaster starts by explaining the mechanics and giving a range (maybe 10?) of where the weakspot might be. 
 		- Objectives
+			- Get to a specific zone before a timer
+			- Defeat all foes
+			- Escort
+			- Control an area
+			- Steal from Lancer + Advanced
 		- Environmental Effects
 			- Ambush. Enemies go first
 		- Boss Battles?

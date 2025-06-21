@@ -20,7 +20,7 @@ Once your ready, feel free to explore the different aspects of the game at your 
 - [[Character Creation/index|Character Creation]]
 - [[Storymaster/index|Storymaster]]
 #### Inspirations
-Here's a list of games and media that has inspired ***BOUNDLESS*** in both theme and mechanics. Be sure to check them out!
+Here's a list of games and media that has inspired us during our creation of ***BOUNDLESS***. Be sure to check them out!
 
 **Anime:**
 - *Sousou no Frieren* (*Frieren: Beyond Journey's End*)
@@ -37,7 +37,10 @@ Here's a list of games and media that has inspired ***BOUNDLESS*** in both theme
 - *[Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel)* by John Harper
 
 **Video Games:**
+- *Baldur's Gate 3* by Larian Studios
 - *Clair Obscur: Expedition 33* by Sandfall Interactive
+- *Hades* by 
+- *V Rising* by Stunlock Studios
 #### Credits
 EMRYS - He/They
 Game Design, Writing

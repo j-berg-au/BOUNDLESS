@@ -19,7 +19,16 @@ Any Minor Actions a **Minion** takes counts as taking a Major Action.
 The **Minion** deals **Td4** damage to a character within Range 5.
 
 -----
-### Brute
+### Sentinel
+| **Core Statistics** |             |
+| :-----------------: | ----------- |
+|         HP          | = 35        |
+|         HIT         | = Level     |
+|       EVASION       | = 6 + Level |
+|        SPEED        | = 3         |
+|     Save Target     | = 8 + Level |
+##### Exploit Opening
+Once per round, when an enemy is within reach of your *Basic Attack* and attempts to move out of reach, you may spend a Reaction to immediately make a *Basic Attack* against them.
 
 ---
 ### Spellcaster
@@ -34,7 +43,7 @@ The **Minion** deals **Td4** damage to a character within Range 5.
 ##### Frail
 Any damage a **Spellcaster** takes from a melee attack is doubled.
 ##### Spells
-A **Spellcaster** may cast Spells they know, using **HP** in place of **Spellcaster**. A **Spellcaster** cannot reduce themselves to 0HP this way.
+A **Spellcaster** may cast Spells they know, using **HP** in place of **Mana**. A **Spellcaster** cannot reduce themselves to 0HP this way.
 
 When creating a **Spellcaster**, select three [[Spells]] they know. 
 
