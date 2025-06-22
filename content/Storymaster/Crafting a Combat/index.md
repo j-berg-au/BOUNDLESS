@@ -23,7 +23,7 @@ aliases: []
 
 ### Choosing your Foes
 - Choose Foes from [[Templates]]
-- Modify your Foes with [[Amplifiers]]
+- Modify your Foes with [[Generic Amplifiers]]
 ### Objectives
 
 ### Spicing Up the Battlefield
