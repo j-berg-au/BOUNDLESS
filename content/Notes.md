@@ -1,4 +1,22 @@
 ### To Do
+- Enemies
+	- The Witch of Death
+		- Make her a Boss
+		- Mortum Esoterica: 
+			- Curse a PC within range. In X turns/rounds, they die unless BLANK.
+			- At the end of Round 3, the Witch of Death uses her Mortum Esoterica. She places a curse on each of the PCs, summoning a pillar of death for each of them. If they are unable to destroy their corresponding Pillar by the end of Round 6, they die.
+		- Voodoo Doll
+	- Sentinel who holds down an area
+	- Fast boi
+	- Spellcaster who casts spell
+	- Witch who debuffs PCs
+	- Support who buffs allies
+		- Grants Aegis
+		- Grants Shield
+	- Enemies who interact with mechanics
+		- Persistent Damage
+		- Grants other enemies Aegis
+		- Self damage in exchange for Aegis
 - Stat increases only from artefacts, or as rider effects to smaller talents
 - Exploding minion amplifier
 - Sort Talents into groups (for easier finding)
@@ -63,6 +81,7 @@
 		- Consumables
 			- Bought during downtime, found by on Quests, or crafted.
 - Get rid of Folder Contents at end of Folder Page
+	- Delete the folderpage plugin thing from the config file?
 - Cooler Weapon Names
 - Crafting System (clocks, downtime actions, travel actions??? Maybe just downtime actions for now)
 - Narrative Talents
