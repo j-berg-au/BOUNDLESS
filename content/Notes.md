@@ -1,7 +1,10 @@
 ### To Do
 - Enemies
 	- The Witch of Death
+		- Names:
+			- She Who Carves Death
 		- Make her a Boss
+			- A Boss is a foe so powerful that they generally don't need allies. A Boss takes a turn after each PC does. Some Bosses may spawn additional enemies. All Bosses have a "Second Phase" that either starts when they first hit 0HP or at the end of Round 3.
 		- Mortum Esoterica: 
 			- Curse a PC within range. In X turns/rounds, they die unless BLANK.
 			- At the end of Round 3, the Witch of Death uses her Mortum Esoterica. She places a curse on each of the PCs, summoning a pillar of death for each of them. If they are unable to destroy their corresponding Pillar by the end of Round 6, they die.
