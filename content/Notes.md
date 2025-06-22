@@ -63,7 +63,6 @@
 		- Consumables
 			- Bought during downtime, found by on Quests, or crafted.
 - Get rid of Folder Contents at end of Folder Page
-	- Delete the folderpage plugin thing from the config file?
 - Cooler Weapon Names
 - Crafting System (clocks, downtime actions, travel actions??? Maybe just downtime actions for now)
 - Narrative Talents
