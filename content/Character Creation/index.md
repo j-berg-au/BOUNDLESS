@@ -88,8 +88,7 @@ To quickly build a Level 1 character, you will need to:
 ### Levelling Up
 As you gain Levels, you become more powerful. To Level Up, do the following:
 - Increase any **Statistics** that are calculated from your Level.
-- Choose a new **Combat Talent**.
-- If the new Level is an odd Level, choose a new **Narrative Talent**.
+- Choose a new **Combat Talent** and a new **Narrative Talent**.
 - Increase one of your **Skills** by 1, to a maximum of 3. This may increase the corresponding Save.
 - Check your Class to see if you learn any additional **Moves**, **Tricks**, **Spells**, or **Miracles**.
 - If this is your 5th or 9th Level, increase in Tier.
@@ -99,14 +98,14 @@ A summary of each Level can be found in the Table below.
 | **Level** | **Tier** | **Skill Points** | **Combat Talents** | **Narrative Talents** |
 | :-------: | :------: | :--------------: | :----------------: | :-------------------: |
 |     1     |    I     |        7         |         2          |           2           |
-|     2     |    I     |        8         |         3          |           2           |
-|     3     |    I     |        9         |         4          |           3           |
-|     4     |    I     |        10        |         5          |           3           |
-|     5     |    II    |        11        |         6          |           4           |
-|     6     |    II    |        12        |         7          |           4           |
-|     7     |    II    |        13        |         8          |           5           |
-|     8     |    II    |        14        |         9          |           5           |
-|     9     |   III    |        15        |         10         |           6           |
-|    10     |   III    |        16        |         11         |           6           |
-|    11     |   III    |        17        |         12         |           7           |
-|    12     |   III    |        18        |         13         |           7           |
+|     2     |    I     |        8         |         3          |           3           |
+|     3     |    I     |        9         |         4          |           4           |
+|     4     |    I     |        10        |         5          |           5           |
+|     5     |    II    |        11        |         6          |           6           |
+|     6     |    II    |        12        |         7          |           7           |
+|     7     |    II    |        13        |         8          |           8           |
+|     8     |    II    |        14        |         9          |           9           |
+|     9     |   III    |        15        |         10         |          10           |
+|    10     |   III    |        16        |         11         |          11           |
+|    11     |   III    |        17        |         12         |          12           |
+|    12     |   III    |        18        |         13         |          13           |
