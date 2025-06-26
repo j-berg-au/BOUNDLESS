@@ -2,17 +2,10 @@
 - Consider scaling Vanguard HP and Mage Mana with Tier instead of level, so that enemies only need scale with Tier.
 - Say what X/X/X means (it means scaling with Tier)
 - Enemies
-	- Aim to make 12 Bosses
+	- Aim to make 12 Nemeses
 		- Add "voice lines" for each ability. Add a description at the top for GMs to read off if they wish.
-	- The Witch of Death
-		- Names:
-			- She Who Carves Death // She Who Knits Death
-		- Make her a Boss
-			- A Boss is a foe so powerful that they generally don't need allies. A Boss takes a turn after each PC does. Some Bosses may spawn additional enemies. All Bosses have a "Second Phase" that either starts when they first hit 0HP or at the end of Round 3.
-		- Mortum Esoterica: 
-			- Curse a PC within range. In X turns/rounds, they die unless BLANK.
-			- At the end of Round 3, the Witch of Death uses her Mortum Esoterica. She places a curse on each of the PCs, summoning a pillar of death for each of them. If they are unable to destroy their corresponding Pillar by the end of Round 6, they die.
-		- Voodoo Doll
+		- Each gets the "Nemesis" trait (see Bone Whisperer)
+		- 
 	- Sentinel who holds down an area
 	- Fast boi
 	- Spellcaster who casts spell

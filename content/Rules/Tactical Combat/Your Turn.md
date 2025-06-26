@@ -7,10 +7,6 @@ During your turn you may do the following in any order you choose:
 You cannot take the same action more than once in a given turn.
 
 You cannot break up your movement from your Standard Move. For example, if your **SPEED** is 4, you may **not** move 2 spaces, take a Minor Action, then move another 2 spaces.
-### Major Actions
-Here is a list of Major Actions all characters have access to.
-
-There are no generic Major Actions, for now.
 ### Minor Actions
 Here is a list of Minor Actions all characters have access to.
 ##### Aid
