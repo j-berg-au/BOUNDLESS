@@ -3,7 +3,6 @@
 - Say what X/X/X means (it means scaling with Tier)
 - Enemies
 	- Aim to make 12 Bosses
-		- Instead of calling them "Bosses", give it a cooler name
 		- Add "voice lines" for each ability. Add a description at the top for GMs to read off if they wish.
 	- The Witch of Death
 		- Names:
