@@ -1,14 +1,20 @@
+---
+draft: "true"
+---
 ### To Do
 - Consider scaling Vanguard HP and Mage Mana with Tier instead of level, so that enemies only need scale with Tier.
 - Say what X/X/X means (it means scaling with Tier)
 - Enemies
-	- Aim to make 12 Nemeses
+	- Aim to make 12 Nemeses in the long run. Start with 3
+		- Make an "Arch Nemesis" Amplifier that ups the difficulty greatly
 		- Add "voice lines" for each ability. Add a description at the top for GMs to read off if they wish.
-		- Each gets the "Nemesis" trait (see Bone Whisperer)
-		- 
+		- Each gets the "Nemesis" trait (see Bone Queen)
+		- Nemesis that gets more powerful each round
+		- Nemesis that trades HP for Aegis.
 	- Sentinel who holds down an area
 	- Fast boi
-	- Spellcaster who casts spell
+	- Spellcaster who casts spells
+		- Give 3 default spells, add amplifiers to add additional spells
 	- Witch who debuffs PCs
 	- Support who buffs allies
 		- Grants Aegis
@@ -18,7 +24,6 @@
 		- Grants other enemies Aegis
 		- Self damage in exchange for Aegis
 - Stat increases only from artefacts, or as rider effects to smaller talents
-- Exploding minion amplifier
 - Sort Talents into groups (for easier finding)
 - Riftcaller
 	- More summons spells (available to all Mages?)
