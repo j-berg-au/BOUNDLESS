@@ -22,6 +22,9 @@ You learn two additional **Tricks** of your choice.
 Whenever you would make a save, you may make a **WIT** save instead.
 ##### Resilient
 Increase your HP by 2.
+##### Rewind
+*Prerequisite: [[Artisan]]*  
+You have created a device that grants you limited manipulation of time. Once per combat, you may activate this device at the start of your turn as a Free Action, marking your current location when you do so. At the end of your turn, you teleport back to this marked location.
 ##### Silver Tongue
 Whenever you would make a save, you may make a **PRESENCE** save instead.
 ##### Slippery

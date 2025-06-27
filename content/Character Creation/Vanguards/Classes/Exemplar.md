@@ -6,13 +6,13 @@ Exemplars switch between offensive and defensive playstyles and come with a wide
 
 **Complexity:** ★★★★★
 
-| **Core Statistics** |                              |
-| :------------------ | ---------------------------- |
-| **HP**              | = 20 + four times your Level |
-| **EVASION**         | = 6 + your Level             |
-| **HIT**             | = Your Level                 |
-| **SPEED**           | = 5                          |
-| **Save Target**     | = 9 + your Level             |
+| **Core Statistics** |                                            |
+| :------------------ | ------------------------------------------ |
+| **HP**              | = 24 (Tier I), 48 (Tier II), 72 (Tier III) |
+| **EVASION**         | = 6 + your Level                           |
+| **HIT**             | = Your Level                               |
+| **SPEED**           | = 5                                        |
+| **Save Target**     | = 9 + your Level                           |
 #### Moves
 You learn 4 **Moves** of your choice. Each time you gain a Level, you learn an additional **Move**.
 #### Features

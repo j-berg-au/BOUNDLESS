@@ -6,13 +6,13 @@ Knights possess an unmatched ability to defend their allies. They stick by those
 
 **Complexity:** ★☆☆☆☆
 
-| **Core Statistics** |                              |
-| :------------------ | ---------------------------- |
-| **HP**              | = 20 + four times your Level |
-| **EVASION**         | = 6 + your Level             |
-| **HIT**             | = Your Level                 |
-| **SPEED**           | = 3                          |
-| **Save Target**     | = 9 + your Level             |
+| **Core Statistics** |                                            |
+| :------------------ | ------------------------------------------ |
+| **HP**              | = 24 (Tier I), 48 (Tier II), 72 (Tier III) |
+| **EVASION**         | = 6 + your Level                           |
+| **HIT**             | = Your Level                               |
+| **SPEED**           | = 3                                        |
+| **Save Target**     | = 9 + your Level                           |
 #### Moves
 You learn 3 **Moves** of your choice. At every odd Level, you learn an another **Move**. Additionally, each time you increase in Tier you learn another **Move**.
 #### Features

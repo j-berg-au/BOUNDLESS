@@ -6,13 +6,13 @@ A Berserkers' strategy in battle is the definition of high-risk, high-reward. Th
 
 **Complexity:** ★★☆☆☆
 
-| **Core Statistics** |                              |
-| :------------------ | ---------------------------- |
-| **HP**              | = 25 + five times your Level |
-| **EVASION**         | = 6 + your Level             |
-| **HIT**             | = Your Level                 |
-| **SPEED**           | = 5                          |
-| **Save Target**     | = 9 + your Level             |
+| **Core Statistics** |                                            |
+| :------------------ | ------------------------------------------ |
+| **HP**              | = 30 (Tier I), 60 (Tier II), 90 (Tier III) |
+| **EVASION**         | = 6 + your Level                           |
+| **HIT**             | = Your Level                               |
+| **SPEED**           | = 5                                        |
+| **Save Target**     | = 9 + your Level                           |
 #### Moves
 You learn 2 **Moves** of your choice. At each odd Level, you learn an additional **Move**.
 #### Features
