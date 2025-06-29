@@ -5,6 +5,8 @@ BLINDED characters can only draw line of sight to targets up to 1 space away fro
 IMMOBLISED characters cannot make any voluntary movements, although involuntary movements are unaffected.
 ##### Marked
 Hostile characters can choose to consume a character’s MARKED condition in exchange for **+1 Boon** on their next attack against that character.
+##### Off-Guard
+Characters who are OFF-GUARD gain **+1 Bane** on all saves.
 ##### Slowed
 SLOWED characters can only voluntarily move by using their standard move on their turn. They cannot Dash or use any other features that allow them to move.
 ##### Stunned

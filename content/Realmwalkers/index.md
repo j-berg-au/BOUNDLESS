@@ -4,8 +4,10 @@ draft: "true"
 ### Overview
 The Players set out on a journey to travel across the Realms in an effort to discover BLANK to achieve BLANK.
 
-Each 
-
+The campaign is separated into three arcs (corresponding to tiers), each with four parts (corresponding to levels). Each part is a pointcrawl from one settlement to another, where the players explore (if they want they can explore the entire pointcrawl to get more loot, at the risk of biting off more than they can chew). At the settlements the players level up, buy things, and get a chance for downtime actions. 
+### Motivations
+- Discover a way to bring back the dead
+- Discover a way to avoid death
 ### Realms
 Maybe each Realm is basically a planet?
 - Terra — The Realm of Land
@@ -42,4 +44,5 @@ Maybe each Realm is basically a planet?
 
 
 ### Notes
-- Build a Canvas for the Pointcr
+- Build a Canvas for the Pointcrawl Map
+- Do a cinematic session 0

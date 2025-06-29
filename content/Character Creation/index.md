@@ -80,7 +80,7 @@ When selecting your Talents, you may choose from the [[Generic Talents]] or from
 To quickly build a Level 1 character, you will need to:
 - Choose a **Hero Type**, noting it's mechanics.
 - Choose a **Class**, noting it's Core Statistics and Features.
-- Choose a **Weapon** and an **Equipment Pack**.
+- Choose a **Weapon**.
 - Choose 2 **Combat Talents** and 2 **Narrative Talents**.
 - Choose your **Moves**, **Tricks**, **Spells**, or **Miracles**.
 - Set two of your **Skills** to 2, and three to 1. Then, calculate your **Saves**.

@@ -1,14 +1,29 @@
 ---
 draft: "true"
 ---
+### Priorities
+1. Write out enemy stat blocks
+	1. Add saves to enemies
+2. More Narrative Talents
+3. Do another pass on Weapons (names + balance)
+4. Write out artefacts/consumables
+5. Psychic
+	1. More Tricks
+	2. More Talents
+6. Riftcaller
+	1. More Spells
+	2. More Talents
 ### To Do
+- Use new condition
+- Give Revitalise to all Prophets?
+- Redo playtest with balance changes and different classes
+- Nerf the fuck out of Invoke Lightning
+- Give Queen of Bones a Minor Action
+- Buff Envigour
+- Set an EVASION for Totems of Hatred, and Saves
+- Nerf Manipulate Fate (or move it to a higher tier)
+- Nerf Invoker Sanguine Secrets
 - Make an art inspiration board
-- Do a 12-level pointcrawl pre-written campaign. Realmwalkers.
-	- Journey through the Realms? Frieren style, but through different realms of the world.
-	- Have a few different "segments" of the pointcrawl, each ending with a settlement where the party can rest and purchase goods and supplies. Multiple ways to get to a settlement, can explore places for more loot (at the risk of taking on more than you can chew). Each segment is a Level. Each Tier is a separate "Arc".
-	- Something major happens at the end of each Tier.
-		- PUT SKYWHALES IN THERE SOMEWHERE PLEASE FOR THE LOVE OF GOD
-		- A city called Whalefall. It resides within and around the skeleton/corpse of a fallen skywhale. Maybe name it "Whalefall" from another language
 - Say what X/X/X means (it means scaling with Tier)
 - Enemies
 	- Aim to make 12 Nemeses in the long run. Start with 3
@@ -22,6 +37,7 @@ draft: "true"
 		- Demon
 		- False God
 		- Blade guy
+		- Dragon
 	- Sentinel who holds down an area
 	- Fast boi
 	- Spellcaster who casts spells

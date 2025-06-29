@@ -16,7 +16,7 @@ On a successful save, a target takes 2 damage anyway.
 
 -----
 ##### Firewall
-*2 Mana, Minor Action, Fire*  
+*3 Mana, Minor Action, Fire*  
 You create a size 4 Arc of blazing flames within Range 6.
 The Arc lasts until dispelled as a Free Action by the caster. Any character who enters the area or starts their turn there takes 2 damage.
 
@@ -84,7 +84,7 @@ When you do so, make an attack against a character within Range 8. On a hit, the
 
 **Augments**  
 *Freezing. 2 Mana*  
-On a hit, the spear causes the target to become [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]].  
+On a hit, the spear causes the target to become [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]] until the end of their next turn.  
 
 *Massive. 3+ Mana*  
 When you use this augment, you must spend an amount of **Mana** equal to the number of spears you create.  
@@ -96,8 +96,8 @@ You summon an additional spear for each **Mana** spent.
 
 -----
 ##### Invoke Lightning
-*2 Mana, Major Action, Storm*  
-Target three characters within Range 10. All characters must pass a **FINESSE** save or take 1d6 damage.
+*3 Mana, Major Action, Storm*  
+Target three characters within Range 6. All characters must pass a **FINESSE** save or take 1d6 damage.
 
 **Augments**  
 *Amplified. 2+ Mana*  

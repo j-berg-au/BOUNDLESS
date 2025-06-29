@@ -64,21 +64,6 @@ You grant an ally within Range 8 **+2 Boons** on their next attack roll or save 
 You grant an ally within Range 8 **+2 Boons** on their next attack roll or save before the end of their next turn. Additionally, they may roll the d20 twice, selecting either die to use when calculating their result.
 
 -----
-##### Manipulate Fate
-*Prerequisite: [[Seer]]*  
-*Fate Target: 5*  
-*Reaction*  
-**Standard Effect:**  
-None.  
-
-**Divine Effect:**  
-You take this Reaction when a character within Range 8 rolls a d20.  
-
-The first time you successfully use this **Miracle**, roll a d20. This will be your **held fate**.  
-
-You may swap the d20 that triggered this **Miracle** with your **held fate**, *i.e.,* your **held fate** is used when calculating the result of the roll and the original d20 becomes your new **held fate**.
-
------
 ##### Reading
 *Prerequisite: [[Seer]]*  
 *Fate Target: 7*  
@@ -150,6 +135,22 @@ You and all allies have their **Crit Threshold** reduced by 2 until the end of t
 -----
 ## Tier II
 
+-----
+##### Manipulate Fate
+*Prerequisite: [[Seer]]*  
+*Fate Target: 5*  
+*Reaction*  
+**Standard Effect:**  
+None.  
+
+**Divine Effect:**  
+You take this Reaction when a character within Range 8 rolls a d20.  
+
+The first time you successfully use this **Miracle**, roll a d20. This will be your **held fate**.  
+
+You may swap the d20 that triggered this **Miracle** with your **held fate**, *i.e.,* your **held fate** is used when calculating the result of the roll and the original d20 becomes your new **held fate**.
+
+---
 
 
 

@@ -8,7 +8,7 @@ As a Minor Action, you may inflict the [[Conditions & Statuses#Marked|MARKED]] c
 ##### Careful Aim
 At the beginning of your turn, you can hold steady to line up your shots. Until the start of your next turn you are [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]] and gain **+1 Boon** on all attack rolls.
 ##### Combat Telepathy
-*Prerequisite: [[Psychic]]*
+*Prerequisite: [[Psychic]]*  
 You can sense the intent of those trying to harm you. All attacks made against you gain **+1 Bane**.
 ##### Engineer
 When using a **Trick** with the Gadget tag, you can roll an additional d6 when determining the success level of the **Trick**.

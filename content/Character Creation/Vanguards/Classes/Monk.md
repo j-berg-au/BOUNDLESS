@@ -21,4 +21,4 @@ Once per round, when an enemy is within reach of your *Basic Attack* and attempt
 ##### Serenity
 At the start of each of your turns, if you don't have any [[Keywords#Aegis|Aegis]], you gain 1 [[Keywords#Aegis|Aegis]].
 ##### Counterattack
-Any time your [[Keywords#Aegis|Aegis]] protects you from damage, you may make a *Basic Attack* against the foe who had targeted you as a Reaction.
+Any time your [[Keywords#Aegis|Aegis]] protects you from damage against an attack, you may make a *Basic Attack* against the foe who had targeted you as a Reaction.

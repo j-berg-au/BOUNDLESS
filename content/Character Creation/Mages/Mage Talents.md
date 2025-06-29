@@ -6,7 +6,7 @@ All **Spells** you know have their Range increased by 2, provided that their Ran
 *Prerequisite: [[Conduit]]*  
 Choose one of the following tags: Fire, Ice, Stone, Storm. Any **Spell** you know that has one of these tags but not your chosen tag is transformed, having that tag swapped for your chosen tag. 
 ##### Bloodletting
-*Prerequisite: [[Invoker]]*
+*Prerequisite: [[Invoker]]*  
 As a Minor Action, you may reduce your HP by 1 and clear all Conditions and **Persistent Damage**. 
 ##### Further Study
 You learn two additional **Spells** of your choice.
