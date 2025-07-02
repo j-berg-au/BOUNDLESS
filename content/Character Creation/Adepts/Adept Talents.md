@@ -43,16 +43,19 @@ You have finally perfected your favourite creation. Select a Trick that you know
 - Buffs to leading group checks
 - Pet
 ### Tier I
-##### Adept's Pet
-You have a small pet that you bring with you on your adventures, providing moral support. You may increase your **Stress Cap** by 1.
-##### Delve Thoughts
-*Prerequisite: [[Psychic]]*
-You may spend **2 Stress** to gain the ability to read the surface thoughts of others for the rest of the scene. In this context, surface thoughts means only what a person is currently thinking about.
-##### Eye of Lies
-*Prerequisite: [[Psychic]]*
+##### Eye for Lies
+*Prerequisite: [[Shadow]]*  
 You know when another in your presence knowingly tells a lie.
+##### Telekinesis
+*Prerequisite: [[Psychic]]*  
+You may spend **2 Stress** to telekinetically move an object you can see within a short distance. 
+
+At Tier I, the maximum weight you may move is roughly that of a person. At Tier II, this becomes roughly the weight of horse and cart. At Tier III, this becomes the weight of a small building.
 ##### Telepathy
-*Prerequisite: [[Psychic]]*
+*Prerequisite: [[Psychic]]*  
 You can speak directly into the minds of creatures you can see. They may choose to reply to you in a similar fashion should you do so.
+##### Thought-Reader
+*Prerequisite: [[Psychic]]*  
+You may spend **2 Stress** to gain the ability to read the surface thoughts of others for the rest of the scene. In this context, surface thoughts means only what a person is currently thinking about.
 ### Tier II
 ### Tier III

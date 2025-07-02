@@ -15,7 +15,10 @@ aliases:
 ##### Cover
 
 ### Attacks & Damage
-##### Attack Rolls
+##### Attacks
+- Attack Rolls
+- Melee (Reach) vs Ranged (Range).
+- Ranged gains **+2 Banes** on attack roll when adjacent to enemy
 ##### Critical Hits
 When you score a **Critical Hit**, the attack automatically hits regardless of the final result. Additionally, all dice used to calculate the damage dealt by this attack are treated as if they had rolled their maximum possible values.
 ##### Taking Damage
@@ -34,8 +37,6 @@ When a character takes **Persistent Damage** and is already affected by another 
 
 ##### Line of Sight
 
-##### Melee & Ranged Attacks
-If an attack uses **Reach**, then it is a Melee Attack. Likewise, if an attack uses **Range** it is a Ranged Attack.
 ### Movement
 
 

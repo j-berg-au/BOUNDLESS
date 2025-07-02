@@ -47,10 +47,10 @@ As Standard Effect, but the target also gains a +2 bonus to their **EVASION**.
 *Fate Target: 6*  
 *Minor Action*  
 **Standard Effect:**  
-You grant an ally within Range 5 an amount of [[Keywords#Shield|Shield]] equal to twice your Level.  
+You grant an ally within Range 5 **4/8/12** [[Keywords#Shield|Shield]].  
 
 **Divine Effect:**  
-You grant an ally within Range 5 an amount of [[Keywords#Shield|Shield]] equal to four times your Level.
+You grant an ally within Range 5 **8/16/24** [[Keywords#Shield|Shield]].  
 
 -----
 ##### Foresee

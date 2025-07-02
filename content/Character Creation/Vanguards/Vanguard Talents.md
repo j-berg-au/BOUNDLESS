@@ -59,10 +59,14 @@ You count as one size larger for grapples. Additionally, you gain **+1 Boon** on
 
 ## Narrative Talents
 ### Tier I
+##### Packhorse
+You may select up to 5 items from your Bag, rather than 3, during a Quest. 
 ##### Power Jump
 You are able to jump to great heights. At Tier I, you can jump over a typical two-story building. At Tier II, you can jump over the tallest trees. At Tier III, you can jump over a mountain.
 
 Additionally, you take no damage and otherwise suffer no consequences when falling from a height. This does not negate consequences from falling onto dangerous material such as lava or spikes.
+##### Shrug it Off
+When you would take a **Strain** as a consequence from a skill check, you may choose not to take the Strain, simply "shrugging it off". You can use this Talent twice per Quest.
 ##### Unbreakable
 You are able to continue adventuring with up to **4 Scars**, instead of 3. Your fourth **Scar** has a healing clock with 12 segments.
 ### Tier II

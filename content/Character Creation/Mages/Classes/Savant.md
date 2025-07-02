@@ -16,6 +16,6 @@ Savants boast the widest selection of Spells of any Mage, granting them a level 
 #### Spells
 You learn 5 **Spells** of your choice. Each time you gain a Level, you learn another **Spell**. Additionally, each time you increase in Tier, you learn an additional **Spell**.
 #### Features
-##### Well-Learned
-You gain one **Combat Talent** of your choice. This Combat Talent doesn't count towards the number of **Combat Talents** you have.
+##### Experimental Magicks
+While not in combat, you may spend **2 Stress** to temporarily develop a new spell. Select a Spell you haven't already learned that you meet the prerequisites for. You may cast this Spell, expending Mana as usual, up to 3 times before the end of the Quest or until you use this feature again. When casting a Spell this way, you cannot use any of its Augments.
 

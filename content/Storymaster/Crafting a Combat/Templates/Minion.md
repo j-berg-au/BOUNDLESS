@@ -5,7 +5,7 @@
 |         HP          | = 1          |
 |         HIT         | = -2 + Level |
 |       EVASION       | = 5 + Level  |
-|        SPEED        | = 4          |
+|        SPEED        | = 3          |
 |     Save Target     | = 5 + Level  |
 |        Size         | = 1          |
 ##### Coordination
@@ -19,7 +19,7 @@ Any Minor Actions a **Minion** takes counts as taking a Major Action.
 ### Actions
 ##### Attack!
 *Major Action*  
-The **Minion** deals **Td4** damage to a character within Range 5.
+The **Minion** deals **Td4** damage to a character within Range 3.
 
 ---
 ### Amplifiers
