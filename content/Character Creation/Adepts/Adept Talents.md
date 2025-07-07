@@ -10,6 +10,8 @@ At the beginning of your turn, you can hold steady to line up your shots. Until 
 ##### Combat Telepathy
 *Prerequisite: [[Psychic]]*  
 You can sense the intent of those trying to harm you. All attacks made against you gain **+1 Bane**.
+##### Durable
+Increase your HP by 2.
 ##### Engineer
 When using a **Trick** with the Gadget tag, you can roll an additional d6 when determining the success level of the **Trick**.
 ##### Hipfire
@@ -20,8 +22,6 @@ When you score a **Critical Hit**, you regain **1 Focus Point**.
 You learn two additional **Tricks** of your choice.
 ##### Quick Thinking
 Whenever you would make a save, you may make a **WIT** save instead.
-##### Resilient
-Increase your HP by 2.
 ##### Rewind
 *Prerequisite: [[Artisan]]*  
 You have created a device that grants you limited manipulation of time. Once per combat, you may activate this device at the start of your turn as a Free Action, marking your current location when you do so. At the end of your turn, you teleport back to this marked location.
@@ -30,6 +30,7 @@ Whenever you would make a save, you may make a **PRESENCE** save instead.
 ##### Slippery
 When an attack misses you, you may move up to 2 spaces as a Reaction. This movement does not trigger any Reactions.
 ##### Sneaky Attack
+*Prerequisite: [[Shadow]]*  
 When you make an attack while [[Conditions & Statuses#Hidden|HIDDEN]], the attack deals an additional Td4 damage.
 ##### Watch Out!
 When an ally within Range 5 takes damage, you may use your Reaction to spend any number of **Focus Points** to help them avoid the damage, as if you were spending them to avoid damage for yourself.
@@ -39,13 +40,16 @@ When an ally within Range 5 takes damage, you may use your Reaction to spend any
 *Prerequisite: [[Artisan]], Tier III*  
 You have finally perfected your favourite creation. Select a Trick that you know. When you use this Trick, it is automatically treated as a Critical Success.
 ## Narrative Talents
-- Buffs to stealth/group stealth (Skirmisher)
-- Buffs to leading group checks
-- Pet
 ### Tier I
 ##### Eye for Lies
 *Prerequisite: [[Shadow]]*  
 You know when another in your presence knowingly tells a lie.
+##### Ghost Step
+*Prerequisite: [[Shadow]]*  
+You may spend **2 Stress** to step through a wall in front of you, as if it didn't exist.
+##### Leader
+*Prerequisite: [[Tactician]]*  
+When you lead a group check, the resultant success level is increased by one (from a failure to a partial success, from a partial success to a success, from a success to a critical success).
 ##### Telekinesis
 *Prerequisite: [[Psychic]]*  
 You may spend **2 Stress** to telekinetically move an object you can see within a short distance. 
@@ -57,5 +61,10 @@ You can speak directly into the minds of creatures you can see. They may choose 
 ##### Thought-Reader
 *Prerequisite: [[Psychic]]*  
 You may spend **2 Stress** to gain the ability to read the surface thoughts of others for the rest of the scene. In this context, surface thoughts means only what a person is currently thinking about.
+##### Vial Pouch
+You may carry up to 5 Consumables at a time, rather than 3.
 ### Tier II
+##### Shadow's Veil
+*Prerequisite: Tier II, [[Shadow]]*  
+You may spend 3 Stress to become invisible to others for the rest of the scene.
 ### Tier III

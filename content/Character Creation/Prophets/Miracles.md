@@ -1,7 +1,6 @@
 ## Tier I
 -----
 ##### Cleanse
-*Prerequisite: [[Druid]] or [[Priest]]*  
 *Fate Target: 7*  
 *Minor Action*  
 **Standard Effect:**  

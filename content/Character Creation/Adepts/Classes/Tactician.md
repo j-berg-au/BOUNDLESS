@@ -4,7 +4,7 @@ A **Tactician** is a mastermind of battle and a natural leader. Tacticians ensur
 **Playstyle**  
 Tacticians play a supportive role, helping position their allies and optimising their efficiency. 
 
-**Complexity:** ★★★☆☆
+**Complexity:** ★★★★☆
 
 | **Core Statistics** |                   |
 | :------------------ | ----------------- |
@@ -18,13 +18,13 @@ You learn 3 **Tricks** of your choice. Every odd level, you learn a new **Trick*
 #### Features
 ##### Elusive
 You gain **+1 Boon** to all **FINESSE**, **WIT**, and **PRESENCE** saves.
-##### Command
-Having earned the respect of your allies, you are able to suggest courses of action to increase their efficiency. As a Minor Action, you may use one of the **Commands** below. You may take this Minor Action more than once per turn.
+##### Mastermind
+Your actions subtly dictate the flow of battle. When you roll for the success level of a **Trick**, you may trade one of the dice rolled for one of the following effects, potentially lowering your success level. The chosen die must have rolled at least the specified number for each of the options.
 
-**ATTACK!**  
+**ATTACK! (6)**  
 You choose an ally within Range 8, who may perform a *Basic Attack* as a Reaction.
 
-**REPOSITION!**  
+**REPOSITION! (4+)**  
 You choose an ally within Range 8, who may immediately move up to their **SPEED** as a Reaction.
 ##### Leadership
 You gain the [[Adept Talents#Watch Out!|Watch Out!]] talent for free, without it counting towards the number of Talents you know.

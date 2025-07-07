@@ -55,7 +55,7 @@ Threats shouldn't be used too often, so try to avoid using them more than three 
 If the Storymaster deems a check to be especially easy or difficult, they may impose **+1 Boon** or **+1 Bane** respectively.
 ### Increasing Your Odds
 If a player wants to improve the chances of success on a Skill Check, they can do so in the following ways:
-- They may spend **1 Stress** to gain **+1 Boon** to the roll.
+- They may spend **2 Stress** to gain **+1 Boon** to the roll.
 - Another player may spend **1 Stress** to help them, describing how they help and granting **+1 Boon** to the roll.
 - The player may choose to **Negotiate with Fate** (see below). 
 ### Negotiating with Fate

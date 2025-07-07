@@ -27,7 +27,7 @@ draft: "true"
 - Write rules on the Bag, Artefacts, and Consumables
 	- Bag: Can claim any item (within reason). May make certain rolls possible, grant a Boon on a check, or increase Reward on a check.
 	- Recommend the GM gives out one artefact per player per quest
-	- Weapon that makes you invisble on hit
+	- Weapon that makes you invisible on hit
 	- Consumables can be bought during downtime, crafted, or found on quests as loot.
 		- Temporarily upgraded weapons. Sharpened. Etc.
 		- Potions, poisons, etc
@@ -154,6 +154,7 @@ draft: "true"
 - Steal Spells from Frieren, Castlevania, etc
 - Gravity Well
 - Solar Gateway (Tier III), open a portal to the sun and shoot a sun laser in a line
+- Black Hole (Tier III)
 ##### Miracles
 - Harmful or helpful spores for druid
 - Roots to restrain/slow/make difficult terrain
@@ -208,13 +209,23 @@ draft: "true"
 - Grants a Totem to use on self from Druid
 ##### Narrative
 - Fast healing of Scars?
+- Berserker: Calm Before the Storm. Outside of combat, your thoughts and emotional state cannot be divined or read in any way. Find a way to buff this
+- Knight: Squire. You have a lilguy who does stuff for you.
+	- Ask the other players if any of them would like to volunteer to play as your Squire. If no one volunteers, you may play as your own Squire. The Squire has a 0 in all skills and cannot spend Stress
 ### Adept
 ##### Combat
 - Buffs to INVISIBLE
 - +1 Die on Tricks with certain tags
 - Bonuses from attacking from HIDDEN
+- Artisan Talent tree to build, customise, and upgrade their own weapon
+	- Upgrade Damage Die
+	- Make Accurate
+	- Give Graze
+	- Effect on hit
 ##### Narrative
 - Artisan talent to make them the best crafter
+- Buffs to stealth/group stealth (Skirmisher)
+- Pet
 ### Mage
 ##### Combat
 - More things to do that don't cost Mana
@@ -226,6 +237,9 @@ draft: "true"
 - Some kind of Mana refund on missed attacks/passed saves
 ##### Narrative
 - Familiar for Invoker & Savant
+- Teleports
+- Minor Illusion
+- Just look at D&D cantrips honestly
 ### Prophet
 ##### Combat
 ##### Narrative

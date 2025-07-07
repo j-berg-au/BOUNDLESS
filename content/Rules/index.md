@@ -28,10 +28,11 @@ To play ***BOUNDLESS***, you will need the following:
   This notation is used to represent a pool of dice rolled. 'n' here represents the number of dice, and 'X' represents the number of faces on each die. So, 2d6 means roll two six-sided dice and add the results together.
 ##### Boons & Banes
 **Boons** and Banes **are** modifiers we add to rolls that can increase or decrease your chances of success. **Boons** and **Banes** are calculated as follows:
-•	For each **Boon**, you add 1d6 to your roll.
-•	For each **Bane**, you subtract 1d6 from your roll.
-•	Boons and Banes cancel each other out on a one-to-one basis. For example, if you have **2 Boons** and **1 Bane** you treat it as if you only had **1 Boon**.
-When rolling multiple d6’s from **Boons** or Banes, you take the highest result instead of adding them together.
+- For each **Boon**, you add 1d6 to your roll.
+- For each **Bane**, you subtract 1d6 from your roll.
+- **Boons** and **Banes** cancel each other out on a one-to-one basis. For example, if you have **2 Boons** and **1 Bane** you treat it as if you only had **1 Boon**.
+- After cancelling each other out, you can only have up to **3 Boons** or **3 Banes** on a given roll. Any additional **Boons** or **Banes** are ignored.
+- When rolling multiple d6’s from **Boons** or **Banes**, you take the highest result instead of adding them together.
 ##### Stress
 
 ##### Strain & Scars

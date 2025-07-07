@@ -54,3 +54,16 @@ All creatures adjacent to you are hit by your *Basic Attack*, taking half the us
 
 
 ## Tier III
+---
+##### Cosmic Uppercut
+
+---
+##### Last Stand
+*1 Adrenaline, Free Action*  
+You may only use this **Move** as a Free Action at the beginning of your turn. Immediately set your current **HP** to 1 and gain 15 Adrenaline. You cannot be healed until the end of your next turn.
+
+---
+##### One Serious Punch
+
+---
+##### Orbital Dropkick

@@ -38,6 +38,8 @@ Activate as Free Action. Two rounds of ABSOLUTE POWER. One round of losing your 
 Select an additional **Magical Domain**, gaining its **Spells** and feature.
 ## Narrative Talents
 ### Tier I
+##### Aether Construct
+You may spend **2 Stress** to create a simple non-magical item that can fit within your cupped hands.
 ##### Flight
 You have learnt the magic required to grant an individual the ability to fly. You may spend **2 Stress** to give yourself or someone you touch the ability to fly for the rest of the scene.
 ##### Telekinesis

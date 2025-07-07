@@ -35,6 +35,8 @@ You may spend **2 Stress** to transform into a small bird. When you do so, your 
 You may spend **2 Stress** to gain the ability to communicate with any non-humanoid animal for the rest of the scene. Animals you speak to are under no obligation to be truthful or helpful towards you and will generally put their own interests above yours. It may be possible however to sway them through successful skill checks or through bargains.
 ##### Commune with the Fallen
 You may spend **2 Stress** to commune with a corpse of a deceased person. The corpse is granted the ability to answer up to three of your questions, each of which it is only able to answer with "yes", "no", or "unsure". The corpse has access to the knowledge it had in life and is compelled to answer truthfully, however it does not retain the soul of the deceased person. 
+##### Divine Empathy
+By glancing at someone, you are able to tell their general current emotional state (e.g. angry, sad, happy, etc).
 ##### First Aid
 When an ally of yours takes a **Strain** as a consequence of a roll, if you are able to take a short amount of time to tend to them within the same scene in which they obtained the **Strain**, you may patch it up. When you do so, the **Strain** is cleared.
 
