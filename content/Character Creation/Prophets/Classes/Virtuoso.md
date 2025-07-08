@@ -24,10 +24,10 @@ You gain the **Miracles** *[[Miracles#Starlight|Starlight]]* and *[[Miracles#Unt
 While in combat, you imbue your art with a particular **Emotion**. At the start of each of your turns, you may declare an Active Emotion from the list below, gaining its effects until the start of your next turn. You may only have one Active Emotion at a time.
 
 **DESPAIR**  
-All enemies gain [[Conditions & Statuses#WEAK|WEAK]] 1//2//3 while within Range 3 of you.
+All enemies gain [[Conditions & Statuses#WEAK|WEAK]] 1 || 2 || 3 while within Range 3 of you.
 
 **PRIDE**  
 You and all allies within Range 3 gain a **+2 Bonus** to all saves.
 
 **RAGE**  
-Each time you or an ally within Range 3 deals damage, they deal an additional 1//2//3 damage.
+Each time you or an ally within Range 3 deals damage, they deal an additional 1 || 2 || 3 damage.

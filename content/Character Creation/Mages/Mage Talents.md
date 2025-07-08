@@ -15,11 +15,11 @@ When in combat, your body floats just above the ground. You become immune to any
 
 Additionally, you may increase your **EVASION** by 1.
 ##### Mana Sink
-While you have less than 3//6//9 **Mana**, your *Basic Attack* deals an additional 1d6//2d6//3d6 damage on a hit.
+While you have less than 3 || 6 || 9 **Mana**, your *Basic Attack* deals an additional 1d6 || 2d6 || 3d6 damage on a hit.
 ##### Rest the Aether
-When you finish one of your turns on which you did not spend any **Mana** or use a *Basic Attack*, you regain 2//4//6 **Mana**.
+When you finish one of your turns on which you did not spend any **Mana** or use a *Basic Attack*, you regain 2 || 4 || 6 **Mana**.
 ##### Siphon
-When you hit with your *Basic Attack*, you regain 1//2//3 **Mana**.
+When you hit with your *Basic Attack*, you regain 1 || 2 || 3 **Mana**.
 ### Tier II
 ##### Battlemage
 *Prerequisite: Tier II*

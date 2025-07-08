@@ -17,7 +17,7 @@ There are 4 Classes of **Vanguard**:
 ### Adrenaline
 While in combat, **Vanguards** utilise a resource called **Adrenaline**. A **Vanguard** starts a fight with very little **Adrenaline**, but it builds up quickly over the course of a battle.  
 
-At the beginning of combat, you start with 1//2//3 **Adrenaline**. You gain **Adrenaline** in the following ways:
+At the beginning of combat, you start with 1 || 2 || 3 **Adrenaline**. You gain **Adrenaline** in the following ways:
 - Each time you are targeted by an attack, gain **1 Adrenaline**.
 - Each time you make a saving throw, gain **1 Adrenaline**.
 - Each time you hit an enemy with a _Basic Attack_, gain **1 Adrenaline**.

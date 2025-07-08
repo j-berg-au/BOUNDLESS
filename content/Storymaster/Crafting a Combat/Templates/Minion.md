@@ -19,9 +19,9 @@ Any Minor Actions a **Minion** takes counts as taking a Major Action.
 ### Actions
 ##### Attack!
 *Major Action*  
-The **Minion** deals **1d4//2d4//3d4** damage to a character within Range 3.
+The **Minion** deals **1d4 || 2d4 || 3d4** damage to a character within Range 3.
 
 ---
 ### Amplifiers
 ##### Self-Destruct
-When the Minion is [[Conditions & Statuses#Defeated|DEFEATED]], they explode in a Size 2 Circle. All characters within the explosion must pass a **FINESSE** save or take **1d6//2d6//3d6** damage, taking half as much on a success.
+When the Minion is [[Conditions & Statuses#Defeated|DEFEATED]], they explode in a Size 2 Circle. All characters within the explosion must pass a **FINESSE** save or take **1d6 || 2d6 || 3d6** damage, taking half as much on a success.

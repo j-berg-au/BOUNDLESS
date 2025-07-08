@@ -3,7 +3,7 @@
 ##### Resilient
 When you are reduced to 0HP and become [[Conditions & Statuses#Defeated|DEFEATED]], you gain **2 Strain** in place of a **Scar**.
 ##### Swift
-Increase your **SPEED** by 1//2//3.
+Increase your **SPEED** by 1 || 2 || 3.
 ### Tier II
 
 ### Tier III

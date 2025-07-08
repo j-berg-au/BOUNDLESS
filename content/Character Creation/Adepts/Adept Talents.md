@@ -31,7 +31,7 @@ Whenever you would make a save, you may make a **PRESENCE** save instead.
 When an attack misses you, you may move up to 2 spaces as a Reaction. This movement does not trigger any Reactions.
 ##### Sneaky Attack
 *Prerequisite: [[Shadow]]*  
-When you make an attack while [[Conditions & Statuses#Hidden|HIDDEN]], the attack deals an additional 1d4//2d4//3d4 damage.
+When you make an attack while [[Conditions & Statuses#Hidden|HIDDEN]], the attack deals an additional 1d4 || 2d4 || 3d4 damage.
 ##### Watch Out!
 When an ally within Range 5 takes damage, you may use your Reaction to spend any number of **Focus Points** to help them avoid the damage, as if you were spending them to avoid damage for yourself.
 ### Tier II

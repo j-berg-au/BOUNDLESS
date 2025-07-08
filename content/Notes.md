@@ -1,6 +1,8 @@
 ---
 draft: "true"
 ---
+1d6+1||2d6+2||3d6+3
+1d6+1//2d6+2//3d6+3
 # Priorities
 1. Write out enemy stat blocks
 	1. Add saves to enemies
