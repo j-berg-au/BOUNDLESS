@@ -2,7 +2,7 @@
 ### Tier I
 ##### Amplified
 *Prerequisite: [[Virtuoso]]*  
-The Range on all your active **Emotions** increases by your Tier.
+The Range on all your active **Emotions** increases 1//2//3.
 ##### Blessing
 Each time you gain the Divine Effect from a Miracle, you gain 1 [[Keywords#Aegis|Aegis]].
 ##### Condemn

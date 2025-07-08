@@ -36,10 +36,8 @@ draft: "true"
 - Write Combat Section
 - Write GM Section
 - Make getting adrenaline by "being targeted with a hostile effect"
-- Buff Blood Rage (grant shield each round?)
-- Say what X/X/X means (it means scaling with Tier)
 - Separate *Basic Attack* from *Attack*. Label things that are *Attacks* as *Attacks*.
-- Use new condition, [[Conditions & Statuses#Off-Guard|OFF-GUARD]]
+- Use new conditions, [[Conditions & Statuses#Off-Guard|OFF-GUARD]], [[Conditions & Statuses#Resistant|RESISTANT]], and [[Conditions & Statuses#Strength|STRENGTH]]
 - Give Prophets cooler miracles (let them do some damage with debuffs)
 - Change skeletal summons to happening automatically at the start of turns 1, 3, and 5.
 - Riftcaller summoning minions is a LOT of mana for not a lot of payoff. Should summoning minions be a spell?
@@ -52,7 +50,7 @@ draft: "true"
 - Give Queen of Bones a special Dash Action
 - Set an EVASION for Totems of Hatred, and Saves
 - Find a way to delete the "Folder Contents" part of folder pages, or at least make it look nicer.
-- Do another pass on weapons. Make them sound cooler, and rebalance them. Reconsider using TdX in favour of X/X/X.
+- Do another pass on weapons. Make them sound cooler, and rebalance them. 
 - Write a "Strategy Tips" section
 	- Make sure your Vanguard is taking the hits, and support them in doing so and in staying alive.
 	- Avoid having your Prophet take hits.
@@ -111,18 +109,24 @@ draft: "true"
 ##### Specific Enemies?
 ##### Nemeses
 - Aim to make 12 in the long run, start with 3
-	- Make an "Arch Nemesis" Amplifier that ups difficulty
-	- Give Nemeses suggested loot
-	- Add "voice lines" for each ability. Add a description at the top for GMs to read off if they wish.
-	- Nemesis that trades HP for Aegis.
-	- Nemesis that gets more powerful each round
-	- Vampire
-		- Blood Magic
-	- Demon
-		- FIREEEEE
-	- False God
-	- Blade guy
-	- Dragon
+- Not all Nemesis are built the same. 
+	- Some might be fast, they take one turn per PC
+	- Some might be slow, they only take one, devestating turn per round
+	- Some might be in between, two or three turns
+	- VARIETY IS IMPORTANT
+	- Maybe include in each Nemesis a suggested interesting battlefield
+- Make an "Arch Nemesis" Amplifier that ups difficulty
+- Give Nemeses suggested loot
+- Add "voice lines" for each ability. Add a description at the top for GMs to read off if they wish.
+- Nemesis that trades HP for Aegis.
+- Nemesis that gets more powerful each round
+- Vampire
+	- Blood Magic
+- Demon
+	- FIREEEEE
+- False God
+- Blade guy
+- Dragon
 ##### Amplifiers
 - Weakspots. Hit a predetermined number on an attack roll and deal flat bonus damage. Can impose +1 Bane to move your result 1 up or down. Maybe the GM gives a range that this number lies in. 
 - Vampiric
@@ -207,9 +211,11 @@ draft: "true"
 - Mount
 - Grapple multiple targets at once
 - Grants a Totem to use on self from Druid
+- Tiers II and III talents that build off Formidable, allowing you to count as increasing sizes for grappling while providing other benefits.
 ##### Narrative
 - Fast healing of Scars?
 - Berserker: Calm Before the Storm. Outside of combat, your thoughts and emotional state cannot be divined or read in any way. Find a way to buff this
+- Exemplar: something discipline related? Or technique?
 - Knight: Squire. You have a lilguy who does stuff for you.
 	- Ask the other players if any of them would like to volunteer to play as your Squire. If no one volunteers, you may play as your own Squire. The Squire has a 0 in all skills and cannot spend Stress
 ### Adept
@@ -240,12 +246,15 @@ draft: "true"
 - Teleports
 - Minor Illusion
 - Just look at D&D cantrips honestly
+- Lights?
+- Ice? Cryokinesis? Extend to Earth and Lightning?
 ### Prophet
 ##### Combat
 ##### Narrative
 - Clear Stress
 - Animal Messenger
 - Progress towards healing Scars
+- A very limited "no, you can't die!". Must be activated in the same scene. Like a resuscitation
 # Classes
 - Riftcaller
 	- Can use body-block on all summons
@@ -261,7 +270,6 @@ draft: "true"
 	- More Talents
 # General Notes
 - Maybe add a Prone status?
-- Maybe add RESISTANT and STRENGH conditions (opposite of VULNERABLE and WEAK)
 - Evolving weapons would be cool
 - Steal Hooks & Afflictions from CAIN
 - Ranged attacks gain +1/+2 Banes when adjacent to an enemy

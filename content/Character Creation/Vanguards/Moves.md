@@ -2,7 +2,7 @@
 -----
 ##### Batter Up
 *2 Adrenaline, Minor Action*  
-Make a *Basic Attack* against a character within Reach. On a hit, the target is knocked back a number of spaces equal to twice your Tier.
+Make a *Basic Attack* against a character within Reach. On a hit, the target is knocked back 2//4//6 spaces.
 
 -----
 ##### Block
@@ -27,12 +27,12 @@ Once per round, when an ally within your **SPEED** is hit by an attack, you may 
 -----
 ##### Steel Slash
 *2 Adrenaline, Minor Action*  
-Make a *Basic Attack* against a character within Reach. On a hit, the target takes additional [[Keywords#Persistent Damage|Persistent Damage]] equal to twice your Tier.
+Make a *Basic Attack* against a character within Reach. On a hit, the target takes an additional 2//4//6 [[Keywords#Persistent Damage|Persistent Damage]].
 
 -----
 ##### Throw
 *3 Adrenaline, Minor Action*  
-Make an attack against a character of your size or smaller within Reach 1. On a hit, you throw the target a number of spaces away from you equal to 2 + your Tier. 
+Make an attack against a character of your size or smaller within Reach 1. On a hit, you throw the target a number of spaces away from you equal to 3//4//5. 
 
 If this causes the target to collide with a wall, they take 1d6 damage for every space they were unable to move.
 

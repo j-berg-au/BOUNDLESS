@@ -15,9 +15,9 @@ There are 4 Classes of **Adept**:
 - **[[Shadow]]**, rogues who employ stealth and street smarts to achieve their goals.
 - **[[Tactician]]**, leaders who command and control the flow of a battle.
 ### Focus Points
-While in combat, **Adepts** use a resource called **Focus Points**. This is a pool of points that they may trade for dice when using **Tricks**. An **Adept** starts combat with a number of **Focus Points** equal to 3 + twice their Tier. An Adept can never have more **Focus Points** than this amount. There are a few ways an **Adept** can regain **Focus Points**:
+While in combat, **Adepts** use a resource called **Focus Points**. This is a pool of points that they may trade for dice when using **Tricks**. An **Adept** starts combat 5//7//9 **Focus Points**. An Adept can never have more **Focus Points** than this amount. There are a few ways an **Adept** can regain **Focus Points**:
 - At the end of each round in which the **Adept** didn’t take damage, they regain **1 Focus Point**.
-- As a Minor Action, they may collect themselves and regain a number of **Focus Points** equal to their Tier.
+- As a Minor Action, they may collect themselves and regain 2//3//4 **Focus Points**.
 Depending on your Class, Talents, and **Tricks**, there may be other ways for you to regain **Focus Dice**.
 
 Additionally, when they would take damage, an **Adept** can expend any amount of **Focus Points** from their **Focus Pool** as if they were spending it on a **Trick**. They may then roll a number of d6's equal to twice the **Focus Points** spent, using the highest result. Based on this result, one of the following happens:

@@ -4,24 +4,24 @@
 *Minor Action, Gadget*  
 You place down a bear trap within Range 3. The first time a character walks over the bear trap, they must make a **WIT** save or suffer an effect.
 
-| **Success Level** | **Effect**                                                                                                                                                                                                                                                                                    |
-| :---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Critical Success  | On a failed save, the target takes 3Td6 damage and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them. After being released, the target remains [[Conditions & Statuses#SLOWED\|SLOWED]] for the rest of the scene. |
-| Success           | On a failed save, the target takes 2Td6 damage and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them.                                                                                                              |
-| Partial Success   | On a failed save, the target takes Td6 damage and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them.                                                                                                               |
-| Failure           | On a failed save, the target takes Td6 damage and is [[Conditions & Statuses#SLOWED\|SLOWED]] until the end of their turn.                                                                                                                                                                    |
+| **Success Level** | **Effect**                                                                                                                                                                                                                                                                                             |
+| :---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Critical Success  | On a failed save, the target takes 3d6//6d6//9d6 damage and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them. After being released, the target remains [[Conditions & Statuses#SLOWED\|SLOWED]] for the rest of the scene. |
+| Success           | On a failed save, the target takes 2d6//4d6//6d6 damage and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them.                                                                                                              |
+| Partial Success   | On a failed save, the target takes 1d6//2d6//3d6 damage and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them.                                                                                                              |
+| Failure           | On a failed save, the target takes 1d6//2d6//3d6 damage and is [[Conditions & Statuses#SLOWED\|SLOWED]] until the end of their turn.                                                                                                                                                                   |
 
 -----
 ##### Caltrops
 *Minor Action, Trap*  
 You empty a bag of caltrops onto the ground in a size 1 circle within Range 3. A character who moves into a space within this circle must make a **FINESSE** save. On a failed save, the caltrops within that space disappear and the character suffers effects depending on the success level of the Trick. On a successful save, the character is unaffected by the caltrops for the rest of their current movement.
 
-| **Success Level** | **Effect**                                                                                                                                       |
-| :---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Critical Success  | The caltrops act as on a Success, however they are spread over a size 2 circle.                                                                  |
-| Success           | On a failed save, a character takes damage equal to twice your Tier and is [[Conditions & Statuses#SLOWED\|SLOWED]] until the end of their turn. |
-| Partial Success   | On a failed save, a character takes damage equal to your Tier.                                                                                   |
-| Failure           | The caltrops act as on a Partial Success, however they are spread over a single space rather than a size 1 circle.                               |
+| **Success Level** | **Effect**                                                                                                                      |
+| :---------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | The caltrops act as on a Success, however they are spread over a size 2 circle.                                                 |
+| Success           | On a failed save, a character takes 2//4//6 damage and is [[Conditions & Statuses#SLOWED\|SLOWED]] until the end of their turn. |
+| Partial Success   | On a failed save, a character takes 1//2//3 damage.                                                                             |
+| Failure           | The caltrops act as on a Partial Success, however they are spread over a single space rather than a size 1 circle.              |
 
 -----
 ##### Dash & Slash
@@ -41,12 +41,12 @@ You dash forward, striking those in your path.
 *Minor Action, Alchemy*  
 You coat your weapon or ammunition in a poison. Make a *Basic Attack* against a target.
 
-| **Success Level** | **Effect**                                                                                                                                                |
-| :---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Critical Success  | The target takes additional [[Keywords#Persistent Damage\|Persistent Damage]] equal to twice your Tier and is [[Conditions & Statuses#STUNNED\|STUNNED]]. |
-| Success           | The target takes additional [[Keywords#Persistent Damage\|Persistent Damage]] equal to twice your Tier.                                                   |
-| Partial Success   | The target takes additional [[Keywords#Persistent Damage\|Persistent Damage]] equal to your Tier.                                                         |
-| Failure           | The target suffers no additional effects.                                                                                                                 |
+| **Success Level** | **Effect**                                                                                                                               |
+| :---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | The target takes additional 2//4//6 [[Keywords#Persistent Damage\|Persistent Damage]] and is [[Conditions & Statuses#STUNNED\|STUNNED]]. |
+| Success           | The target takes additional 2//4//6 [[Keywords#Persistent Damage\|Persistent Damage]]                                                    |
+| Partial Success   | The target takes additional 1//2//3 [[Keywords#Persistent Damage\|Persistent Damage]].                                                   |
+| Failure           | The target suffers no additional effects.                                                                                                |
 
 -----
 ##### Net

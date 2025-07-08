@@ -7,14 +7,18 @@ IMMOBLISED characters cannot make any voluntary movements, although involuntary 
 Hostile characters can choose to consume a character’s MARKED condition in exchange for **+1 Boon** on their next attack against that character.
 ##### Off-Guard
 Characters who are OFF-GUARD gain **+1 Bane** on all saves.
+##### Resistant
+When a character becomes RESISTANT, a value for the RESISTANT (for example RESISTANT 2) condition is specified. All damage taken by a RESISTANT character is decreased by this value (to a minimum of 0), except for [[Keywords#Persistent Damage|Persistent Damage]]. If a character has multiple instances of RESISTANT, only the one with the highest value applies for a given damage calculation.
 ##### Slowed
 SLOWED characters can only voluntarily move by using their standard move on their turn. They cannot Dash or use any other features that allow them to move.
+##### Strength
+When a character becomes STRENGTH, a value for the STRENGTH condition is specified. All damage dealt by a STRENGTH character is increased by this value. If a character has multiple instances of STRENGTH, only the one with the highest value applies for a given damage calculation.
 ##### Stunned
 STUNNED characters can only take a single Minor Action on their turn, instead of 2 Minor Actions or 1 Major Action. Additionally, a STUNNED character is unable to take Reactions. When a STUNNED character’s turn ends, they are no longer STUNNED.
 ##### Vulnerable
 When a character becomes VULNERABLE, a value for the VULNERABLE (for example VULNERABLE 2) condition is specified. All damage taken by a VULNERABLE character is increased by this value, except for [[Keywords#Persistent Damage|Persistent Damage]]. If a character has multiple instances of VULNERABLE, only the one with the highest value applies for a given damage calculation.
 ##### Weak
-When a character becomes WEAK, a value for the WEAK condition is specified. All damage dealt by a WEAK character is decreased by this value. If a character has multiple instances of WEAK, only the one with the highest value applies for a given damage calculation.
+When a character becomes WEAK, a value for the WEAK condition is specified. All damage dealt by a WEAK character is decreased by this value (to a minimum of 0). If a character has multiple instances of WEAK, only the one with the highest value applies for a given damage calculation.
 ## Statuses
 
 ##### Defeated

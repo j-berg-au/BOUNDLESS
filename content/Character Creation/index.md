@@ -28,7 +28,7 @@ In ***BOUNDLESS*** there are 12 "Levels", which represent how powerful your char
 ### Tier
 The Levels are separated into three **Tiers**, each representing a substantial jump in power. See the table above to check which Levels correspond to which Tiers. 
 
-Sometimes Tier is referred to simply as **T**, particularly in the context of calculating dice rolls. For example, **Td6 + T** represents rolling a number of six-sided dice equal to your Tier, then adding your Tier to the result. You may also see something like **2Td8**, which means to roll a number of eight-sided dice equal to twice your Tier.
+It is very common for things within the game to become more powerful as you increase in Tier. When you see three versions of something separated by forward slashes '/', for example 1d6/2d6/3d6, the first item represents the version used for Tier I, the second for Tier II, and the third for Tier III.
 ### Saves & Skills
 There are four **Saves** that define your character, **MIGHT**, **FINESSE**, **WIT**, and **PRESENCE**. These are used to avoid certain consequences during Tactical Combat.
 

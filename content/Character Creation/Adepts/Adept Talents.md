@@ -4,7 +4,7 @@
 ##### Calculated
 Once per combat, you may foresee the outcome of a **Trick** before committing to it. On your turn before using a **Trick**, you may declare how many **Focus Points** you will spend and roll the corresponding amount of dice. After checking your result, you may choose whether or not you will indeed use the **Trick**. If you do, expend the **Focus Points** and use the result you had rolled for the **Trick**. If you choose not to use the **Trick**, you cannot use that **Trick** this turn.
 ##### Callouts
-As a Minor Action, you may inflict the [[Conditions & Statuses#Marked|MARKED]] condition on a target within Range 8.
+As a Minor Action, you may inflict the [[Conditions & Statuses#Marked|MARKED]] condition on a target within Range 15.
 ##### Careful Aim
 At the beginning of your turn, you can hold steady to line up your shots. Until the start of your next turn you are [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]] and gain **+1 Boon** on all attack rolls.
 ##### Combat Telepathy
@@ -31,7 +31,7 @@ Whenever you would make a save, you may make a **PRESENCE** save instead.
 When an attack misses you, you may move up to 2 spaces as a Reaction. This movement does not trigger any Reactions.
 ##### Sneaky Attack
 *Prerequisite: [[Shadow]]*  
-When you make an attack while [[Conditions & Statuses#Hidden|HIDDEN]], the attack deals an additional Td4 damage.
+When you make an attack while [[Conditions & Statuses#Hidden|HIDDEN]], the attack deals an additional 1d4//2d4//3d4 damage.
 ##### Watch Out!
 When an ally within Range 5 takes damage, you may use your Reaction to spend any number of **Focus Points** to help them avoid the damage, as if you were spending them to avoid damage for yourself.
 ### Tier II

@@ -15,7 +15,7 @@ You remove two conditions or one condition and all [[Keywords#Persistent Damage|
 *Fate Target: 6*  
 *Minor Action*  
 **Standard Effect:**  
-Choose a target within Range 8. They must make a **PRESENCE** save or gain [[Conditions & Statuses#WEAK|WEAK]] (value equal to Tier) and have their **EVASION** reduced by 1. They may repeat the save at the end of each of their turns to remove the effect.
+Choose a target within Range 8. They must make a **PRESENCE** save or gain [[Conditions & Statuses#WEAK|WEAK]] 1//2//3 and have their **EVASION** reduced by 1. They may repeat the save at the end of each of their turns to remove the effect.
 
 **Divine Effect:**  
 As Standard Effect, but the target also gains **+1 Bane** on all saves until the effect is removed.
@@ -36,7 +36,7 @@ As Standard Effect, but the target is also [[Conditions & Statuses#STUNNED|STUNN
 *Fate Target: 6*  
 *Minor Action, Totem*  
 **Standard Effect:**  
-Choose an ally within Reach 1. They gain a bonus to their **SPEED** equal to your Tier. Only one ally can benefit from a Totem at a time.  
+Choose an ally within Reach 1. They gain a 1//2//3 bonus to their **SPEED**. Only one ally can benefit from a Totem at a time.  
 
 **Divine Effect:**  
 As Standard Effect, but the target also gains a +2 bonus to their **EVASION**.
@@ -46,10 +46,10 @@ As Standard Effect, but the target also gains a +2 bonus to their **EVASION**.
 *Fate Target: 6*  
 *Minor Action*  
 **Standard Effect:**  
-You grant an ally within Range 5 **4/8/12** [[Keywords#Shield|Shield]].  
+You grant an ally within Range 5 **4//8//12** [[Keywords#Shield|Shield]].  
 
 **Divine Effect:**  
-You grant an ally within Range 5 **8/16/24** [[Keywords#Shield|Shield]].  
+You grant an ally within Range 5 **8//16//24** [[Keywords#Shield|Shield]].  
 
 -----
 ##### Foresee
@@ -116,7 +116,7 @@ As Standard Effect, but you also gain 1 [[Keywords#Aegis|Aegis]].
 *Fate Target: 6*  
 *Minor Action, Totem*  
 **Standard Effect:**  
-Choose an ally within Reach 1. They grow one size larger, and their attacks deal additional damage equal to your Tier. Only one ally can benefit from a Totem at a time.  
+Choose an ally within Reach 1. They grow one size larger, and their attacks deal an additional 1//2//3 damage. Only one ally can benefit from a Totem at a time.  
 
 **Divine Effect:**  
 As Standard Effect, but the target also gains [[Keywords#Shield|Shield]] equal to your Level.

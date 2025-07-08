@@ -1,3 +1,5 @@
+> **WARNING:** This class is in an unfinished state. Please consider playing a different class for now.
+
 **Description**  
 Mages who bind other creatures to serve them, calling the through rifts in the Aether, are known as **Riftcallers**. These creatures could be undead, animals, spirits, elementals, or any other kind of creature.
 

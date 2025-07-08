@@ -22,7 +22,7 @@ You gain the **Miracles** *[[Miracles#CLEANSE|Cleanse]]* and *[[Miracles#REVITAL
 Whenever you use a **Miracle** on an ally, you gain **1 Favour**. When you reach **5 Favour**, you may spend all your **Favour** to use the *Smite the Heretical* action below. You lose all Favour when combat ends.
 ##### Smite the Heretical
 *Major Action*  
-Choose a target within Range 10. They immediately take damage equal to ten times your Tier and are [[Conditions & Statuses#MARKED|MARKED]] and [[Conditions & Statuses#SLOWED|SLOWED]] until the end of your next turn. Additionally, the target must make a **PRESENCE** save. On a failed save, roll 1d6 to determine an additional effect: 
+Choose a target within Range 10. They immediately take 10//20//30 damage and are [[Conditions & Statuses#MARKED|MARKED]] and [[Conditions & Statuses#SLOWED|SLOWED]] until the end of your next turn. Additionally, the target must make a **PRESENCE** save. On a failed save, roll 1d6 to determine an additional effect: 
 
 | d6  | Effect                                                                                                  |
 | :-: | ------------------------------------------------------------------------------------------------------- |

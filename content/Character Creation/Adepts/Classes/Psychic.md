@@ -1,3 +1,5 @@
+> **WARNING:** This class is in an unfinished state. Please consider playing a different class for now.
+
 **Description**  
 Blank.
 

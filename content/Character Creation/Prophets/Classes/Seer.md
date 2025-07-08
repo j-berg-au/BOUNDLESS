@@ -19,6 +19,6 @@ You learn 3 **Miracles** of your choice. Each time you increase in Tier, you lea
 ##### Revelations
 You gain the **Miracles** *[[Miracles#Foresee|Foresee]]* and *[[Miracles#Reading|Reading]]* for free, without them counting towards the number of **Miracles** you know.
 ##### Glimpses of Fate
-When combat begins, you gain a number of **Glimpses** equal to three times your Tier. You can spend these **Glimpses** in the following ways. You may only spend a number of Glimpses equal to your Tier at a given time.
+When combat begins, you gain 3//6//9 **Glimpses**. You can spend these **Glimpses** in the following ways. You may only spend 1//2//3 Glimpses at a given time.
 - When yourself or an ally within Range 10 is about to make an attack roll or save, you may grant **+1 Boon** for each **Glimpse** spent.
 - When yourself or an ally within Range 10 is about to be targeted by an attack, you may impose **+1 Bane** on the attack roll for each **Glimpse** spent. 
