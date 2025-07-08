@@ -40,6 +40,11 @@ Select an additional **Magical Domain**, gaining its **Spells** and feature.
 ### Tier I
 ##### Aether Construct
 You may spend **2 Stress** to create a simple non-magical item that can fit within your cupped hands.
+##### Cryokinesis
+You paint the world around you with ice. You can do the following.
+- You can summon a few litres of ice on an object or floating near you.
+- You can freeze or unfreeze a small object or a small part of an object.
+- You are completely immune to any effects relating to cold environments.
 ##### Flight
 You have learnt the magic required to grant an individual the ability to fly. You may spend **2 Stress** to give yourself or someone you touch the ability to fly for the rest of the scene.
 ##### Pyrokinesis
@@ -53,6 +58,12 @@ By spending **2 Stress**, you can increase the size of the flames you can contro
 You may spend **2 Stress** to telekinetically move an object you can see within a short distance. 
 
 At Tier I, the maximum weight you may move is roughly that of a person. At Tier II, this becomes roughly the weight of horse and cart. At Tier III, this becomes the weight of a small building.
+##### Terrakinesis
+You mould the earth like clay. You may spend **2 Stress** to do one of the following.
+- Instantly dig a hole in stone or dirt up to the size of a horse and cart.
+- Summon a pillar of stone from the ground that is large enough to fit a person standing on top of it, and up to about 3 metres high.
+- Shape the earth in some other way in which you move roughly the same amount of earth as the above to options.
+
 ### Tier II
 
 ### Tier III

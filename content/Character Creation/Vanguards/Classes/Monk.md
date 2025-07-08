@@ -1,5 +1,3 @@
-> **WARNING:** This class is in an unfinished state. Please consider playing a different class for now.
-
 **Description**  
 Skilled in reading their opponents, **Monks** exude an unnatural sense of calm when faced with battle. 
 

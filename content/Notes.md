@@ -216,8 +216,6 @@ draft: "true"
 - Fast healing of Scars?
 - Berserker: Calm Before the Storm. Outside of combat, your thoughts and emotional state cannot be divined or read in any way. Find a way to buff this
 - Exemplar: something discipline related? Or technique?
-- Knight: Squire. You have a lilguy who does stuff for you.
-	- Ask the other players if any of them would like to volunteer to play as your Squire. If no one volunteers, you may play as your own Squire. The Squire has a 0 in all skills and cannot spend Stress
 ### Adept
 ##### Combat
 - Buffs to INVISIBLE
