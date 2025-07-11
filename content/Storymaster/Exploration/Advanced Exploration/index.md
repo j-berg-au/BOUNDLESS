@@ -21,11 +21,35 @@ A typical day for adventuring can be broken down into the following:
 - 4 hours of restful activities,
 - and 8 hours of sleep.
 ### Travel
-### Rest Actions
-- Rest (clear ndX stress)
-### Pushing On
-- Spending **Strain** to travel more than comfortable within a day.
+##### Hex Types
+
+| Type           | Time    |
+| :------------- | ------- |
+| Plains, Hills  | 1 hour  |
+| Bog, Forest    | 2 hours |
+| Desert, Jungle | 3 hours |
+| Mountain       | 4 hours |
 ### Searching a Hex
-### Hex Types
 ### Landmarks
+- Some Landmarks can only be spotted upon entering a Hex
+- Some Landmarks can only be found by searching a Hex, these are called Hidden.
+### Pushing On
+Towards the end of an Adventuring Day, the party may decide they wish to push on and travel for more than the usual 8 hours. If the players choose to do so, they gain an additional 2 hours to travel but suffer the following:
+- Each player gives up **1 Rest Action** for that day.
+- Each PC gains **3 Stress**.
+### Ending the Day
+#### Supplies
+**Supplies** are used to track the food, water, and other necessities the party has for their travels. **1 Supply is enough to sustain the entire party for 1 day.** At the end of each Adventuring Day, deduct 1 Supply. 
+
+Each day the party travel and are unable to deduct a **Supply**, each PC must take a **Strain**.
+
+At the start of each Quest, the Storymaster must decide on how many **Supplies** the party starts with. This number can vary depending on how happy you are for them to take their time between destinations, but a recommended amount is **twice the number they would need if they took the optimal route.**
+#### Rest Actions
+- Take it Easy (clear 1d4 stress)
+- Crafting (Downtime Crafting grants more progress)
+- Foraging? Start a Foraging Clock for the party, when its full you get an extra "Supply" (which is one days worth of stuff for the entire party.)
+### Party Tracker
+- Supplies
+- Foraging Clock
+- Hours (day by day)
 ## Narrative Talents for Advanced Exploration

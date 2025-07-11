@@ -8,6 +8,9 @@ The campaign is separated into three arcs (corresponding to tiers), each with fo
 ### Motivations
 - Discover a way to bring back the dead
 - Discover a way to avoid death
+
+The players get to "The Realm Above", starting at a settlement. The players do a Level's worth of content trying to get to "The Great Tower" (better name pls), which they descend through to get to "The Realm Below", which constitutes another Level where they try to get to Whalefall. To descend in the tower, the players must do the locals a favour
+- *"If you help me deal with X, I will help you traverse the clouds and down the tower. You have my word."* - NPC that will temporarily join the party
 ### Realms
 Maybe each Realm is basically a planet?
 - Terra — The Realm of Land
