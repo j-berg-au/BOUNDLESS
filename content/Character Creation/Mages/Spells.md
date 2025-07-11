@@ -97,7 +97,7 @@ You summon an additional spear for each **Mana** spent.
 -----
 ##### Invoke Lightning
 *3 Mana, Major Action, Storm*  
-Target three characters within Range 6. All characters must pass a **FINESSE** save or take 1d6 damage.
+Target two characters within Range 8. All characters must pass a **FINESSE** save or take 1d6 damage.
 
 **Augments**  
 *Amplified. 2+ Mana*  

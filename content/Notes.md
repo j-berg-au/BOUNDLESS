@@ -1,8 +1,6 @@
 ---
 draft: "true"
 ---
-1d6+1||2d6+2||3d6+3
-1d6+1//2d6+2//3d6+3
 # Priorities
 1. Write out enemy stat blocks
 	1. Add saves to enemies
@@ -11,10 +9,13 @@ draft: "true"
 4. Do another pass on Weapons (names + balance)
 5. More Combat Talents
 6. Write out artefacts/consumables
-7. Psychic
+7. Virtuoso
+	1. Rework?
+	2. More Miracles
+8. Psychic
 	1. More Tricks
 	2. More Talents
-8. Riftcaller
+9. Riftcaller
 	1. Rework?
 	2. More Spells
 	3. More Talents
@@ -23,7 +24,7 @@ draft: "true"
 - Do I need to reconsider saves?
 # To Do
 - Make an art inspiration board
-- Reduce cost of Batter Up/Make it an add-on effect to another attack
+- Flavourful currency name
 - Nerf Ricochet
 - Come up with a systematic way to determine damage for weapons and abilities
 - Write rules on the Bag, Artefacts, and Consumables
@@ -135,6 +136,16 @@ draft: "true"
 - Demonic
 - Undead
 ##### Exploration
+- Let groups choose between a Pointcrawl and a Hexcrawl
+	- Provide a list of talents for each option
+- Pointcrawl
+	- 
+- Hexcrawl
+	- https://www.youtube.com/watch?v=hEIg1DlRkLg
+	- Vanguard: Pick up and carry your allies for a speed boost when travelling by spending Stress
+	- Adept: Climb up a tree/tower to see 2 hexes away
+	- Mage: Teleport to a hex you have travelled to (add a range limit)
+	- Prophet: Divine what is in a certain hex
 # Ability Ideas
 ##### Moves
 - Hook someone and pull them closer

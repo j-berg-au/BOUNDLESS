@@ -6,6 +6,7 @@ aliases:
 ### Navigation
 - [[Rules/Narrative Play/index|Narrative Play]]
 - [[Rules/Tactical Combat/index|Tactical Combat]]
+- [[Rules/Exploration/index|Exploration]]
 ### The Basics
 ##### What you need
 To play ***BOUNDLESS***, you will need the following:
