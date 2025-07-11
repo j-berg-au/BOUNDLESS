@@ -76,7 +76,9 @@ draft: "true"
 - Odd jobs (for Coin)
 - Work on a Project
 - Find information
+- Add a "Montage" feel to it
 ##### Crafting
+- Does crafting require ingredients?
 ##### Exploration?
 # Storymaster
 ##### Combat Building
@@ -142,10 +144,8 @@ draft: "true"
 	- 
 - Hexcrawl
 	- https://www.youtube.com/watch?v=hEIg1DlRkLg
-	- Vanguard: Pick up and carry your allies for a speed boost when travelling by spending Stress
-	- Adept: Climb up a tree/tower to see 2 hexes away
-	- Mage: Teleport to a hex you have travelled to (add a range limit)
-	- Prophet: Divine what is in a certain hex
+	- Maybe a cart with something pulling it gives you bonus "hours" to travel without that time actually passing
+	- Maybe reduce to 1 rest action per day
 # Ability Ideas
 ##### Moves
 - Hook someone and pull them closer

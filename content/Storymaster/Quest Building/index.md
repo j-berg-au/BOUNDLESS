@@ -8,11 +8,6 @@ NOT ALL QUESTS REQUIRE EXPLORATION RULES
 
 Players should not be able to explore the entire map.
 
-Should travelling take **Supplies**?
-- Pros: Prevents players from dilly-dallying
-- Cons: Tracking is annoying?
-- Thoughts: Mark supplies at the end of each day?
-
 It'd be cool to get a cheap monitor from Facebook Marketplace to put at the end of the table with the map
 
 Within an encounter, "highlight 3 objects", which means describe three things the players may be able to interact with 

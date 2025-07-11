@@ -31,8 +31,20 @@ A typical day for adventuring can be broken down into the following:
 | Mountain       | 4 hours |
 ### Searching a Hex
 ### Landmarks
-- Some Landmarks can only be spotted upon entering a Hex
-- Some Landmarks can only be found by searching a Hex, these are called Hidden.
+During their travels, the party will come across various places, problems, puzzles, and people. When one of these reside within a Hex waiting to be discovered, we call this a **Landmark**. To interact with a Landmark (or for the Landmark to interact with them), the party must enter the Hex in which it resides.
+##### Obscured & Hidden Landmarks
+Some Landmarks are less obvious than others.
+
+**Obscured** Landmarks cannot be detected unless the party have entered the Hex it resides in. **Hidden** Landmarks on the other hand, can only be discovered when the party **Searches** the Hex it resides in.
+##### Example Landmarks
+Below are some examples of Landmarks the party may discover:
+- 
+
+Examples of **Obscured** Landmarks include:
+- People, such as merchants, other travellers, or bandits. 
+
+Examples of **Hidden** Landmarks include:
+- Blank.
 ### Pushing On
 Towards the end of an Adventuring Day, the party may decide they wish to push on and travel for more than the usual 8 hours. If the players choose to do so, they gain an additional 2 hours to travel but suffer the following:
 - Each player gives up **1 Rest Action** for that day.
@@ -48,8 +60,24 @@ At the start of each Quest, the Storymaster must decide on how many **Supplies**
 - Take it Easy (clear 1d4 stress)
 - Crafting (Downtime Crafting grants more progress)
 - Foraging? Start a Foraging Clock for the party, when its full you get an extra "Supply" (which is one days worth of stuff for the entire party.)
+- Work on a Project (Downtime will grant more progress)
+	- Projects could include deciphering an artefact, earn the trust of an NPC travelling with the party, etc
 ### Party Tracker
 - Supplies
 - Foraging Clock
 - Hours (day by day)
-## Narrative Talents for Advanced Exploration
+## Talents for Advanced Exploration
+- If you're using Advanced Exploration, you may present the following to the Players and allow them to pick one per Tier of their character, in addition to their normal Talents.
+
+##### Insomniac
+During each day, you may take an additional **Rest Action**. However, you reduce your **Stress Cap** by 1.
+
+Ideas:
+- (Limited) bonus Rest Actions
+- Vanguard can spend Stress to pick up the party and carry them for a speed boost
+- Adept can climb up high to see an additional Hex away
+- Mage can teleport to a hex they have already travelled to
+- Prophet can divine what is in a certain hex.
+	- Does this act as a "Search"?
+	- Does this just tell you the Hex Type ahead?
+	- Maybe it directs you to a Landmark?
