@@ -1,13 +1,13 @@
 > Description.
 
-| **Core Statistics** |                         |  **Saves**   |             |
-| :-----------------: | :---------------------- | :----------: | :---------- |
-|         HP          | = 125 \|\| 250 \|\| 375 |  **MIGHT**   | = 2 + Level |
-|         HIT         | = 2 + Level             | **FINESSE**  | = Level     |
-|       EVASION       | = 8 + Level             |   **WIT**    | = 3 + Level |
-|        SPEED        | = 3                     | **PRESENCE** | = 2 + Level |
-|     Save Target     | = 13 + Level            |              |             |
-|        Size         | = 2                     |              |             |
+| **Core Statistics** | Tier I | Tier II | Tier III |  **Saves**   | Tier I | Tier II | Tier III |
+| :-----------------: | :----: | :-----: | :------: | :----------: | :----: | :-----: | :------: |
+|         **HP**          |  125   |   250   |   375    |  **MIGHT**   |   +3   |   +7    |   +11    |
+|         **HIT**         |   +3   |   +7    |   +11    | **FINESSE**  |   +1   |   +4    |    +8    |
+|       **EVASION**       |   9    |   13    |    17    |   **WIT**    |   +4   |   +8    |   +12    |
+|        **SPEED**        |   3    |    3    |    4     | **PRESENCE** |   +3   |   +7    |   +11    |
+|     **Save Target**     |   14   |   18    |    22    |              |        |         |          |
+|        **Size**         |   2    |    2    |    2     |              |        |         |          |
 ##### Nemesis
 **The Queen of Bones** can take a number of turns in a round equal to the number of PCs.
 ##### Mortum Esoterica
@@ -24,7 +24,7 @@ If a **Totem of Hatred** remains undestroyed by the end of Round 6, the PC the s
 ### Actions
 ##### Bone Spears
 *Major Action*  
-**The Queen of Bones** summons spears from the earth around her in all spaces within Range 2. Any character within this area must make a **FINESSE** save or take **2d6 || 4d6 || 6d6 damage**, taking half as much on a successful save.
+**The Queen of Bones** summons spears from the earth around her in all spaces within Range 2. Any character within this area must make a **FINESSE** save or take **2d6 || 4d6 || 6d6 damage**.
 ##### Decomposition Ray
 *Major Action*  
 **The Queen of Bones** launches a ray of sickly energy, making an attack against a target within Range 10. On a hit, the target takes **3d4 || 6d4 || 9d4 damage** and becomes [[Conditions & Statuses#Slowed|SLOWED]] as their bones begin to decompose.

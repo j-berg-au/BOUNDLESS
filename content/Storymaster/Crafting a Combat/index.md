@@ -3,6 +3,8 @@ title: Crafting a Combat
 aliases: []
 ---
 ### Balancing Combats
+- If early in Tier, use basic enemies without amplifiers
+- If later in Tier, use more amplifiers and/or more enemies
 
 ##### Recommended Difficulty Points by Level
 

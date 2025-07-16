@@ -30,6 +30,7 @@ A typical day for adventuring can be broken down into the following:
 | Desert, Jungle | 3 hours |
 | Mountain       | 4 hours |
 ### Searching a Hex
+- If no Hidden Landmarks to find, roll on a table. The table gives nothing about a third of the time.
 ### Landmarks
 During their travels, the party will come across various places, problems, puzzles, and people. When one of these reside within a Hex waiting to be discovered, we call this a **Landmark**. To interact with a Landmark (or for the Landmark to interact with them), the party must enter the Hex in which it resides.
 ##### Obscured & Hidden Landmarks

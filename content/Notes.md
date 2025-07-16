@@ -3,29 +3,31 @@ draft: "true"
 ---
 # Priorities
 1. Write out enemy stat blocks
-	1. Add saves to enemies
 2. More Narrative Talents
 3. More Prophet Miracles
 4. Do another pass on Weapons (names + balance)
 5. More Combat Talents
 6. Write out artefacts/consumables
-7. Virtuoso
+7. Write out Exploration Rules
+8. Finish writing out Combat/Narrative Rules
+9. Virtuoso
 	1. Rework?
 	2. More Miracles
-8. Psychic
+10. Psychic
 	1. More Tricks
 	2. More Talents
-9. Riftcaller
+11. Riftcaller
 	1. Rework?
 	2. More Spells
 	3. More Talents
-# Still Deciding
-- Does Monk need a rework? Or did it just struggle in playtest due to saves? (and half damage on success)
-- Do I need to reconsider saves?
 # To Do
 - Make an art inspiration board
 - Flavourful currency name
+	- Trade in magical energy? Easy to gain from monsters. Does this mean we trade in Aether? Also allows you to spend it to craft things. Maybe Aether, maybe not Aether? Idk
 - Nerf Ricochet
+- Attack that does something like "deals X damage n times"
+- Move/Trick called "Fake-Out", deal 1 damage, then deal X (lots) damage.
+- Something that temporarily increases a Prophet's Fate Die? A consumable? A Talent? A Miracle?
 - Come up with a systematic way to determine damage for weapons and abilities
 - Write rules on the Bag, Artefacts, and Consumables
 	- Bag: Can claim any item (within reason). May make certain rolls possible, grant a Boon on a check, or increase Reward on a check.
