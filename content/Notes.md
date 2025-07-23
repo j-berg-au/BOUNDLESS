@@ -21,7 +21,9 @@ draft: "true"
 	2. More Spells
 	3. More Talents
 # To Do
+- Pivot Prophet to more single-target debuff focus, deprioritise pure-support. Prophets should have the highest save target, followed by Mages, followed by the other two.
 - Make an art inspiration board
+- Even out the weapons (make sure each Type has the same number of weapons, atm the Vanguard has the most at 7)
 - Flavourful currency name
 	- Trade in magical energy? Easy to gain from monsters. Does this mean we trade in Aether? Also allows you to spend it to craft things. Maybe Aether, maybe not Aether? Idk
 - Nerf Ricochet
@@ -102,6 +104,7 @@ draft: "true"
 	- Add prices and clocks to make them.
 ##### Generic Enemies 
 - Sentinel
+- Horde (gets weaker/smaller as it gets damaged)
 - Skirmisher
 - Spellcaster
 	- Give 3 default spells, amplifiers to add more
@@ -134,6 +137,8 @@ draft: "true"
 - False God
 - Blade guy
 - Dragon
+- Super Horde!
+	- Gets larger each round
 ##### Amplifiers
 - Weakspots. Hit a predetermined number on an attack roll and deal flat bonus damage. Can impose +1 Bane to move your result 1 up or down. Maybe the GM gives a range that this number lies in. 
 - Vampiric
@@ -156,6 +161,7 @@ draft: "true"
 - Parry
 - Smite
 - Apply magic to weapon (fire for example)
+- (Tier II) Air Slash that damages everyone in a line and everyone adjacent to the line (basically 3-space wide line, rather than a cone).
 ##### Tricks
 - Ball Bearings
 - More Traps

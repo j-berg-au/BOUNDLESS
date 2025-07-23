@@ -18,13 +18,13 @@ Characters allied to the Sentinel may use the Sentinel as **hard cover**.
 ---
 ### Actions
 ##### Pummel
-*Major Action, [[Keywords#Inaccurate|Inaccurate]], [[Keywords#Graze|Graze]]*  
+*Major Action, Melee Attack, [[Keywords#Inaccurate|Inaccurate]], [[Keywords#Graze|Graze]]*  
 The **Sentinel** makes an attack against a character within Reach 2. On a hit, the target takes **1d4+2 || 2d4+4 || 4d4+6 damage**, is [[Conditions & Statuses#Off-Guard|OFF-GUARD]] until the end of their next turn, and must succeed on a **MIGHT** save or become [[Conditions & Statuses#Stunned|STUNNED]].
 ##### Raise Shield
 *Minor Action*  
 The **Sentinel** prepares itself for incoming fire. If it doesn't currently have any [[Keywords#Aegis|Aegis]], it grants itself **1 || 2 || 3** [[Keywords#Aegis|Aegis]]. 
 ##### Swing
-*Minor Action*  
+*Minor Action, Melee Attack*  
 The **Sentinel** makes an attack against a character within Reach 2. On a hit, the target takes **1d8 || 2d8 || 3d8 damage**.
 
 ---

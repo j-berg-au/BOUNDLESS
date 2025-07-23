@@ -2,13 +2,12 @@
 
 | **Core Statistics** | Tier I | Tier II | Tier III |  **Saves**   | Tier I | Tier II | Tier III |
 | :-----------------: | :----: | :-----: | :------: | :----------: | :----: | :-----: | :------: |
-|       **HP**        |        |         |          |  **MIGHT**   |        |         |          |
-|       **HIT**       |        |         |          | **FINESSE**  |        |         |          |
-|     **EVASION**     |        |         |          |   **WIT**    |        |         |          |
-|      **SPEED**      |        |         |          | **PRESENCE** |        |         |          |
-|   **Save Target**   |        |         |          |              |        |         |          |
-|      **Size**       |        |         |          |              |        |         |          |
-
+|       **HP**        |   20   |   40    |    60    |  **MIGHT**   |   -1   |   +3    |    +7    |
+|       **HIT**       |   +1   |   +5    |    +9    | **FINESSE**  |   +1   |   +5    |    +9    |
+|     **EVASION**     |   9    |   13    |    17    |   **WIT**    |   +3   |   +7    |   +11    |
+|      **SPEED**      |   4    |    4    |    4     | **PRESENCE** |   +2   |   +6    |   +10    |
+|   **Save Target**   |   10   |   14    |    18    |              |        |         |          |
+|      **Size**       |   1    |    1    |    1     |              |        |         |          |
 ##### Frail
 Any damage a **Spellcaster** takes from a melee attack is doubled.
 ##### Spells

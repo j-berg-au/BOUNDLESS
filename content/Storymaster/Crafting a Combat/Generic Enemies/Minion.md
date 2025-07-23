@@ -2,12 +2,12 @@
 
 | **Core Statistics** | Tier I | Tier II | Tier III |  **Saves**   | Tier I | Tier II | Tier III |
 | :-----------------: | :----: | :-----: | :------: | :----------: | :----: | :-----: | :------: |
-|         **HP**          |   1    |    1    |    1     |  **MIGHT**   |   -2   |   +2    |    +6    |
-|         **HIT**         |   -1   |   +3    |    +7    | **FINESSE**  |   -2   |   +2    |    +6    |
-|       **EVASION**       |   6    |   10    |    14    |   **WIT**    |   -2   |   +2    |    +6    |
-|        **SPEED**        |   3    |    3    |    3     | **PRESENCE** |   -2   |   +2    |    +6    |
-|     **Save Target**     |   6    |   10    |    14    |              |        |         |          |
-|        **Size**         |   1    |    1    |    1     |              |        |         |          |
+|       **HP**        |   1    |    1    |    1     |  **MIGHT**   |   -2   |   +2    |    +6    |
+|       **HIT**       |   +0   |   +4    |    +8    | **FINESSE**  |   -2   |   +2    |    +6    |
+|     **EVASION**     |   6    |   10    |    14    |   **WIT**    |   -2   |   +2    |    +6    |
+|      **SPEED**      |   3    |    3    |    3     | **PRESENCE** |   -2   |   +2    |    +6    |
+|   **Save Target**   |   6    |   10    |    14    |              |        |         |          |
+|      **Size**       |   1    |    1    |    1     |              |        |         |          |
 
 ##### Coordination
 Two **Minions** can take their turn at the same time.
@@ -19,8 +19,8 @@ Any Minor Actions a **Minion** takes counts as taking a Major Action.
 ---
 ### Actions
 ##### Attack!
-*Major Action*  
-The **Minion** deals **1d4 || 2d4 || 3d4** damage to a character within Range 3.
+*Major Action, Ranged Attack, Range 4*  
+Damage on hit: **3 || 6 || 9**. 
 
 ---
 ### Amplifiers
