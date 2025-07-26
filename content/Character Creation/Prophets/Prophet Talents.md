@@ -13,6 +13,9 @@ When you use a Miracle on an ally and gain the Divine Effect, both you and the t
 When you take the [[Your Turn#Set-Up|Set-Up]] Minor Action, you may instead choose an ally within Range 5.
 ##### Inspired Action
 When you use your *Basic Attack*, you may forego the attack to allow an ally within Range 8 to make a single *Basic Attack* instead as a Reaction.
+##### Luck of the Gods
+*Prerequisite: [[Priest]]*  
+After rolling your Fate Die, you may spend **2 Favour** to reroll it. You must use the new result.
 ##### Twinned Totem
 *Prerequisite: [[Druid]]*  
 You may have two Totems active at a given time, but they must be active on different characters.
@@ -52,5 +55,7 @@ A plant is generally aware of its surroundings and those who pass by it, and wha
 ##### Trustworthy
 *Prerequisite: [[Priest]]*  
 As a Priest, people tend to trust your word. You gain **+1 Boon** on all skill checks made to influence others who are not hostile towards you.
+##### Unholy Detection
+By spending **1 Stress**, until the end of the scene you gain the ability to detect the presence of undead or demonic creatures, or undead or demonic magic, within a short distance.
 ### Tier II
 ### Tier III

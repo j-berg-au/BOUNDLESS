@@ -10,13 +10,15 @@ When you are reduced to 0HP, flip a coin and call it. If you guess correctly, yo
 You have a knack for learning the attack patterns of your foes. Once per round when you are hit by an attack from an enemy, your **EVASION** increases by 1. At the end of the combat, your **EVASION** returns to its usual value.
 ##### Sanguine Thirst
 *Prerequisite: [[Generic Talents#Curse of Vampirism|Curse of Vampirism]]*  
-When you hit with your *Basic Attack*, excluding when part of a **Move**, you regain 1 || 2 || 3 HP. The target must have blood for this effect to trigger.
+When you hit with your *Basic Attack*, you regain 1 || 2 || 3 HP. The target must have blood for this effect to trigger.
 ##### Shield
 All attacks made against allies adjacent to you are made with **+1 Bane**.
 ##### S#!t Talker
 You may **TAUNT** once per turn as a Free Action.
 ##### To Action!
 At the beginning of combat, you may move up to your **SPEED** before anyone takes a turn.
+##### Tower
+Allies adjacent to you can use you as **hard cover**.
 ##### Unnatural Force
 When you take the Shove action, you are able to knock back the target up to 3 spaces.
 ##### Versatile Training

@@ -2,21 +2,22 @@
 draft: "true"
 ---
 # Priorities
-1. Write out enemy stat blocks
-2. More Narrative Talents
-3. More Prophet Miracles
-4. Do another pass on Weapons (names + balance)
-5. More Combat Talents
-6. Write out artefacts/consumables
-7. Write out Exploration Rules
-8. Finish writing out Combat/Narrative Rules
-9. Virtuoso
+1. One-Shot Pointcrawl
+2. Write out enemy stat blocks
+3. More Narrative Talents
+4. More Prophet Miracles
+5. Do another pass on Weapons (balance + more weapons)
+6. More Combat Talents
+7. Write out artefacts/consumables
+8. Write out Exploration Rules
+9. Finish writing out Combat/Narrative Rules
+10. Virtuoso
 	1. Rework?
 	2. More Miracles
-10. Psychic
+11. Psychic
 	1. More Tricks
 	2. More Talents
-11. Riftcaller
+12. Riftcaller
 	1. Rework?
 	2. More Spells
 	3. More Talents
@@ -24,8 +25,6 @@ draft: "true"
 - Pivot Prophet to more single-target debuff focus, deprioritise pure-support. Prophets should have the highest save target, followed by Mages, followed by the other two.
 - Make an art inspiration board
 - Even out the weapons (make sure each Type has the same number of weapons, atm the Vanguard has the most at 7)
-- Flavourful currency name
-	- Trade in magical energy? Easy to gain from monsters. Does this mean we trade in Aether? Also allows you to spend it to craft things. Maybe Aether, maybe not Aether? Idk
 - Nerf Ricochet
 - Attack that does something like "deals X damage n times"
 - Move/Trick called "Fake-Out", deal 1 damage, then deal X (lots) damage.
@@ -154,6 +153,7 @@ draft: "true"
 	- Maybe a cart with something pulling it gives you bonus "hours" to travel without that time actually passing
 	- Maybe reduce to 1 rest action per day
 # Ability Ideas
+- Something Tier III that literally does infinity damage
 ##### Moves
 - Hook someone and pull them closer
 - Fear (Fight, Flight, Freeze?)
@@ -162,6 +162,7 @@ draft: "true"
 - Smite
 - Apply magic to weapon (fire for example)
 - (Tier II) Air Slash that damages everyone in a line and everyone adjacent to the line (basically 3-space wide line, rather than a cone).
+- (Tier III) summon absurdly large sword, smack everything on the map. Watch the Old Peace trailer, Naramon ult.
 ##### Tricks
 - Ball Bearings
 - More Traps
@@ -174,6 +175,10 @@ draft: "true"
 	- Buff potions
 	- Splash Potions
 	- Healing Potions?
+##### Rewind
+*Prerequisite: [[Artisan]]*  
+You have created a device that grants you limited manipulation of time. Once per combat, you may activate this device at the start of your turn as a Free Action, marking your current location when you do so. At the end of your turn, you teleport back to this marked location.
+- Make this a Trick, when on a Failure it malfunctions. Maybe grant a SPEED boost when activated.
 ##### Spells
 - Levitate people
 - Steal Spells from Frieren, Castlevania, etc

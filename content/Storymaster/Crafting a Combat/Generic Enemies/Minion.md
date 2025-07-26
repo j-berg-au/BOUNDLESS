@@ -11,8 +11,6 @@
 
 ##### Coordination
 Two **Minions** can take their turn at the same time.
-##### Clumsy
-A **Minion** automatically fails all saves.
 ##### Tunnel Vision
 Any Minor Actions a **Minion** takes counts as taking a Major Action.
 

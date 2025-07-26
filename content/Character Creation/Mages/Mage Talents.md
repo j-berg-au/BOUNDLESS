@@ -43,6 +43,8 @@ Select an additional **Magical Domain**, gaining its **Spells** and feature.
 ### Tier I
 ##### Aether Construct
 You may spend **2 Stress** to create a simple non-magical item that can fit within your cupped hands.
+##### Aethersight
+By spending **1 Stress**, until the end of the scene you gain the ability to perceive a colourful aura around individuals or objects currently affected by magic.
 ##### Cryokinesis
 You paint the world around you with ice. You can do the following.
 - You can summon a few litres of ice on an object or floating near you.

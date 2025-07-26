@@ -12,7 +12,7 @@ Seers provide subtle, yet powerful, blessings to their allies. By controlling th
 | **EVASION**         | = 9 + your Level  |
 | **HIT**             | = Your Level      |
 | **SPEED**           | = 4               |
-| **Save Target**     | = 10 + your Level |
+| **Save Target**     | = 11 + your Level |
 #### Miracles
 You learn 3 **Miracles** of your choice. Each time you increase in Tier, you learn an additional 4 **Miracles**.  
 #### Features

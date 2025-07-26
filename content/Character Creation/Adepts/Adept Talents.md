@@ -9,7 +9,7 @@ As a Minor Action, you may inflict the [[Conditions & Statuses#Marked|MARKED]] c
 At the beginning of your turn, you can hold steady to line up your shots. Until the start of your next turn you are [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]] and gain **+1 Boon** on all attack rolls.
 ##### Combat Telepathy
 *Prerequisite: [[Psychic]]*  
-You can sense the intent of those trying to harm you. All attacks made against you gain **+1 Bane**.
+You can sense the intent of those trying to harm you. Once per round when you are targeted by an attack, you may impose **+1 Bane** on the attack roll.
 ##### Durable
 Increase your HP by 2.
 ##### Engineer
@@ -22,9 +22,6 @@ When you score a **Critical Hit**, you regain **1 Focus Point**.
 You learn two additional **Tricks** of your choice.
 ##### Quick Thinking
 Whenever you would make a save, you may make a **WIT** save instead.
-##### Rewind
-*Prerequisite: [[Artisan]]*  
-You have created a device that grants you limited manipulation of time. Once per combat, you may activate this device at the start of your turn as a Free Action, marking your current location when you do so. At the end of your turn, you teleport back to this marked location.
 ##### Silver Tongue
 Whenever you would make a save, you may make a **PRESENCE** save instead.
 ##### Slippery

@@ -12,7 +12,7 @@ Planning ahead and making the most of the Tricks is what an Artisan does best. L
 | **EVASION**         | = 13 + your Level |
 | **HIT**             | = Your Level      |
 | **SPEED**           | = 5               |
-| **Save Target**     | = 10 + your Level |
+| **Save Target**     | = 9 + your Level  |
 #### Tricks
 You learn 3 **Tricks** of your choice. Every odd level, you learn a new **Trick**. Additionally, each time you increase in Tier you may learn an additional **Trick**.
 #### Features
@@ -42,4 +42,4 @@ During combat, you may expend the vial to use the **Trick** without spending any
 *Tier II: Blank*   
 *Tier III: Blank*   
 **Feature: AUTOMATION**  
-Select a number of **Tricks** you know equal to your Tier. You are able to use these **Tricks** without spending any **Focus**, rolling 1d6 when you do so.
+Select a number of **Tricks** you know equal to your Tier. You are able to use these **Tricks** without spending any **Focus**, rolling 1d6 for the **Trick** when you do so.

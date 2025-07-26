@@ -12,7 +12,7 @@ Tacticians play a supportive role, helping position their allies and optimising 
 | **EVASION**         | = 12 + your Level |
 | **HIT**             | = Your Level      |
 | **SPEED**           | = 4               |
-| **Save Target**     | = 11 + your Level |
+| **Save Target**     | = 10 + your Level |
 #### Tricks
 You learn 3 **Tricks** of your choice. Every odd level, you learn a new **Trick**. Additionally, each time you increase in Tier you may learn an additional **Trick**.
 #### Features

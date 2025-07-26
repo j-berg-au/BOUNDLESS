@@ -12,7 +12,7 @@ Shadows shine brightest when enveloped in darkness. To be most effective, make u
 | **EVASION**        | = 14 + your Level |
 | **HIT**            | = Your Level      |
 | **SPEED**          | = 5 + your Tier   |
-| **Save Target**    | = 10 + your Level |
+| **Save Target**    | = 9 + your Level  |
 #### Tricks
 You learn 3 **Tricks** of your choice. Every odd level, you learn a new **Trick**. Additionally, each time you increase in Tier you may learn an additional **Trick**.
 #### Features

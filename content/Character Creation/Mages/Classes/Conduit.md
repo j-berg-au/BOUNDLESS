@@ -34,7 +34,7 @@ Select a **Magical Domain** from the options listed below.
 *Tier II:*  
 *Tier III:*  
 **Feature: WILDFIRE**  
-When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell** or *Basic Attack* with the Fire tag, all creatures adjacent to the target take 1//2//3 [[Keywords#Persistent Damage|Persistent Damage]].
+When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell** or a weapon with the Fire tag, all creatures adjacent to the target take 1//2//3 [[Keywords#Persistent Damage|Persistent Damage]].
 
 ---
 **GLACIAL MAGIC**  
@@ -56,7 +56,7 @@ When you cast a **Spell** with the Ice tag, you gain [[Keywords#Shield|Shield]] 
 *Tier II:*  
 *Tier III:*  
 **Feature: UNMOVABLE**  
-You are immune to all forms of involuntary movement and gain 1//2//3 [[Keywords#Armour|Armour]].
+You are immune to all forms of involuntary movement and gain 1 || 2 || 3 [[Keywords#Armour|Armour]].
 
 ---
 **TYPHONIC MAGIC**  

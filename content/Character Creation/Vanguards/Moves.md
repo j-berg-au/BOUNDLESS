@@ -2,7 +2,7 @@
 -----
 ##### Batter Up
 *2 Adrenaline, Minor Action*  
-Make a *Basic Attack* against a character within Reach. On a hit, the target is knocked back 2 || 4 || 6 spaces.
+Make an attack with your weapon against a character within Reach. On a hit, the target is knocked back 2 || 4 || 6 spaces.
 
 -----
 ##### Block
@@ -12,12 +12,12 @@ You take this Reaction when you would take damage. You immediately gain the effe
 -----
 ##### Combo
 *2 Adrenaline, Free Action*  
-When you hit someone with a *Basic Attack* that is not part of a **Move**, you may use this **Move** to immediately make another *Basic Attack* against the same target. This move can trigger itself, if you spend the **Adrenaline** again.
+When you hit someone with your *Basic Attack*, you may use this **Move** to immediately make another an attack with your weapon against the same target. This move can trigger itself, if you spend the **Adrenaline** again.
 
 -----
 ##### Leg Swipe
 *1 Adrenaline, Minor Action*  
-Make a *Basic Attack* against a character within Reach. On a hit, the target is [[Conditions & Statuses#SLOWED|SLOWED]] until the end of their next turn.
+Make an attack with your weapon against a character within Reach. On a hit, the target is [[Conditions & Statuses#SLOWED|SLOWED]] until the end of their next turn.
 
 -----
 ##### Protector
@@ -27,7 +27,7 @@ Once per round, when an ally within your **SPEED** is hit by an attack, you may 
 -----
 ##### Steel Slash
 *2 Adrenaline, Minor Action*  
-Make a *Basic Attack* against a character within Reach. On a hit, the target takes an additional 2 || 4 || 6 [[Keywords#Persistent Damage|Persistent Damage]].
+Make an attack with your weapon against a character within Reach. On a hit, the target takes an additional 2 || 4 || 6 [[Keywords#Persistent Damage|Persistent Damage]].
 
 -----
 ##### Throw

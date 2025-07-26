@@ -91,3 +91,4 @@ However, for each player that would have failed the check, the leader takes **1 
 
 ### Consumable
 
+### Essence

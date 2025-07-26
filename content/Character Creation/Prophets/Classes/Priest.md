@@ -12,7 +12,7 @@ Priests support their allies, building Favour in the process. With enough Favour
 | **EVASION**         | = 8 + your Level  |
 | **HIT**             | = Your Level      |
 | **SPEED**           | = 4               |
-| **Save Target**     | = 11 + your Level |
+| **Save Target**     | = 12 + your Level |
 #### Miracles
 You learn 3 **Miracles** of your choice. Each time you increase in Tier, you learn an additional 4 **Miracles**.
 #### Features

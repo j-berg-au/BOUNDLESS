@@ -29,17 +29,17 @@ You empty a bag of caltrops onto the ground in a size 1 circle within Range 3. A
 *Minor Action, Movement*  
 You dash forward, striking those in your path.
 
-| **Success Level** | **Effect**                                                                                                                                                                                                    |
-| :---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Critical Success  | You move in a straight line up to your SPEED, moving through characters. You may make a *Basic Attack* against any character you move through.                                                                |
-| Success           | You move in a straight line up to your SPEED, moving through characters. You may make a *Basic Attack* against any character you move through. Each attack you make after the first is made with **+1 Bane**. |
-| Partial Success   | You move in a straight line up to your SPEED, stopping in front of the first enemy in this line. You may make a *Basic Attack* against them.                                                                  |
-| Failure           | You move up to 3 spaces in a straight line, stopping in front of the first enemy in this line. You may make a *Basic Attack* against them.                                                                    |
+| **Success Level** | **Effect**                                                                                                                                                                                                              |
+| :---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | You move in a straight line up to your SPEED, moving through characters. You may make an attack with your weapon against any character you move through.                                                                |
+| Success           | You move in a straight line up to your SPEED, moving through characters. You may make an attack with your weapon against any character you move through. Each attack you make after the first is made with **+1 Bane**. |
+| Partial Success   | You move in a straight line up to your SPEED, stopping in front of the first enemy in this line. You may make an attack with your weapon against them.                                                                  |
+| Failure           | You move up to 3 spaces in a straight line, stopping in front of the first enemy in this line. You may make an attack with your weapon against them.                                                                    |
 
 -----
 ##### Infected Shot
 *Minor Action, Alchemy*  
-You coat your weapon or ammunition in a poison. Make a *Basic Attack* against a target.
+You coat your weapon or ammunition in a poison. Make an attack with your weapon against a target.
 
 | **Success Level** | **Effect**                                                                                                                                       |
 | :---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -51,7 +51,7 @@ You coat your weapon or ammunition in a poison. Make a *Basic Attack* against a 
 -----
 ##### Net
 *Minor Action*  
-You throw or launch a net at a target in Range 5. Make an attack roll against the target. On a hit, they suffer an effect according to the success level of the Trick.
+You throw or launch a net at a target in Range 5. Make an attack against the target. On a hit, they suffer an effect according to the success level of the Trick.
 
 | **Success Level** | **Effect**                                                                                                                                                                                              |
 | :---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,7 +63,7 @@ You throw or launch a net at a target in Range 5. Make an attack roll against th
 -----
 ##### Paint-Grenade
 *Minor Action, Gadget*  
-You throw a grenade to a space within Range 5. The success level of the Trick determines the effect.
+You throw a grenade filled with colourful paint and dust to a space within Range 5. The success level of the Trick determines the effect.
 
 | **Success Level** | **Effect**                                                                                                                                                                                                                 |
 | :---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -113,7 +113,7 @@ You reach into the mind of a character within Range 5, forcing them to move. The
 ##### Ricochet
 *Prerequisite: Ranged Weapon*  
 *Major Action*  
-You attempt to bounce a piece of ammunition you fire between enemies. Make a *Basic Attack* against your first target. Each time the ammunition bounces, you may target a new character as if you were attacking from the previous target’s position, using your *Basic Attack*'s statistics.
+You attempt to bounce a piece of ammunition you fire between enemies. Make an attack with your weapon against your first target. Each time the ammunition bounces, you may target a new character as if you were attacking from the previous target’s position.
 
 | **Success Level** | **Effect**                                                                                   |
 | :---------------- | -------------------------------------------------------------------------------------------- |
