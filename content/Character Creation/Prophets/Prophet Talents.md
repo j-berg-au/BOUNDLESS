@@ -20,7 +20,7 @@ After rolling your Fate Die, you may spend **2 Favour** to reroll it. You must u
 *Prerequisite: [[Druid]]*  
 You may have two Totems active at a given time, but they must be active on different characters.
 ##### Protective Presence
-You an all allies within Range 3 gain **+1 Boon** on all saves.
+You an all allies within Range 2 gain **+1 Boon** on all saves.
 ### Tier II
 ##### Duality of Decay
 When you inflict [[Conditions & Statuses#Weak|WEAK]] onto a target, you also inflict [[Conditions & Statuses#Vulnerable|VULNERABLE]] of equal value for the same duration. When you inflict [[Conditions & Statuses#Vulnerable|VULNERABLE]] onto a target, you also inflict [[Conditions & Statuses#Weak|WEAK]] of equal value for the same duration.

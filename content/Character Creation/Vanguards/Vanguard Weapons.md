@@ -17,7 +17,7 @@ When creating a Vanguard, select one weapon from the list below. You are encoura
 *Melee Attack, Reach 1*  
 **Damage:** 1d6+1 || 2d6+2 || 3d6+3  
 At the start of each of your turns, you gain 1 || 2 || 3 [[Keywords#Shield|Shield]].
-##### Warhammer
+##### Tungsten Maul
 *Melee Attack, Reach 1*  
 *[[Keywords#Inaccurate|Inaccurate]], [[Keywords#Deadly|Deadly]]*  
 **Damage:** 2d6+1 || 4d6+2 || 6d6+3  
