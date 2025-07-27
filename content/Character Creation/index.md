@@ -23,6 +23,8 @@ When building your character, the most important decision you will make is *"Wha
 - [[Character Creation/Prophets/index|Prophets]] support their allies to be their best by channelling divine forces.
 ### Classes
 Each Hero Type is broken down into **Classes**, each of which is listed on the corresponding Type's page. Your character will be one of these Classes, so choose wisely. These Classes are listed under the page for each Hero Type.
+
+Your Class provides features for your character, in addition to the Core Statistics.
 ### Levels
 In ***BOUNDLESS*** there are 12 "Levels", which represent how powerful your character is. A character usually starts at Level 1. At the end of each Quest, you gain a Level, which grants you new abilities and increases your statistics.
 ### Tier

@@ -43,7 +43,7 @@ You attempt to help an ally adjacent to you. They gain **+1 Boon** on their next
 ##### Shove
 To shove, make an attack against a character in Reach 1. On a hit, they are knocked back 1 space.
 ##### Taunt
-You attempt to goad a character within Range 5 into attacking you. The target must make a **WIT** save. On a failure, they gain **+2 Bane** on all attacks that are not targeting you until the end of their next turn.
+You attempt to goad a character within Range 5 into attacking you. The target must make a **PRESENCE** save. On a failure, they gain **+2 Bane** on all attacks that are not targeting you until the end of their next turn.
 ### Reactions
 Here is a list of Reactions all characters have access to. 
 ##### Brace

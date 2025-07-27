@@ -101,6 +101,8 @@ draft: "true"
 	- Invisible on hit
 - Consumables
 	- Add prices and clocks to make them.
+	- An expensive one that revives a recently deceased PC, coming back with all Scars.
+	- An (less expensive) one that removes Scars.
 ##### Generic Enemies 
 - Sentinel
 - Horde (gets weaker/smaller as it gets damaged)

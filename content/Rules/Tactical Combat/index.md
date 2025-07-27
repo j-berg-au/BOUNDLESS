@@ -28,7 +28,7 @@ If this would cause you to reach 0HP or a negative HP, your HP is set to zero an
 ##### Persistent Damage
 When a character has taken **Persistent Damage**, they immediately take damage equal to the amount of **Persistent Damage**. 
 
-Then, they must roll a MIGHT or a WIT save (their choice) at the end of each of their turns. On a failure, they take they take damage equal to the amount of **Persistent Damage**. On a success, they clear all **Persistent Damage**.
+Then, they must roll a **WIT** save at the end of each of their turns. On a failure, they take they take damage equal to the amount of **Persistent Damage**. On a success, they clear all **Persistent Damage**.
 
 When a character takes **Persistent Damage** and is already affected by another source of **Persistent Damage**, the values stack and the highest Save Target is taken.
 

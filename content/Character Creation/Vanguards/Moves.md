@@ -41,7 +41,7 @@ If this causes the target to collide with another character, they both take 1d6 
 -----
 ##### Vanguard's Taunt
 *1 Adrenaline, Minor Action*  
-You attempt to taunt a character within Range 5. The target must make a **WIT** Save. On a failure, any time they attempt to target one or more characters with a negative effect, you must be one of the targets. This lasts until the end of their next turn.
+You attempt to taunt a character within Range 5. The target must make a **PRESENCE** Save. On a failure, any time they attempt to target one or more characters with a negative effect, you must be one of the targets. This lasts until the end of their next turn.
 
 -----
 ##### Whirlwind
