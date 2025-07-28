@@ -22,7 +22,9 @@ draft: "true"
 	2. More Spells
 	3. More Talents
 # To Do
-- Pivot Prophet to more single-target debuff focus, deprioritise pure-support. Prophets should have the highest save target, followed by Mages, followed by the other two.
+- Pivot Prophet to more single-target debuff focus, deprioritise pure-support.
+- Alternate ways to expend marked.
+- Trade boons for expanded crit range, bonus damage, and other effects.
 - Make an art inspiration board
 - Even out the weapons (make sure each Type has the same number of weapons, atm the Vanguard has the most at 7)
 - Nerf Ricochet

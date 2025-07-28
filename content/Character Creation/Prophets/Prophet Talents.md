@@ -2,15 +2,13 @@
 ### Tier I
 ##### Amplified
 *Prerequisite: [[Virtuoso]]*  
-The Range on all your active **Emotions** increases 1 || 2 || 3.
-##### Blessing
+The Range on all your active **Emotions** increases by 1 || 2 || 3.
+##### Blessings
 Each time you gain the Divine Effect from a Miracle, you gain 1 [[Keywords#Aegis|Aegis]].
 ##### Condemn
 Once per turn as a Free Action, you may inflict the [[Conditions & Statuses#Marked|MARKED]] condition on a target within Range 6.
 ##### Divine Protection
-When you use a Miracle on an ally and gain the Divine Effect, both you and the target gain [[Keywords#Shield|Shield]] equal to your Level.
-##### Guidance
-When you take the [[Your Turn#Set-Up|Set-Up]] Minor Action, you may instead choose an ally within Range 5.
+When you use a Miracle on an ally and gain the Divine Effect, both you and the target gain **3 || 6 || 9** [[Keywords#Shield|Shield]].
 ##### Inspired Action
 When you use your *Basic Attack*, you may forego the attack to allow an ally within Range 8 to make a single *Basic Attack* instead as a Reaction.
 ##### Luck of the Gods
