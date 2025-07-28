@@ -24,13 +24,7 @@ When building your character, the most important decision you will make is *"Wha
 ### Classes
 Each Hero Type is broken down into **Classes**, each of which is listed on the corresponding Type's page. Your character will be one of these Classes, so choose wisely. These Classes are listed under the page for each Hero Type.
 
-Your Class provides features for your character, in addition to the Core Statistics.
-### Levels
-In ***BOUNDLESS*** there are 12 "Levels", which represent how powerful your character is. A character usually starts at Level 1. At the end of each Quest, you gain a Level, which grants you new abilities and increases your statistics.
-### Tier
-The Levels are separated into three **Tiers**, each representing a substantial jump in power. See the table above to check which Levels correspond to which Tiers. 
-
-It is very common for things within the game to become more powerful as you increase in Tier. When you see three versions of something separated by '||', for example 1d6 || 2d6 || 3d6, the first item represents the version used for Tier I, the second for Tier II, and the third for Tier III.
+Your Class provides features for your character, in addition to their Core Statistics.
 ### Saves & Skills
 There are four **Saves** that define your character, **MIGHT**, **FINESSE**, **WIT**, and **PRESENCE**. These are used to avoid certain consequences during Tactical Combat.
 
@@ -78,6 +72,12 @@ When selecting your Talents, you may choose from the [[Generic Talents]] or from
 - [[Adept Talents]]
 - [[Mage Talents]]
 - [[Prophet Talents]]
+### Levels
+In ***BOUNDLESS*** there are 12 "Levels", which represent how powerful your character is. A character usually starts at Level 1. At the end of each Quest, you gain a Level, which grants you new abilities and increases your statistics.
+### Tier
+The Levels are separated into three **Tiers**, each representing a substantial jump in power. See the table above to check which Levels correspond to which Tiers. 
+
+It is very common for things within the game to become more powerful as you increase in Tier. When you see three versions of something separated by '||', for example 1d6 || 2d6 || 3d6, the first item represents the version used for Tier I, the second for Tier II, and the third for Tier III.
 ### Building a Level 1 Character
 To quickly build a Level 1 character, you will need to:
 - Choose a **Hero Type**, noting it's mechanics.

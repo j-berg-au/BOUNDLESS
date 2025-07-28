@@ -14,7 +14,7 @@ In ***BOUNDLESS***, we explore a story of the players going on grand adventures 
 
 There is however the possibility that we fail to foresee any potential problems that may arise at the table, and so the amazing tabletop community has developed what we call “safety tools” to address this. Popular examples of safety tools include the X-card ([link here](https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A/edit)) and lines and veils. Lines and veils is a technique that involves the players and GM noting down themes or topics they don’t want to come up at the table (lines) and some themes or topics that are sometimes okay depending on execution (veils).
 #### Have a Look Around
-Once your ready, feel free to explore the different aspects of the game at your own pace, in your own order! Below are the four broadly important topics, however if you aren't playing as the Storymaster (commonly known as Game Master or GM), you can ignore the Storymaster section.
+Once your ready, feel free to explore the different aspects of the game at your own pace, in your own order! Below are the three broadly important topics, however if you aren't playing as the Storymaster (commonly known as Game Master or GM), you can ignore the Storymaster section.
 - [[Rules/index|Rules]]
 - [[Character Creation/index|Character Creation]]
 - [[Storymaster/index|Storymaster]]
