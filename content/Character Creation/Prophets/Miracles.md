@@ -1,7 +1,17 @@
 ## Tier I
+---
+##### Blessing
+*Fate Target: 7*  
+*Minor Action*  
+**Standard Effect:**  
+You bless a weapon of an ally within Range 5. Until the next time the weapon hits, it gains a **+1 Boon** on its attack rolls and deals an additional **1d6 || 2d6 || 3d6** damage.
+
+**Divine Effect:**  
+As Standard Effect, but the blessing lasts for until the weapon has hit three times, rather than once.
+
 -----
 ##### Cleanse
-*Fate Target: 7*  
+*Fate Target: 5*  
 *Minor Action*  
 **Standard Effect:**  
 You remove a condition on an ally within Range 5.  
@@ -15,20 +25,22 @@ You remove two conditions or one condition and all [[Keywords#Persistent Damage|
 *Fate Target: 6*  
 *Minor Action*  
 **Standard Effect:**  
-Choose a target within Range 8. They must make a **PRESENCE** save or gain [[Conditions & Statuses#WEAK|WEAK]] 1 || 2 || 3 and have their **EVASION** reduced by 1. They may repeat the save at the end of each of their turns to remove the effect.
+Choose a target within Range 8. They must make a **PRESENCE** save or gain [[Conditions & Statuses#WEAK|WEAK]] 1 || 2 || 3 and [[Conditions & Statuses#Off-Guard|OFF-GUARD]]. They may repeat the save at the end of each of their turns to remove the effect.
 
 **Divine Effect:**  
-As Standard Effect, but the target also gains **+1 Bane** on all saves until the effect is removed.
+As Standard Effect, but the target also reduces their **EVASION** by 2 until they remove the effect.
 
 -----
 ##### Divine Grasp
-*Fate Target: 7*  
+*Fate Target: 6*  
 *Minor Action*  
 **Standard Effect:**  
-Choose a target within Range 8. They must make a **MIGHT** save or be [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]] until the end of their next turn.  
+Choose a target within Range 8. They must make a **MIGHT** save or be [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]] until the end of your next turn.  
+
+Once on each of your following turns you may use a Minor Action to maintain the effect, forcing the target to make another **MIGHT** save. Each of these saves is made with a cumulative **+1 Bane**, up to a maximum of **+3 Banes**.  
 
 **Divine Effect:**  
-As Standard Effect, but the target is also [[Conditions & Statuses#STUNNED|STUNNED]] on a failed save.
+As Standard Effect, but the target takes **1d6 || 2d6 || 3d6** damage after each failed save as you tighten your grip.  
 
 -----
 ##### Eagle Totem
@@ -99,6 +111,17 @@ You illuminate a size 1 Circle within Range 8. All characters within the circle 
 **Divine Effect:**  
 As Standard Effect, but the Circle grows to size 2.
 
+---
+##### Summon Roots
+*Prerequisite: [[Druid]]*  
+*Fate Target: 5*  
+*Minor Action*  
+**Standard Effect:**  
+You call forth roots from the earth to hinder your foes. Draw a size 3 Square within Range 8. This area becomes **Slowing Terrain** until you dispel it as a Free Action or until you use this **Miracle** again.
+
+**Divine Effect:**  
+As Standard Effect, but you and your allies ignore the **Slowing Terrain**.
+
 -----
 ##### Untouchable Dance
 *Prerequisite: [[Virtuoso]]*  
@@ -126,7 +149,7 @@ As Standard Effect, but the target also gains [[Keywords#Shield|Shield]] equal t
 *Fate Target: 8*  
 *Minor Action*  
 **Standard Effect:**  
-Choose an ally within Reach 1. Their **Crit Threshold** is reduced by 2 until the end of their next turn.  
+Choose an ally within Reach 1. Their **Crit Threshold** is reduced by 3 until the end of their next turn.  
 
 **Divine Effect:**  
 You and all allies have their **Crit Threshold** reduced by 2 until the end of the scene.
@@ -150,7 +173,4 @@ The first time you successfully use this **Miracle**, roll a d20. This will be y
 You may swap the d20 that triggered this **Miracle** with your **held fate**, *i.e.,* your **held fate** is used when calculating the result of the roll and the original d20 becomes your new **held fate**.
 
 ---
-
-
-
 ## Tier III

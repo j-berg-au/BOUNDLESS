@@ -22,6 +22,9 @@ When you score a **Critical Hit**, you regain **1 Focus Point**.
 You learn two additional **Tricks** of your choice.
 ##### Quick Thinking
 Whenever you would make a save, you may make a **WIT** save instead.
+##### Shadow Jump
+*Prerequisite: [[Shadow]]*  
+You gain the ability to step through the shadows of others. Once per combat as a Free Action, you may teleport to a space adjacent to a character that you can see.
 ##### Silver Tongue
 Whenever you would make a save, you may make a **PRESENCE** save instead.
 ##### Slippery

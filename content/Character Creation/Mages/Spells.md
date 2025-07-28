@@ -157,8 +157,22 @@ You instead attempt to teleport an unwilling character within Reach 1. The targe
 You may instead teleport yourself and an ally within Reach 1.
 
 -----
-
 ## Tier II
-
-
+---
 ## Tier III
+---
+##### Riftdive
+*X Mana, Major Action*  
+You attempt to force another character into the Rift temporarily. Choose a character within Range 5, who must then make a **PRESENCE** save. On a success, the target is [[Conditions & Statuses#Stunned|STUNNED]].   
+
+On a failure, the target vanishes into the Rift. The Storymaster then starts a 4 segment clock. At the start of each of the targets turns, fill in a segment of the clock. When the last segment is filled in, the target returns to the space from which it had left.
+
+**Augments**  
+- You join it in the Rift for a 1v1?
+- When the target returns, it returns to a somewhat randomised position
+- You plunge it into a particularly nasty part of the Rift, dealing damage for each turn they are there.
+---
+##### Solar Gateway
+*X Mana, Major Action*  
+- Open a portal to the fuckin' sun and shoot a sun laser to ensure that your enemies get a healthy dose of vitamin D.
+---

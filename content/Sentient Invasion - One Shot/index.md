@@ -15,10 +15,10 @@ draft: "true"
 - Village
 	- Path 1
 	- Path 2
-- Scouts Combat
+- Scouts Combat (Constructor or two raising a Pylon. Lots of minions.)
 	- Path 1
 	- Path 2
-- Ship
+- Ship (More serious combat)
 
 - Pointcrawl
 	- With multiple routes, informed decisions. Decisions that matter.

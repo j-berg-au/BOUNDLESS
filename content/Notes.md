@@ -28,7 +28,6 @@ draft: "true"
 - Nerf Ricochet
 - Attack that does something like "deals X damage n times"
 - Move/Trick called "Fake-Out", deal 1 damage, then deal X (lots) damage.
-- Something that temporarily increases a Prophet's Fate Die? A consumable? A Talent? A Miracle?
 - Come up with a systematic way to determine damage for weapons and abilities
 - Write rules on the Bag, Artefacts, and Consumables
 	- Bag: Can claim any item (within reason). May make certain rolls possible, grant a Boon on a check, or increase Reward on a check.
