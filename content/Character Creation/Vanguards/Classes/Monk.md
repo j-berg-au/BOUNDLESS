@@ -9,12 +9,12 @@ Monks utilise [[Keywords#Aegis|Aegis]] to tank damage and allow them to perform 
 | **Core Statistics** |                      |
 | :------------------ | -------------------- |
 | **HP**              | = 18 \|\| 36 \|\| 54 |
-| **EVASION**         | = 14 + your Level    |
+| **EVASION**         | = 12 + your Level    |
 | **HIT**             | = Your Level         |
 | **SPEED**           | = 5                  |
 | **Save Target**     | = 9 + your Level     |
 #### Moves
-You learn 3 **Moves** of your choice. At every odd Level, you learn an another **Move**. Additionally, each time you increase in Tier you learn another **Move**.
+You learn 3 **Moves** of your choice. At every odd Level after the first, you learn an another **Move**. Additionally, each time you increase in Tier you learn another **Move**.
 #### Features
 ##### Exploit Opening
 Once per round, when an enemy is within reach of your *Basic Attack* and attempts to voluntarily move, you may spend a Reaction to immediately make a *Basic Attack* against them.

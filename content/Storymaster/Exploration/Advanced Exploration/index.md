@@ -76,7 +76,6 @@ At the start of each Quest, the Storymaster must decide on how many **Supplies**
 - Hours (day by day)
 ## Talents for Advanced Exploration
 - If you're using Advanced Exploration, you may present the following to the Players and allow them to pick one per Tier of their character, in addition to their normal Talents.
-
 ##### Insomniac
 During each day, you may take an additional **Rest Action**. However, you reduce your **Stress Cap** by 1.
 

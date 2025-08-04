@@ -144,7 +144,7 @@ The HP of each segment of the wall is increased to 15HP.
 -----
 ##### Teleport
 *2 Mana, Minor Action, Teleport*  
-You teleport yourself or an ally within Reach 1 to an occupied space within Range 6.
+You teleport yourself or an ally within Reach 1 to an unoccupied space within Range 6.
 
 **Augments**  
 *Distant. 1+ Mana*  

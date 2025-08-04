@@ -11,7 +11,7 @@ As a Minor Action, you may reduce your HP by 1 and clear all Conditions and **Pe
 ##### Further Study
 You learn two additional **Spells** of your choice.
 ##### Levitation
-When in combat, your body floats just above the ground. You become immune to any difficult or hazardous terrain that would require you to step on it to take effect (e.g. spikes along the ground, a puddle of acid, etc.).
+When in combat, your body floats just above the ground. You become immune to any slowing or hazardous terrain that would require you to step on it to take effect (e.g. spikes along the ground, a puddle of acid, etc.).
 
 Additionally, you may increase your **EVASION** by 1.
 ##### Mana Sink

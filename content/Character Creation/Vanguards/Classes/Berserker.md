@@ -14,7 +14,7 @@ A Berserkers' strategy in battle is the definition of high-risk, high-reward. Th
 | **SPEED**           | = 5                  |
 | **Save Target**     | = 9 + your Level     |
 #### Moves
-You learn 2 **Moves** of your choice. At each odd Level, you learn an additional **Move**.
+You learn 2 **Moves** of your choice. At each odd Level after the first, you learn an additional **Move**.
 #### Features
 ##### Exploit Opening
 Once per round, when an enemy is within reach of your *Basic Attack* and attempts to voluntarily move, you may spend a Reaction to immediately make a *Basic Attack* against them.

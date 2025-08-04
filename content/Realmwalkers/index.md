@@ -7,13 +7,25 @@ The Players set out on a journey to travel across the Realms in an effort to dis
 The campaign is separated into three arcs (corresponding to tiers), each with four parts (corresponding to levels). Each part is a pointcrawl from one settlement to another, where the players explore (if they want they can explore the entire pointcrawl to get more loot, at the risk of biting off more than they can chew). At the settlements the players level up, buy things, and get a chance for downtime actions. 
 
 There are "Gnomes", small humanoid creatures who can transform into a butterfly and also step between realms. They love trade. They act as merchants through the realms.
-### Motivations
+
+Players get visions of BBEG family every time they go through a Gate. 
+- First one is Amber (new name) noticing them, they see her watching. Following ones are what Amber is trying to communicate to them.
+
+Players are all the children of Amber, and hence the grandchildren of BBEG.
+### Player Motivations
 - Discover a way to bring back the dead
 - Discover a way to avoid death
-- BBEG wants to erase the realms? -> Into the black hole
-- BBEG wants to severe the realms?
-- Players are the children of the BBEG?
+- To simply reconnect the Realms
+### BBEG Motivations
+The BBEG family are essentially gods. The fathers both created the world.
 
+The Realms grew unstable. One father entered the Black Hole (give a better name) in the centre of the Rift to hold everything together "just for a little while, until we work things out". It's been 100 years. The remaining father is tired, out of options. He must sever, then unmake all the realms to free his husband. **Why must he give his life, so that others may live? Why must we decide this for him?**
+
+After unmaking the realms, he will make new, more stable ones.
+
+Defeating the remaining father, the encased one perishes too (their wedding included it as a vow). Amber (new name) + PCs will take her fathers place in the Black Hole (*i.e.*, the art you have).
+
+### Other
 The players get to "The Realm Above", starting at a settlement. The players do a Level's worth of content trying to get to "The Great Tower" (better name pls), which they descend through to get to "The Realm Below", which constitutes another Level where they try to get to Whalefall. To descend in the tower, the players must do the locals a favour
 - *"If you help me deal with X, I will help you traverse the clouds and down the tower. You have my word."* - NPC that will temporarily join the party
 - During Hexcrawl on the clouds, the players can only stop to rest on an island

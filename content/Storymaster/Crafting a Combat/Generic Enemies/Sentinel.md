@@ -2,12 +2,13 @@
 
 | **Core Statistics** | Tier I | Tier II | Tier III |  **Saves**   | Tier I | Tier II | Tier III |
 | :-----------------: | :----: | :-----: | :------: | :----------: | :----: | :-----: | :------: |
-|       **HP**        |   35   |   70    |   105    |  **MIGHT**   |   +3   |   +7    |   +11    |
+|       **HP**        |   30   |   60    |    90    |  **MIGHT**   |   +3   |   +7    |   +11    |
 |       **HIT**       |   +1   |   +5    |    +9    | **FINESSE**  |   -1   |   +3    |    +7    |
 |     **EVASION**     |   7    |   11    |    15    |   **WIT**    |   +0   |   +4    |    +8    |
 |      **SPEED**      |   3    |    3    |    3     | **PRESENCE** |   +0   |   +4    |    +8    |
-|   **Save Target**   |   9    |   13    |    17    |              |        |         |          |
+|   **Save Target**   |   9    |   14    |    19    |              |        |         |          |
 |      **Size**       |   2    |    2    |    2     |              |        |         |          |
+|                     |        |         |          |              |        |         |          |
 ##### Sentinel's Armour
 The **Sentinel** has 1 || 2 || 3 **Armour**.
 ##### Exploit Opening
@@ -33,3 +34,11 @@ The **Sentinel** makes an attack against a character within Reach 2. On a hit, t
 The **Sentinel's** size increases to 3.
 
 - Take damage for adjacent allies?
+
+---
+### Loot
+A **Sentinel** drops **1 Essence**, and an item from the following table.
+
+| **dX**  | **Item** |
+| :-: | ---- |
+|     |      |

@@ -12,7 +12,9 @@
 ##### Feature 1
 
 ##### Feature 2
-
+- Inflict [[Conditions & Statuses#Vulnerable|VULNERABLE]]
+- Inflict [[Conditions & Statuses#Weak|WEAK]]
+- Inflict all sorts of other conditions.
 ---
 ### Actions
 
@@ -23,3 +25,11 @@
 ---
 ### Amplifiers
 ##### Amplifier 1
+
+---
+### Loot
+A **Witch** drops **1 Essence**, and an item from the following table.
+
+| **dX**  | **Item** |
+| :-: | ---- |
+|     |      |

@@ -18,9 +18,8 @@ There are 4 Classes of **Vanguard**:
 While in combat, **Vanguards** utilise a resource called **Adrenaline**. A **Vanguard** starts a fight with very little **Adrenaline**, but it builds up quickly over the course of a battle.  
 
 At the beginning of combat, you start with 1 || 2 || 3 **Adrenaline**. You gain **Adrenaline** in the following ways:
-- Each time you are targeted by an attack, gain **1 Adrenaline**.
-- Each time you make a saving throw, gain **1 Adrenaline**.
-- Each time you hit an enemy with a _Basic Attack_, gain **1 Adrenaline**.
+- When you are targeted by a hostile action, such as an attack or are forced to make a save against an effect you did not create, gain **1 Adrenaline**.
+- Each time you hit an enemy with a _Basic Attack_, gain **1 Adrenaline**.  
 Depending on your Class, Talents, and Moves, there may be additional ways for you to generate **Adrenaline**.  
 
 Your **Adrenaline** can never exceed five times your Tier. If you would gain an amount of **Adrenaline** that exceeds this number, any excess **Adrenaline** is lost.  

@@ -24,3 +24,11 @@ Description.
 
 ---
 ### Amplifiers
+
+---
+### Loot
+A **Nemesis** drops **X Essence**, and a (few) items from the following table.
+
+| **dX**  | **Item** |
+| :-: | ---- |
+|     |      |

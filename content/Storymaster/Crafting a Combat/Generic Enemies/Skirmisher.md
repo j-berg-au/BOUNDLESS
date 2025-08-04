@@ -6,7 +6,7 @@
 |       **HIT**       |   +2   |   +6    |   +10    | **FINESSE**  |   +3   |   +7    |   +11    |
 |     **EVASION**     |   12   |   16    |    20    |   **WIT**    |   +2   |   +6    |   +10    |
 |      **SPEED**      |   5    |    6    |    7     | **PRESENCE** |   +0   |   +4    |    +8    |
-|   **Save Target**   |   9    |   13    |    17    |              |        |         |          |
+|   **Save Target**   |   9    |   14    |    19    |              |        |         |          |
 |      **Size**       |   1    |    1    |    1     |              |        |         |          |
 ##### Feature 1
 
@@ -22,3 +22,11 @@
 ---
 ### Amplifiers
 ##### Amplifier 1
+
+---
+### Loot
+A **Skirmisher** drops **1 Essence**, and an item from the following table.
+
+| **dX**  | **Item** |
+| :-: | ---- |
+|     |      |

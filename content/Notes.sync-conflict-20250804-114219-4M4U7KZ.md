@@ -2,44 +2,27 @@
 draft: "true"
 ---
 # Priorities
-1. Write out enemy stat blocks
-2. More Narrative Talents
-3. More Prophet Miracles
-4. Do another pass on Weapons (balance + more weapons)
-5. More Combat Talents
-6. Write out artefacts/consumables
-	1. More runestones
-7. Write out Exploration Rules
-8. Finish writing out Combat/Narrative Rules
-9. Virtuoso
+1. One-Shot Pointcrawl
+2. Write out enemy stat blocks
+3. More Narrative Talents
+4. More Prophet Miracles
+5. Do another pass on Weapons (balance + more weapons)
+6. More Combat Talents
+7. Write out artefacts/consumables
+8. Write out Exploration Rules
+9. Finish writing out Combat/Narrative Rules
+10. Virtuoso
 	1. Rework?
 	2. More Miracles
 	3. More Talents
-10. Psychic
+11. Psychic
 	1. More Tricks
-	2. Should they **only** get access to a sublist of Tricks?
-11. Riftcaller
+12. Riftcaller
 	1. Rework?
 	2. More Spells
 	3. More Talents
 # To Do
-- Miracle that transfers damage from PC to another. Cannot be turned off until one PC is DEFEATED.
-- Hazard rules (move into this space or start your turn in it).
-- Make it easier for Adepts to regain Focus? Or give them larger starting pool?
-- Change Engineer talent to let you pick a tag from a predetermined list. Call it specialist or something idk.
-- Up damage of enemies
-- Give priest a built in way to use favour other than Smite. Let Smite just use 4 favour.
-- Druid Talent that lets you spend Stress to change the weather for advanced exploration.
-- Make Vanguards Tricks cooler? Things like Batter Up and Leg Swipe are kinda boring. They do greatly increase damage by granting additional attacks, but still. Maybe include more things that aren't additional attacks. 
-- Bear trap stays until triggered
-- Whispers of truth can't stack with itself.
-- Maybe change it to spend a Strain to heal to full. Consider how it affects Vanguards. Test in a campaign.
-- Rules for walls/constructs/etc. Immune to psychic and other effects. 0 EVASION. Fails all saves except **MIGHT**.
-- Advanced Exploration has rules for weather, that modify exploration in some way. Roll on the table to get the weather and its effects:
-	- Fog. You cannot see outside of your Hex today.
-	- Rain.
-	- Snow.
-	- Windy
+- "Themes", groups of Talents that are kinda "subclassy".
 - Write rules for **Slowing Terrain** (difficult terrain, costs 2 movement to move out of a slowing terrain)
 - Pivot Prophet to more single-target debuff focus, deprioritise pure-support.
 - Alternate ways to expend marked.
@@ -198,6 +181,7 @@ You have created a device that grants you limited manipulation of time. Once per
 - Gravity Well
 - Solar Gateway (Tier III), open a portal to the sun and shoot a sun laser in a line
 - Black Hole (Tier III)
+- Invoker Spell to trade a Scar for something super OP, like chainsaw man fox devil. No mana cost.
 ##### Miracles
 - Harmful or helpful spores for druid
 - Roots to restrain/slow/make difficult terrain

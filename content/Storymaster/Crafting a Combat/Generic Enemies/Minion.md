@@ -6,7 +6,7 @@
 |       **HIT**       |   +0   |   +4    |    +8    | **FINESSE**  |   -2   |   +2    |    +6    |
 |     **EVASION**     |   6    |   10    |    14    |   **WIT**    |   -2   |   +2    |    +6    |
 |      **SPEED**      |   3    |    3    |    3     | **PRESENCE** |   -2   |   +2    |    +6    |
-|   **Save Target**   |   6    |   10    |    14    |              |        |         |          |
+|   **Save Target**   |   6    |   11    |    16    |              |        |         |          |
 |      **Size**       |   1    |    1    |    1     |              |        |         |          |
 
 ##### Coordination
@@ -24,3 +24,7 @@ Damage on hit: **3 || 6 || 9**.
 ### Amplifiers
 ##### Exploding
 When the Minion is [[Conditions & Statuses#Defeated|DEFEATED]], they explode in a Size 2 Circle. All characters within the explosion must pass a **FINESSE** save or take **1d6 || 2d6 || 3d6** damage, taking half as much on a success.
+
+---
+### Loot
+Minions do not drop any loot.

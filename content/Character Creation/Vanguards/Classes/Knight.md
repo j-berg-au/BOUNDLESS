@@ -14,7 +14,7 @@ Knights possess an unmatched ability to defend their allies. They stick by those
 | **SPEED**           | = 3                  |
 | **Save Target**     | = 9 + your Level     |
 #### Moves
-You learn 3 **Moves** of your choice. At every odd Level, you learn an another **Move**. Additionally, each time you increase in Tier you learn another **Move**.
+You learn 3 **Moves** of your choice. At every odd Level after the first, you learn an another **Move**. Additionally, each time you increase in Tier you learn another **Move**.
 #### Features
 ##### Exploit Opening
 Once per round, when an enemy is within reach of your *Basic Attack* and attempts to voluntarily move, you may spend a Reaction to immediately make a *Basic Attack* against them.

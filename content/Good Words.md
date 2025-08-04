@@ -1,0 +1,185 @@
+---
+draft: "true"
+---
+**Vanguard**
+- Berserker
+	- Fury
+	- Onslaught
+	- Carnage
+	- Rampage
+	- Demolish
+	- Wrath
+	- Havoc
+	- Frenzy
+- Exemplar
+	- Precision
+	- Finesse
+	- Pinnacle
+	- Mastery
+	- Perfection
+	- Discipline
+	- Grace
+	- Flawless
+	- Execution
+	- Form
+	- Poise
+	- Paragon
+	- Duel
+- Knight
+	- Juggernaut
+	- Bulwark
+	- Bastion
+	- Fortress
+	- Sentinel
+	- Ironclad
+	- Steadfast
+	- Guardian
+	- Palisade
+	- Impervious
+- Monk
+	- Rebound
+	- Flow
+	- Reversal
+	- Equilibrium
+	- Karma
+	- Reflex
+	- Punishment
+	- Serenity
+**Adept**
+- Artisan
+	- Forge
+	- Sculpt
+	- Imbue
+	- Engrave
+	- Design
+- Psychic
+	- Trance
+	- Synapse
+	- Ego
+	- Neural
+	- Intuit
+- Shadow
+	- Umbral
+	- Phantom
+	- Lurk
+	- Ambush
+	- Feint
+	- Misdirect
+	- Silent
+	- Veil
+	- Stalk
+	- Cunning
+	- Whisper
+	- Eclipse
+	- Deception
+	- Cloak
+	- Evade
+- Tactician
+	- Stratagem
+	- Gambit
+	- Decoy
+	- Flank
+	- Scheme
+	- Logistics
+	- Orchestrate
+	- Ploy
+**Mage**
+- Conduit
+	- Blazen
+	- Ashen
+	- Surge
+	- Wellspring
+	- Font
+	- Torrent
+	- Catalyst
+	- Nexus
+	- Reservoir
+- Invoker
+	- Abyssal
+	- Oblivion
+	- Void
+	- Blasphemy
+	- Profane
+	- Nether
+	- Ruin
+	- Dread
+	- Omen
+	- Unmake
+	- Eldritch
+	- Occult
+	- Pact
+	- Witch
+	- Esoterica
+- Riftcaller
+	- Beckon
+	- Manifest
+	- Eidolon
+	- Bind
+- Savant
+	- Theorem
+	- Lexicon
+	- Enigma
+	- Sigil
+	- Rune
+	- Glyph
+	- Codex
+	- Lore
+	- Arcane
+	- Enlightenment
+**Prophet**
+- Druid
+	- Bloom
+	- Grace
+	- Lotus
+	- Sprite
+	- Totem
+	- Dawn
+	- Terra
+	- Verdance
+	- Thicket
+	- Grove
+	- Petals
+	- Season
+	- Primordial
+	- Spores
+	- Wither
+	- Reap & Sow
+- Priest
+	- Pious
+	- Benediction
+	- Sanctify
+	- Covenant
+	- Absolution
+	- Hallow
+	- Sermon
+	- Zealous
+	- Penance
+	- Purge
+	- Exalt
+- Seer
+	- Omen
+	- Fortune
+	- Karma
+	- Portent
+	- Augury
+	- Premonition
+	- Prophecy
+	- Destiny
+	- Revelation
+	- Foretell
+- Virtuoso
+	- Harmony
+	- Discordant
+	- Dissonance
+	- Transpose
+	- Signature
+	- Mosaic
+	- Ballad
+	- Crescendo
+	- Symphony
+	- Verse
+	- Sonata
+	- Lament
+	- Hymn
+	- Ode
+	- Elegy

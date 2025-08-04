@@ -8,7 +8,6 @@
 |        **SPEED**        |        |         |          | **PRESENCE** |        |         |          |
 |     **Save Target**     |        |         |          |              |        |         |          |
 |        **Size**         |        |         |          |              |        |         |          |
-
 ##### Feature 1
 
 ##### Feature 2
@@ -23,3 +22,11 @@
 ---
 ### Amplifiers
 ##### Amplifier 1
+
+---
+### Loot
+A **Template** drops **1 Essence**, and an item from the following table.
+
+| **dX**  | **Item** |
+| :-: | ---- |
+|     |      |
