@@ -1,10 +1,10 @@
 ## Combat Talents
 ### Tier I
-##### Arcane Theorem of Distance
-All **Spells** you know have their Range increased by 2, provided that their Range was not initially 0.
 ##### Assimilate Elements
 *Prerequisite: [[Conduit]]*  
 Choose one of the following tags: Fire, Ice, Stone, Storm. Any **Spell** you know that has one of these tags but not your chosen tag is transformed, having that tag swapped for your chosen tag. 
+##### Blink
+When you take the **DASH** action, you may teleport to a space within Range equal to your **SPEED** instead of moving.
 ##### Bloodletting
 *Prerequisite: [[Invoker]]*  
 As a Minor Action, you may reduce your HP by 1 and clear all Conditions and **Persistent Damage**. 
@@ -19,8 +19,6 @@ While you have less than 3 || 6 || 9 **Mana**, your *Basic Attack* deals an addi
 ##### Necromancy
 *Prerequisite: [[Riftcaller]]*  
 Your summons gain the [[Generic Amplifiers#Undead|Undead]] amplifier.
-##### Rest the Aether
-When you finish one of your turns on which you did not spend any **Mana** or use a *Basic Attack*, you regain 2 || 4 || 6 **Mana**.
 ##### Siphon
 When you hit with your *Basic Attack*, you regain 1 || 2 || 3 **Mana**.
 ### Tier II

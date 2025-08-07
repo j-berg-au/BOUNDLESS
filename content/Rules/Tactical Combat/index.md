@@ -16,7 +16,7 @@ aliases:
 
 ### Attacks & Damage
 ##### Attacks
-- Attack Rolls
+- Attack Rolls 1d20 vs targets EVASION
 - Melee (Reach) vs Ranged (Range).
 - Ranged gains **+2 Banes** on attack roll when adjacent to enemy
 ##### Critical Hits

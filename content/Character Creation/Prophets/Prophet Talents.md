@@ -3,8 +3,6 @@
 ##### Amplified
 *Prerequisite: [[Virtuoso]]*  
 The Range on all your active **Emotions** increases by 1 || 2 || 3.
-##### Blessings
-Each time you gain the Divine Effect from a Miracle, you gain 1 [[Keywords#Aegis|Aegis]].
 ##### Condemn
 Once per turn as a Free Action, you may inflict the [[Conditions & Statuses#Marked|MARKED]] condition on a target within Range 6.
 ##### Divine Protection
@@ -17,6 +15,9 @@ After rolling your Fate Die, you may spend **2 Favour** to reroll it. You must u
 ##### Twinned Totem
 *Prerequisite: [[Druid]]*  
 You may have two Totems active at a given time, but they must be active on different characters.
+##### Pious Ward
+*Prerequisite: [[Priest]]*  
+As a Minor Action, you may spend **2 Favour** to grant yourself 1 [[Keywords#Aegis|Aegis]].
 ##### Protective Presence
 You an all allies within Range 2 gain **+1 Boon** on all saves.
 ### Tier II
@@ -37,9 +38,14 @@ You may spend **2 Stress** to gain the ability to communicate with any non-human
 ##### Commune with the Fallen
 You may spend **2 Stress** to commune with a corpse of a deceased person. The corpse is granted the ability to answer up to three of your questions, each of which it is only able to answer with "yes", "no", or "unsure". The corpse has access to the knowledge it had in life and is compelled to answer truthfully, however it does not retain the soul of the deceased person. 
 ##### Divine Empathy
-By glancing at someone, you are able to tell their general current emotional state (e.g. angry, sad, happy, etc).
+By glancing at someone, you are able to tell their general current emotional state, regardless of how well they hide it.
+##### Familiar
+*Prerequisite: [[Druid]]*  
+Your Feathered Friend joins you outside of battles, obeying your commands. They have a value of 2 in Swift and Sense, and 0 in all other skills. Should they gain any **Stress** or **Strain**, they disappear for the rest of the scene.  
+
+You may spend **1 Stress** to perceive the world through your Feathered Friend's senses, closing off your ability to use your own senses when you do so. You may end this effect at any time.
 ##### First Aid
-When an ally of yours takes a **Strain** as a consequence of a roll, if you are able to take a short amount of time to tend to them within the same scene in which they obtained the **Strain**, you may patch it up. When you do so, the **Strain** is cleared.
+When an ally of yours takes a **Strain** as a consequence of a Skill Check, if you are able to take a short amount of time to tend to them within the same scene in which they obtained the **Strain**, you may patch it up. When you do so, the **Strain** is cleared.
 
 You can use this Talent twice per Quest.
 ##### Precognition

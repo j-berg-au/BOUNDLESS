@@ -4,9 +4,15 @@ All consumables require a Minor Action to use. You may only use the consumable o
 Unless otherwise stated, all consumables are expended after a single use.
 ### Crafting
 - Pay the Essence listed, do the clock.
+- For things other than a basic list, you need to know the crafting recipe
 ### Purchasing
 - Pay twice the Essence listed.
 ### Items
+- More Runestones
+- One to clear stress
+- One to remove a Strain.
+- More offensive *Splash* items
+- Talent for artisan to be goated at crafting
 ##### Adrenaline Potion
 *Cost: See table below, Craft: See table below*  
 When you drink this potion, you gain an amount of **Adrenaline** depending on its quality.
@@ -39,7 +45,7 @@ When you drink this elixir, you regain an amount of **HP** depending on its qual
 | Sweet       |   20   |          |           |
 | Superb      |   30   |          |           |
 ##### Runestone of Precision
-*Cost X Essence, Craft: X*  
+*Cost: X Essence, Craft: X*  
 Break this runestone to release the energy stored within, drawing it into your weapon. For the rest of the scene, your weapon gains a **+1 bonus** on **HIT** and it reduces your **Crit Threshold** by 2.
 ##### Serene Tea
 *Cost: X Essence, Craft: X*  

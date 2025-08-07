@@ -48,7 +48,7 @@ As Standard Effect, but the target takes **1d6 || 2d6 || 3d6** damage after each
 *Fate Target: 6*  
 *Minor Action, Totem*  
 **Standard Effect:**  
-Choose an ally within Reach 1. They gain a 1 || 2 || 3 bonus to their **SPEED**. Only one ally can benefit from a Totem at a time.  
+Choose an ally within Reach 1. They gain a 1 || 2 || 3 bonus to their **SPEED**. Only one ally can benefit from a Totem at a time. When a character empowered by a Totem is [[Conditions & Statuses#Defeated|DEFEATED]], the Totem ceases to empower them.  
 
 **Divine Effect:**  
 As Standard Effect, but the target also gains a +2 bonus to their **EVASION**.
@@ -139,20 +139,20 @@ As Standard Effect, but you also gain 1 [[Keywords#Aegis|Aegis]].
 *Fate Target: 6*  
 *Minor Action, Totem*  
 **Standard Effect:**  
-Choose an ally within Reach 1. They grow one size larger, and their attacks deal an additional 1 || 2 || 3 damage. Only one ally can benefit from a Totem at a time.  
+Choose an ally within Reach 1. While empowered by the Totem, they grow one size larger and gain [[Conditions & Statuses#Strength|STRENGTH]] 1 || 2 || 3. Only one ally can benefit from a Totem at a time. When a character empowered by a Totem is [[Conditions & Statuses#Defeated|DEFEATED]], the Totem ceases to empower them.  
 
 **Divine Effect:**  
-As Standard Effect, but the target also gains [[Keywords#Shield|Shield]] equal to your Level.
+As Standard Effect, but the target also gains [[Conditions & Statuses#Resistant|RESISTANT]] 1 || 2 || 3.
 
 -----
 ##### Whispers of Truth
 *Fate Target: 8*  
 *Minor Action*  
 **Standard Effect:**  
-Choose an ally within Reach 1. Their **Crit Threshold** is reduced by 3 until the end of their next turn.  
+Choose an ally within Range 3. Their **Crit Threshold** is reduced by 2 until the end of their next turn. Whispers of Truth cannot stack with itself.  
 
 **Divine Effect:**  
-You and all allies have their **Crit Threshold** reduced by 2 until the end of the scene.
+You and all allies have their **Crit Threshold** reduced by 2 until the end of the scene. Whispers of Truth cannot stack with itself.
 
 -----
 ## Tier II

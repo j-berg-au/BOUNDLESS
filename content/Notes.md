@@ -17,31 +17,33 @@ draft: "true"
 	3. More Talents
 10. Psychic
 	1. More Tricks
+		1. An AoE knockback
+		2. A focused knockback that deals damage
+		3. Psychic stuff that gives a condition
 	2. Should they **only** get access to a sublist of Tricks?
 11. Riftcaller
 	1. Rework?
 	2. More Spells
 	3. More Talents
 # To Do
+- Adept Talent that makes your Companion join battles.
+- Mount for Vanguards (sets SPEED to a value, other benefit)
+- "Themes", groups of Talents that are kinda "subclassy".
 - Miracle that transfers damage from PC to another. Cannot be turned off until one PC is DEFEATED.
 - Hazard rules (move into this space or start your turn in it).
-- Make it easier for Adepts to regain Focus? Or give them larger starting pool?
-- Change Engineer talent to let you pick a tag from a predetermined list. Call it specialist or something idk.
 - Up damage of enemies
-- Give priest a built in way to use favour other than Smite. Let Smite just use 4 favour.
+- Give priest a built in way to use favour other than Smite.
 - Druid Talent that lets you spend Stress to change the weather for advanced exploration.
-- Make Vanguards Tricks cooler? Things like Batter Up and Leg Swipe are kinda boring. They do greatly increase damage by granting additional attacks, but still. Maybe include more things that aren't additional attacks. 
-- Bear trap stays until triggered
-- Whispers of truth can't stack with itself.
-- Maybe change it to spend a Strain to heal to full. Consider how it affects Vanguards. Test in a campaign.
+	- Make Vanguards Moves cooler? Things like Batter Up and Leg Swipe are kinda boring. They do greatly increase damage by granting additional attacks, but still. Maybe include more things that aren't additional attacks. 
+- Maybe change it to spend a Strain to heal to full. Consider how it affects Vanguards. Test in a campaign. If this affects Vanguards too much but you find it good, spend Stress to regain Mana/Divine Intervention/Focus?
 - Rules for walls/constructs/etc. Immune to psychic and other effects. 0 EVASION. Fails all saves except **MIGHT**.
 - Advanced Exploration has rules for weather, that modify exploration in some way. Roll on the table to get the weather and its effects:
 	- Fog. You cannot see outside of your Hex today.
-	- Rain.
+	- Rain. 
 	- Snow.
-	- Windy
+	- Windy.
+	- Maybe a different table for each season? Or a biome? Or something to encapsulate both?
 - Write rules for **Slowing Terrain** (difficult terrain, costs 2 movement to move out of a slowing terrain)
-- Pivot Prophet to more single-target debuff focus, deprioritise pure-support.
 - Alternate ways to expend marked.
 - Trade boons for expanded crit range, bonus damage, and other effects.
 - Make an art inspiration board
@@ -70,18 +72,10 @@ draft: "true"
 - Find a way to delete the "Folder Contents" part of folder pages, or at least make it look nicer.
 - Write a "Strategy Tips" section
 	- Make sure your Vanguard is taking the hits, and support them in doing so and in staying alive.
+	- Make use of Taunts to sway the actions of enemies.
 	- Avoid having your Prophet take hits.
 	- As a Mage, always keep spare Mana to block damage.
 	- Adepts & Mages who aren't being targeted become much more effective.
-# Playtest Vibes
-- Vanguard
-	- Good, no notes
-- Adept
-	- Decent, getting auto-hit by minions or a save vs half-damage thing sucks ass tho
-- Mage
-	- Maybe change the cap you can spend Mana to reduce damage (thats a sentence...)
-- Prophet
-	- A little boring. Needs more interesting Miracles and Talents
 # Mechanics
 ##### Downtime
 - 2 Actions per Downtime
@@ -90,9 +84,10 @@ draft: "true"
 - Odd jobs (for Coin)
 - Work on a Project
 - Find information
+- Research a crafting recipe
 - Add a "Montage" feel to it
 ##### Crafting
-- Does crafting require ingredients?
+- Does crafting require ingredients? No, just Essence.
 ##### Exploration?
 # Storymaster
 ##### Combat Building
@@ -113,7 +108,7 @@ draft: "true"
 - Consumables
 	- Add prices and clocks to make them.
 	- An expensive one that revives a recently deceased PC, coming back with all Scars.
-	- An (less expensive) one that removes Scars.
+	- A (less expensive) one that removes Scars.
 ##### Generic Enemies 
 - Sentinel
 - Horde (gets weaker/smaller as it gets damaged)
@@ -267,8 +262,6 @@ You have created a device that grants you limited manipulation of time. Once per
 	- Effect on hit
 ##### Narrative
 - Artisan talent to make them the best crafter
-- Buffs to stealth/group stealth (Skirmisher)
-- Pet
 ### Mage
 ##### Combat
 - More things to do that don't cost Mana
@@ -306,16 +299,16 @@ You have created a device that grants you limited manipulation of time. Once per
 		- Make vulnerable to WIT/PRESENCE saves
 	- More Talents
 # General Notes
-- Maybe add a Prone status?
 - Evolving weapons would be cool
 - Steal Hooks & Afflictions from CAIN
-- Ranged attacks gain +1/+2 Banes when adjacent to an enemy
 ##### Curse of Lycanthropy
 You have contracted lycanthropy, a curse that blurs the line between person and beast. 
 
 There are various strains of lycanthropy, many of which remain undiscovered. Each variant shapes those infected into monstrous people with traits of a particular animal. When you take this Talent, you may choose which strain you have been infected with. Common strains include wolves, bears, rats, boars, and tigers.
 
 Start a permanent Clock for your character, titled ***Caging the Beast***. This clock has 12 segments.
+##### Arcane Theorem of Distance (not very good)
+All **Spells** you know have their Range increased by 2, provided that their Range was not initially 0.
 # Fantasies to Cover
 - **Vanguard**
 	- Berserker

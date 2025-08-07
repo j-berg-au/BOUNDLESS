@@ -161,6 +161,12 @@ You may instead teleport yourself and an ally within Reach 1.
 ---
 ## Tier III
 ---
+##### Eldritch Maw
+*Prerequisite: [[Invoker]]*  
+*0 Mana, Major Action*  
+- Gain a **Scar** to summon the mouth of an eldritch entity. If the target has less than X HP, it is swallowed whole and is removed from this Realm. Otherwise, take FUCK TONNES of damage.
+
+---
 ##### Riftdive
 *X Mana, Major Action*  
 You attempt to force another character into the Rift temporarily. Choose a character within Range 5, who must then make a **PRESENCE** save. On a success, the target is [[Conditions & Statuses#Stunned|STUNNED]].   

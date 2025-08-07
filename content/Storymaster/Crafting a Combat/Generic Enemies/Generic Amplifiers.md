@@ -9,4 +9,4 @@
 ##### Floating
 A Floating character ignores **Slowing Terrain** and hazardous terrain that would require them to step on it to take effect.
 ##### Undead
-When an Undead character is [[Conditions & Statuses#Defeated|DEFEATED]], flip a coin. If the result is tails, the character clears [[Conditions & Statuses#Defeated|DEFEATED]] and returns to **1 HP**.
+When an Undead character would become [[Conditions & Statuses#Defeated|DEFEATED]], roll a d6. On a 5+, the character does not become [[Conditions & Statuses#Defeated|DEFEATED]] and returns to **1 HP**.

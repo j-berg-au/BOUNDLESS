@@ -3,7 +3,7 @@ A weapon or ability with this tag makes all attacks with **+1 Boon**.
 ##### Aegis
 **Aegis** is a rare resource that acts as a special shield that negates incoming damage.
 
-Each time a character with **Aegis** takes damage, the damage is reduced to 0 before all other kinds of reduction and the amount of **Aegis** they have is reduced by 1.
+Each time a character with **Aegis** takes damage an **Aegis** is shattered. The damage is reduced to 0 before all other kinds of reduction and the amount of **Aegis** they have is reduced by 1.
 ##### Armour
 When you take damage, you reduce the damage taken by the amount of **Armour** you have, to a minimum of 0.
 ##### Deadly

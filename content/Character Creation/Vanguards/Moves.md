@@ -1,7 +1,7 @@
 ## Tier I
 -----
 ##### Batter Up
-*2 Adrenaline, Minor Action*  
+*1 Adrenaline, Minor Action*  
 Make an attack with your weapon against a character within Reach. On a hit, the target is knocked back 2 || 4 || 6 spaces.
 
 -----
@@ -46,7 +46,7 @@ You attempt to taunt a character within Range 5. The target must make a **PRESEN
 -----
 ##### Whirlwind
 *3 Adrenaline, Minor Action*  
-All creatures adjacent to you are hit by your *Basic Attack*, taking half the usual damage (rounded up).
+You flourish your weapon in a spiral around you. Make an attack with your weapon against all characters adjacent to you. Roll damage once for all targets.
 
 -----
 
@@ -60,10 +60,12 @@ All creatures adjacent to you are hit by your *Basic Attack*, taking half the us
 ---
 ##### Last Stand
 *1 Adrenaline, Free Action*  
-You may only use this **Move** as a Free Action at the beginning of your turn. Immediately set your current **HP** to 1 and gain 15 Adrenaline. You cannot be healed until the end of your next turn.
+You may only use this **Move** as a Free Action at the beginning of your turn. Immediately set your current **HP** to 1 and gain **9 Adrenaline**. You cannot regain **HP** in any way until the end of your next turn.
 
 ---
 ##### One Serious Punch
+*9 Adrenaline, Minor Action, Melee Attack, Reach 1*  
+On a hit, you shatter all [[Keywords#Aegis|Aegis]] on the target, then they take ∞ damage.
 
 ---
 ##### Orbital Dropkick

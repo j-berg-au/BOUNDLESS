@@ -2,7 +2,7 @@
 -----
 ##### Bear Trap
 *Minor Action, Gadget*  
-You place down a bear trap within Range 3. The first time any character walks over the bear trap, they must make a **WIT** save or suffer an effect.
+You place down a bear trap within Range 3. When a character walks over the bear trap, they must make a **WIT** save or trigger the trap, suffering an effect. The trap remains until triggered.
 
 | **Success Level** | **Effect**                                                                                                                                                                                                                                                                                                     |
 | :---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

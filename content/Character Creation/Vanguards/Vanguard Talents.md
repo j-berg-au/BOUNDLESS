@@ -2,15 +2,18 @@
 ### Tier I
 -----
 #### General
+##### Flow State
+*Prerequisite: [[Monk]]*  
+Once per turn when you score a **critical hit**, you gain 1 [[Keywords#Aegis|Aegis]].
 ##### Further Training
 You learn two additional **Moves** of your choice.
 ##### Iron-Willed
 When you are reduced to 0HP, flip a coin and call it. If you guess correctly, you fall to 1HP instead.
 ##### Read the Battle
-You have a knack for learning the attack patterns of your foes. Once per round when you are hit by an attack from an enemy, your **EVASION** increases by 1. At the end of the combat, your **EVASION** returns to its usual value.
+You have a knack for learning the attack patterns of your foes. At the end of each round, increase your **EVASION** by 1. Your **EVASION** returns to its usual value when the combat ends.
 ##### Sanguine Thirst
 *Prerequisite: [[Generic Talents#Curse of Vampirism|Curse of Vampirism]]*  
-When you hit with your *Basic Attack*, you regain 1 || 2 || 3 HP. The target must have blood for this effect to trigger.
+When you hit with your *Basic Attack*, you regain **2 || 4 || 6 HP**. The target must have blood for this effect to trigger.
 ##### Shield
 All attacks made against allies adjacent to you are made with **+1 Bane**.
 ##### S#!t Talker
@@ -18,6 +21,7 @@ You may **TAUNT** once per turn as a Free Action.
 ##### To Action!
 At the beginning of combat, you may move up to your **SPEED** before anyone takes a turn.
 ##### Tower
+*Prerequisite: [[Knight]]*  
 Allies adjacent to you can use you as **hard cover**.
 ##### Unnatural Force
 When you take the Shove action, you are able to knock back the target up to 3 spaces.
@@ -25,7 +29,7 @@ When you take the Shove action, you are able to knock back the target up to 3 sp
 You may take an additional weapon into battle. At the start of each of your turns, you may decide which of the weapons to wield until the start of your next turn.
 #### Critical Hits
 ##### Blood Rage
-While your HP is less than half of its maximum, your **Crit Threshold** is reduced by 1 and you gain 1 || 2 || 3 [[Keywords#Shield|Shield]] at the start of each of your turns.
+While your **HP** is less than half of its maximum, your **Crit Threshold** is reduced by 1 and you gain 2 || 4 || 6 [[Keywords#Shield|Shield]] at the start of each of your turns.
 ##### Fury-Fuelled
 When you score a **Critical Hit**, you gain **2 Adrenaline**.
 #### Dancing Weapon
@@ -43,7 +47,7 @@ You cannot take Reactions from the weapon's space, and the weapon cannot use any
 ##### Independent Weapon
 *Prerequisite: [[Vanguard Talents#Dancing Weapon|Dancing Weapon]]*  
 Once per turn, you may spend **1 Adrenaline** to make a *Basic Attack* using your Dancing Weapon as a Free Action.
-##### Practiced Weapon
+##### Practised Weapon
 *Prerequisite: [[Vanguard Talents#Dancing Weapon|Dancing Weapon]]*  
 You may use **Moves** as if you were in your Dancing Weapon's space.
 ##### Sentinel Weapon
@@ -53,10 +57,12 @@ Once per round, when an enemy is within reach of your *Basic Attack* from your D
 ##### Chainmaster
 You carry a chain that you may use to grapple others. You may Grapple a target within Range 3, instead of Reach 1.
 ##### Crushing Grip
-When a character ends their turn while grappled by you, they take 1 || 2 || 3 damage.
+When a character ends their turn while grappled by you, they take **1 || 2 || 3 damage**. Additionally, you gain **+1 Boon** on **MIGHT** saves made to determine who counts as larger for grapples.
 ##### Formidable
 You count as one size larger for grapples. Additionally, you gain **+1 Boon** on attack rolls against a target you are grappling.
 ### Tier II
+##### Energising Actions
+At the beginning of each of your turns, gain **1 Adrenaline**.
 ### Tier III
 
 ## Narrative Talents
@@ -74,7 +80,7 @@ When you would take a **Strain** as a consequence from a skill check, you may ch
 You have a Squire that accompanies you on your travels. When you take this Talent, ask your fellow players if any of them would like to take the responsibility of roleplaying as your Squire (in addition to their usual PC). Use the following rules for your Squire.
 - Your Squire will generally follow your orders, unless it severely compromises on their morals or puts themselves into obvious danger. 
 - Your Squire counts as having a 0 in every Skill and cannot spend **Stress**, should they take any Stress they are rendered unconscious for the rest of the scene. 
-- Should the Squire take a **Strain**, they are injured into they can heal during Downtime. 
+- Should the Squire take a **Strain**, they become injured and cannot take meaningful action until they can heal during Downtime. 
 - Should the Squire take a **Scar**, they immediately die and you can find a new Squire during your next Downtime.
 - The Squire does not participate in combat, and will find either find somewhere safe to wait for it to be over or will otherwise do their best to ensure their safety.
 - The Squire does not count as being a PC.

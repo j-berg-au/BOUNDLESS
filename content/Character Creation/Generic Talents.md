@@ -4,6 +4,8 @@
 When you are reduced to 0HP and become [[Conditions & Statuses#Defeated|DEFEATED]], you gain **2 Strain** in place of a **Scar**.
 ##### Swift
 Increase your **SPEED** by 1 || 2 || 3.
+##### Undead
+When you would become [[Conditions & Statuses#Defeated|DEFEATED]], roll a d6. On a 5+, you do not become [[Conditions & Statuses#Defeated|DEFEATED]] and return to **1 HP**.
 ### Tier II
 
 ### Tier III

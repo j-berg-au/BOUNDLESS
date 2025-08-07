@@ -10,8 +10,8 @@ aliases:
 - [[Vanguard Weapons]]
 ### Classes
 There are 4 Classes of **Vanguard**:
-- **[[Berserker]]**, gladiators who shrug off damage thanks to their large health pool, while frequently hitting devastating critical hits.
 - **[[Exemplar]]**, warriors who master technique and discipline to become unmatched in their consistency.
+- **[[Fury]]**, gladiators who shrug off damage thanks to their large health pool, while frequently hitting devastating critical hits.
 - **[[Knight]]**, heroes who through their strength, courage, and armour, will ensure their friends’ safety.
 - **[[Monk]]**, brawlers whose serenity grants them a clarity unseen to others. 
 ### Adrenaline
@@ -22,7 +22,7 @@ At the beginning of combat, you start with 1 || 2 || 3 **Adrenaline**. You gain 
 - Each time you hit an enemy with a _Basic Attack_, gain **1 Adrenaline**.  
 Depending on your Class, Talents, and Moves, there may be additional ways for you to generate **Adrenaline**.  
 
-Your **Adrenaline** can never exceed five times your Tier. If you would gain an amount of **Adrenaline** that exceeds this number, any excess **Adrenaline** is lost.  
+Your **Adrenaline** can never exceed 5 || 7 || 9. If you would gain an amount of **Adrenaline** that exceeds this number, any excess **Adrenaline** is lost.  
 ### Moves
 When it’s time to show off in battle, it’s time to use a **Move**. To use a **Move**, you must expend the listed amount of **Adrenaline**. If you don’t have enough **Adrenaline**, you will need to build up more before you can use the **Move**.  
 

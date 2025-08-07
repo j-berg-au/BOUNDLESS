@@ -39,7 +39,6 @@ Here's a list of games and media that has inspired us during our creation of ***
 - *Baldur's Gate 3* by Larian Studios
 - *Clair Obscur: Expedition 33* by Sandfall Interactive
 - *Hades* by Supergiant Games
-- *V Rising* by Stunlock Studios
 #### Credits
 EMRYS - He/They
 Game Design, Writing

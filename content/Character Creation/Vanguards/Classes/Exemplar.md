@@ -17,7 +17,7 @@ Exemplars switch between offensive and defensive playstyles and come with a wide
 You learn 4 **Moves** of your choice. Each time you gain a Level, you learn an additional **Move**.
 #### Features
 ##### Exploit Opening
-Once per round, when an enemy is within reach of your *Basic Attack* and attempts to voluntarily move, you may spend a Reaction to immediately make a *Basic Attack* against them.
+Once per round, when an enemy is within reach of your weapon and attempts to voluntarily move, you may spend a Reaction to immediately make a *Basic Attack* against them.
 ##### Exemplar's Armour
 You gain 1 || 2 || 3 [[Keywords#Armour|Armour]].
 ##### Stances

@@ -25,7 +25,7 @@ When combat starts, you summon a fae bird to your aid. The bird appears in a spa
 | :------------------------------ | ----------------- |
 | **HP**                          | = 1               |
 | **EVASION**                     | = 14 + your Level |
-| **SPEED**                       | = 5 + your Tier   |
+| **SPEED**                       | = 6 \|\| 7 \|\| 8 |
 | **MIGHT save**                  | = -5 + your Level |
 | **FINESSE save**                | = 4 + your Level  |
 | **WIT save**                    | = Your Level      |
