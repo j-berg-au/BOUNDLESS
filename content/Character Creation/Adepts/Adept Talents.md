@@ -1,6 +1,16 @@
 ## Combat Talents
 ### Tier I
+##### Behold, My Creation
+*Prerequisite: [[Artisan]]*  
+You make modifications to your Weapon. You may apply up to 2 Modifications from the table below to your Weapon.
 
+| **Modification**   | **Description**                                                                                                                                                                                                       |
+| :----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Explosive          | The weapon gains [[Keywords#Knockback\|Knockback]] 1.                                                                                                                                                                 |
+| Extensions         | You may increase the Reach by 1, provided the weapon has a Melee Attack.                                                                                                                                              |
+| Refined Mechanisms | The weapon gains the [[Keywords#Accurate\|Accurate]] tag if it didn't have it already. If the weapon has the [[Keywords#Inaccurate\|Inaccurate]] tag, you instead remove the [[Keywords#Inaccurate\|Inaccurate]] tag. |
+| Scope              | You may increase the Range by 2, provided the weapon has a Ranged Attack.                                                                                                                                             |
+| Sharpened          | Increase the damage die by one step, to a maximum of a d12 (d4 -> d6 -> d8 -> d10 ->d12).                                                                                                                             |
 ##### Calculated
 Once per combat, you may foresee the outcome of a **Trick** before committing to it. On your turn before using a **Trick**, you may declare how many **Focus Points** you will spend and roll the corresponding amount of dice. After checking your result, you may choose whether or not you will indeed use the **Trick**. If you do, expend the **Focus Points** and use the result you had rolled for the **Trick**. If you choose not to use the **Trick**, you cannot use that **Trick** this turn.
 ##### Callouts
@@ -20,17 +30,6 @@ When you score a **Critical Hit**, you regain **1 Focus Point**.
 When making an attack roll with one or more **Boons**, you may trade one of the **Boons** to lower your **Crit Threshold** by 2 for that attack.
 ##### More Up My Sleeve
 You learn two additional **Tricks** of your choice.
-##### Behold, My Creation
-*Prerequisite: [[Artisan]]*  
-You make modifications to your Weapon. You may apply up to 2 Modifications from the table below to your Weapon.
-
-| **Modification**   | **Description**                                                                                                                                                                                                       |
-| :----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Explosive          | The weapon gains [[Keywords#Knockback\|Knockback]] 1.                                                                                                                                                                 |
-| Extensions         | You may increase the Reach by 1, provided the weapon has a Melee Attack.                                                                                                                                              |
-| Refined Mechanisms | The weapon gains the [[Keywords#Accurate\|Accurate]] tag if it didn't have it already. If the weapon has the [[Keywords#Inaccurate\|Inaccurate]] tag, you instead remove the [[Keywords#Inaccurate\|Inaccurate]] tag. |
-| Scope              | You may increase the Range by 2, provided the weapon has a Ranged Attack.                                                                                                                                             |
-| Sharpened          | Increase the damage die by one step, to a maximum of a d12 (d4 -> d6 -> d8 -> d10 ->d12).                                                                                                                             |
 ##### Quick Thinking
 Whenever you would make a save, you may make a **WIT** save instead.
 ##### Shadow Jump
@@ -44,7 +43,7 @@ When an attack misses you, you may move up to 2 spaces as a Reaction. This movem
 *Prerequisite: [[Shadow]]*  
 When you make an attack while [[Conditions & Statuses#Hidden|HIDDEN]], the attack deals an additional 1d4 || 2d4 || 3d4 damage.
 ##### Specialist
-Select one of the following tags: Alchemy, Gadget, Movement.
+Select one of the following tags: Alchemy, Gadget, Movement.  
 
 When using a **Trick** with the chosen tag, you can roll an additional d6 when determining the success level of the **Trick**.
 ##### Watch Out!

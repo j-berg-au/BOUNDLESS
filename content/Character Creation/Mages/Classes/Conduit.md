@@ -17,11 +17,11 @@ Conduits utilise a specific type of magic determined by their Magical Domain. Wi
 You learn 1 **Spell** of your choice, in addition to the **Spells** granted by your Magical Domain. At every odd Level, you learn an additional **Spell** of your choice.
 #### Features
 ##### Magical Domain
-As a **Conduit**, a very specific type of magic flows through you. This type of magic is known as your **Magical Domain**.
+As a **Conduit**, a very specific type of magic flows through you. This type of magic is known as your **Magical Domain**.  
 
-Each **Magical Domain** grants you a feature, as well as **Spells** at each Tier of play. 
+Each **Magical Domain** grants you a feature, as well as **Spells** at each Tier of play.  
 
-Additionally, each has an associated Spell Tag representing the type of magic they excel at. Once on each of your turns, you may Augment a **Spell** with this tag as if you had spent an amount of **Mana** equal to your Tier.
+Additionally, each has an associated Spell Tag representing the type of magic they excel at. Once on each of your turns, you may reduce the **Mana** cost of Augmenting the **Spell** by 1 || 2 || 3.  
 
 Select a **Magical Domain** from the options listed below.
 
@@ -34,7 +34,7 @@ Select a **Magical Domain** from the options listed below.
 *Tier II:*  
 *Tier III:*  
 **Feature: WILDFIRE**  
-When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell** or a weapon with the Fire tag, all creatures adjacent to the target take 1//2//3 [[Keywords#Persistent Damage|Persistent Damage]].
+When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell** or a weapon with the Fire tag, all creatures adjacent to the target take 1 || 2 || 3 [[Keywords#Persistent Damage|Persistent Damage]].
 
 ---
 **GLACIAL MAGIC**  

@@ -4,8 +4,6 @@
 - Bonus Actions
 - Elite (generally higher power)
 - More turns per round
-- Resistances & Vulnerabilities
-	- These always come tied together. If a creature resists one thing, it must be vulnerable to something else. Thus, this Amplifier doesn't increase the Difficulty Points
 ##### Floating
 A Floating character ignores **Slowing Terrain** and hazardous terrain that would require them to step on it to take effect.
 ##### Undead

@@ -19,23 +19,28 @@ While you have less than 3 || 6 || 9 **Mana**, your *Basic Attack* deals an addi
 ##### Necromancy
 *Prerequisite: [[Riftcaller]]*  
 Your summons gain the [[Generic Amplifiers#Undead|Undead]] amplifier.
+##### Shepherd the Horde
+*Prerequisite: [[Riftcaller]]*  
+You may spend a Minor Action to direct each of your Summons to move up to their **SPEED**.
 ##### Siphon
 When you hit with your *Basic Attack*, you regain 1 || 2 || 3 **Mana**.
 ### Tier II
 ##### Battlemage
-*Prerequisite: Tier II*
 Whenever you spend **Mana** on a **Spell**, you gain [[Keywords#Shield|Shield]] equal to the **Mana** spent.
 ##### Dual Domain
-*Prerequisite: Tier II, [[Conduit]]*  
+*Prerequisite: [[Conduit]]*  
 Select an additional **Magical Domain**, gaining its **Spells** and feature.
+##### Summon Swap
+*Prerequisite: [[Riftcaller]]*  
+As a Minor Action, you may spend **1 Mana** to swap places with a summon under your control.
 ##### Unleash Arcane
-*Prerequisite: Tier II, [[Conduit]]*  
+*Prerequisite: [[Conduit]]*  
 Activate as Free Action. Two rounds of ABSOLUTE POWER. One round of losing your turn 
 - Make this a talent tree, with options for each **Magical Domain**
 ### Tier III
 
 ##### Master of Three
-*Prerequisite: Tier III, [[Conduit]], [[Mage Talents#Dual Domain|Dual Domain]]*  
+*Prerequisite: [[Conduit]], [[Mage Talents#Dual Domain|Dual Domain]]*  
 Select an additional **Magical Domain**, gaining its **Spells** and feature.
 ## Narrative Talents
 ### Tier I

@@ -15,6 +15,26 @@ For every **Mana** spent, increase the size of the Arc by 2.
 On a successful save, a target takes 2 damage anyway.
 
 -----
+##### Call Minions
+*Prerequisite: [[Riftcaller]]*  
+*3 Mana, Major Action, Summons*  
+You summon two [[Minion|Minions]] within Range 5. You may only have up to 2 || 4 || 6 **Minions** active at a time.
+
+You may immediately and as a Minor Action on your subsequent turns direct two of your **Minions** to take a turn, dictating their actions. If not directed, your **Minions** will not act, simply waiting around for you to tell them what to do.
+
+The Minions disappear at the end of combat, or when they are [[Conditions & Statuses#Defeated|DEFEATED]].
+
+**Augments**  
+*Exploding. 2 Mana*  
+Each **Minion** you summon gains the [[Minion#Exploding|Exploding]] amplifier.
+
+*Floating. 2 Mana*  
+Each **Minion** you summon gains the [[Generic Amplifiers#Floating|Floating]] amplifier.
+
+*Horde. 3+ Mana*  
+You summon an additional two [[Minion|Minions]] for every **3 Mana** spent.
+
+-----
 ##### Firewall
 *3 Mana, Minor Action, Fire*  
 You create a size 4 Arc of blazing flames within Range 6.
