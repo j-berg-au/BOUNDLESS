@@ -1,10 +1,8 @@
-> **WARNING:** This class is in an unfinished state. Please consider playing a different class for now.
-
 **Description**  
-Blank.
+Painters, Orators, Musicians, Poets. Virtuosos channel their divine creativity to influence the world around them.
 
 **Playstyle**  
-Blank.
+Virtuosos support allies or weaken foes who are close enough to be influenced by their art. Thus ensuring correct positioning is vital to a Virtuoso's effectiveness.
 
 **Complexity:** ★★★☆☆
 
@@ -20,14 +18,14 @@ You learn 3 **Miracles** of your choice. Each time you increase in Tier, you lea
 #### Features
 ##### Inspiration
 You gain the **Miracles** *[[Miracles#Starlight|Starlight]]* and *[[Miracles#Untouchable Dance|Untouchable Dance]]* for free, without them counting towards the number of **Miracles** you know.
-##### Emotive Presence
-While in combat, you imbue your art with a particular **Emotion**. At the start of each of your turns, you may declare an Active Emotion from the list below, gaining its effects until the start of your next turn. You may only have one Active Emotion at a time.
+##### Themes of War
+Your art shapes the motions of battle. At the start of each of your turns, you may declare an Active Theme from the list below, applying its effects until you are [[Conditions & Statuses#Defeated|DEFEATED]] or until you declare a new Active Theme. You may only have one Active Theme at a time. 
 
-**DESPAIR**  
+**TRAGEDY**  
 All enemies gain [[Conditions & Statuses#WEAK|WEAK]] 1 || 2 || 3 while within Range 3 of you.
 
-**PRIDE**  
+**TRIUMPH**  
 You and all allies within Range 3 gain a **+2 Bonus** to all saves.
 
-**RAGE**  
-Each time you or an ally within Range 3 deals damage, they deal an additional 1 || 2 || 3 damage.
+**VENGEANCE**  
+All allies within Range 3 gain [[Conditions & Statuses#Strength|STRENGTH]] 1 || 2 || 3.

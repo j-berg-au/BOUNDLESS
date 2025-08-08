@@ -11,20 +11,12 @@ draft: "true"
 	1. More runestones
 7. Write out Exploration Rules
 8. Finish writing out Combat/Narrative Rules
-9. Virtuoso
-	1. Rework?
-	2. More Miracles
-	3. More Talents
-10. Psychic
+9. Psychic
 	1. More Tricks
 		1. An AoE knockback
 		2. A focused knockback that deals damage
 		3. Psychic stuff that gives a condition
 	2. Should they **only** get access to a sublist of Tricks?
-11. Riftcaller
-	1. Rework?
-	2. More Spells
-	3. More Talents
 # To Do
 - Adept Talent that makes your Companion join battles.
 - Mount for Vanguards (sets SPEED to a value, other benefit)

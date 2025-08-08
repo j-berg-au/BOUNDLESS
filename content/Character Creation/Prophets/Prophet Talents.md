@@ -2,7 +2,7 @@
 ### Tier I
 ##### Amplified
 *Prerequisite: [[Virtuoso]]*  
-The Range on all your active **Emotions** increases by 1 || 2 || 3.
+The Range on all your Active Themes increases by 1 || 2 || 3.
 ##### Condemn
 Once per turn as a Free Action, you may inflict the [[Conditions & Statuses#Marked|MARKED]] condition on a target within Range 6.
 ##### Divine Protection
@@ -25,7 +25,7 @@ You an all allies within Range 2 gain **+1 Boon** on all saves.
 When you inflict [[Conditions & Statuses#Weak|WEAK]] onto a target, you also inflict [[Conditions & Statuses#Vulnerable|VULNERABLE]] of equal value for the same duration. When you inflict [[Conditions & Statuses#Vulnerable|VULNERABLE]] onto a target, you also inflict [[Conditions & Statuses#Weak|WEAK]] of equal value for the same duration.
 ##### Genre Fusion
 *Prerequisite: [[Virtuoso]], Tier II*  
-You may have two **Emotions** active at a time, rather than one.
+You may have two Active Themes at a time, rather than one.
 ### Tier III
 ## Narrative Talents
 ### Tier I

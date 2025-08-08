@@ -38,7 +38,9 @@ As a Minor Action, you may spend **1 Mana** to swap places with a summon under y
 Activate as Free Action. Two rounds of ABSOLUTE POWER. One round of losing your turn 
 - Make this a talent tree, with options for each **Magical Domain**
 ### Tier III
-
+##### Independence
+*Prerequisite: [[Riftcaller]]*  
+Once on each of your turns, you may direct one of your summons as a Free Action as if you had spent a Minor Action to do so.
 ##### Master of Three
 *Prerequisite: [[Conduit]], [[Mage Talents#Dual Domain|Dual Domain]]*  
 Select an additional **Magical Domain**, gaining its **Spells** and feature.
