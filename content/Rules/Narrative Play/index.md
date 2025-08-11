@@ -69,6 +69,12 @@ When rolling a Skill Check, the player may propose a deal with the Storymaster, 
 The Storymaster then chooses whether to accept or refuse the proposal. They may also propose their own deal in return.
 ### NPCs
 During the Narrative portion of the game, the NPCs don't make any rolls. Instead, they act **through the consequences of players' actions**. 
+### Group Checks
+If a group of players want to all work together to achieve a course of action, such as sneaking through an area together, they may do so in a group check.
+
+To perform a group check, nominate a leader. Then, everyone rolls an appropriate [[Character Creation/index#Attributes & Skills|Skill]] (which must be the same for each player), taking the **highest result amongst all players.**
+
+However, for each player that would have failed the check, the leader takes **1 Stress**.
 ### Summary
 Here's a **summary** for Skill Checks.
 - The player describes what their character would like to do.
@@ -76,12 +82,6 @@ Here's a **summary** for Skill Checks.
 - The player chooses an appropriate [[Character Creation/index#Attributes & Skills|Skill]] to use for the check.
 - The player rolls the dice.
 - The Storymaster describes the outcome!
-### Group Checks
-If a group of players want to all work together to achieve a course of action, such as sneaking through an area together, they may do so in a group check.
-
-To perform a group check, nominate a leader. Then, everyone rolls an appropriate [[Character Creation/index#Attributes & Skills|Skill]] (which must be the same for each player), taking the **highest result amongst all players.**
-
-However, for each player that would have failed the check, the leader takes **1 Stress**.
 ## Clocks
 
 ## Equipment
@@ -89,6 +89,9 @@ However, for each player that would have failed the check, the leader takes **1 
 
 ### Bag
 
-### Consumable
+### Consumables
 
 ### Essence
+Essence is used as a valuable currency throughout the world. Paying for a room at a tavern, for a meal, or other minor expenses aren't paid in Essence, but whatever the local currency is in the region. In ***BOUNDLESS***, we don't track such a currency.
+
+When you want to purchase something major, such as a magical item, a powerful elixir, or new equipment, you pay in Essence. Essence is raw energy drawn from fallen monsters, and can be used to craft items imbued with different forms of magic.

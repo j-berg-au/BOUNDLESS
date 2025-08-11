@@ -40,8 +40,8 @@ Here's a list of games and media that has inspired us during our creation of ***
 - *Clair Obscur: Expedition 33* by Sandfall Interactive
 - *Hades* by Supergiant Games
 #### Credits
-EMRYS - He/They
-Game Design, Writing
+EMRYS — He/They  
+Lead Game Design, Writing
 
-BAILEY - Any/Any
-Game Design
+BAILEY — Any/Any  
+Additional Game Design

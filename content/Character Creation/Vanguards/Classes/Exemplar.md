@@ -4,15 +4,15 @@ Warriors who master the technique of battle find themselves adorned with the tit
 **Playstyle**  
 Exemplars switch between offensive and defensive playstyles and come with a wider list of Moves. Exemplars are therefore prepared to enter any battle that comes their way. 
 
-**Complexity:** ★★★★★
+**Complexity:** ★★★★☆
 
 | **Core Statistics** |                      |
 | :------------------ | -------------------- |
 | **HP**              | = 24 \|\| 48 \|\| 72 |
-| **EVASION**         | = 6 + your Level     |
-| **HIT**             | = Your Level         |
+| **EVASION**         | = 7 + your Level     |
+| **HIT**             | = 1 + your Level     |
 | **SPEED**           | = 5                  |
-| **Save Target**     | = 9 + your Level     |
+| **Save Target**     | = 10 + your Level    |
 #### Moves
 You learn 4 **Moves** of your choice. Each time you gain a Level, you learn an additional **Move**.
 #### Features
@@ -26,17 +26,11 @@ During combat, you switch between styles known as **Stances**. You begin combat 
 Your **Stances** are listed below.
 
 **OFFENSIVE STANCE**  
-You enter your **Offensive Stance** after using a **Move** that can deal damage.
+You enter your **Offensive Stance** after using a *Basic Attack*, *Grapple*, or *Shove*.
 
-While in your **Offensive Stance**, you gain a **+1 Bonus** to your **HIT** and you reduce your **Crit Threshold** by 1.
+While in your **Offensive Stance**, you make all attacks with **+1 Boon**.
 
 **DEFENSIVE STANCE**  
-You enter your **Defensive Stance** after using a **Move** that cannot deal damage.
+You enter your **Defensive Stance** after using a *Dash*, *Set-Up*, or *Taunt*.
 
-While in your **Defensive Stance**, you increase your **Armour** by 1 || 2 || 3 and your **Evasion** by 1.
-
-**EXEMPLARY STANCE**  
-If you are in your **Offensive Stance** and trigger an effect that would put you in your **Defensive Stance**, or vice versa, you instead enter your **Exemplary Stance**. 
-
-While in your **Exemplary Stance**, you gain the benefits of both your **Offensive Stance** and your **Defensive Stance**.
-
+While in your **Defensive Stance**, all attacks made against you gain **+1 Bane**.

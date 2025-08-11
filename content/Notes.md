@@ -133,6 +133,7 @@ draft: "true"
 	- Blood Magic
 - Demon
 	- FIREEEEE
+	- Hazards everywhere, progressively covering more of the map and dealing more damage as it heaps up and spreads.
 - False God
 - Blade guy
 - Dragon
@@ -230,7 +231,7 @@ You have created a device that grants you limited manipulation of time. Once per
 	- Talents that interact with Stances, maybe even adding new stances
 	- Additional bonuses to certain stances
 	- Additional ways to enter a stance
-	- Offensive Stance generates more Adrenaline?
+	- Overextend Offensive Stance, grants enemies boons on attacks against you, but you gain a buff
 - More ways to self-heal
 - Bonus effects on crits
 - Better Shove

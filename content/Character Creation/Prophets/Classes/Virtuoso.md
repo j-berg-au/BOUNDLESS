@@ -28,4 +28,4 @@ All enemies gain [[Conditions & Statuses#WEAK|WEAK]] 1 || 2 || 3 while within Ra
 You and all allies within Range 3 gain a **+2 Bonus** to all saves.
 
 **VENGEANCE**  
-All allies within Range 3 gain [[Conditions & Statuses#Strength|STRENGTH]] 1 || 2 || 3.
+You and all allies within Range 3 gain [[Conditions & Statuses#Strength|STRENGTH]] 1 || 2 || 3.

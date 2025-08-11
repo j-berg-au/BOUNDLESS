@@ -7,6 +7,12 @@
 Once per turn when you score a **critical hit**, you gain 1 [[Keywords#Aegis|Aegis]].
 ##### Further Training
 You learn two additional **Moves** of your choice.
+##### Improved Defence
+*Prerequisite: [[Exemplar]]*  
+While in your Defensive Stance, you gain [[Conditions & Statuses#Resistant|RESISTANT]] 1 || 2 || 3 and your **SPEED** is increased by 1.
+##### Improved Offense
+*Prerequisite: [[Exemplar]]*  
+While in your Offensive Stance, you gain [[Conditions & Statuses#Strength|STRENGTH]] 1 || 2 || 3 and your **Crit Threshold** is reduced by 1.
 ##### Iron-Willed
 When you are reduced to 0HP, flip a coin and call it. If you guess correctly, you fall to 1HP instead.
 ##### Read the Battle
@@ -63,6 +69,12 @@ You count as one size larger for grapples. Additionally, you gain **+1 Boon** on
 ### Tier II
 ##### Energising Actions
 At the beginning of each of your turns, gain **1 Adrenaline**.
+##### Exemplary Stance  
+*Prerequisite: [[Exemplar]]*  
+If you are in your **Offensive Stance** and trigger an effect that would put you in your **Defensive Stance**, or vice versa, you instead enter your **Exemplary Stance**. 
+
+While in your **Exemplary Stance**, you gain the benefits of both your **Offensive Stance** and your **Defensive Stance**.
+
 ### Tier III
 
 ## Narrative Talents
