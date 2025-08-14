@@ -13,6 +13,10 @@ aliases:
 ##### Areas of Effect (AoEs)
 
 ##### Cover
+##### Slowing Terrain
+Exiting a space that is **Slowing Terrain** costs the same as moving 2 spaces.
+##### Hazards
+##### Falling
 
 ### Attacks & Damage
 ##### Attacks

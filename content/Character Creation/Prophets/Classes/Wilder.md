@@ -1,8 +1,8 @@
 **Description**  
-Heralds of the natural world, **Druids** call for spirits, plants, and animals to aid their allies and hinder their foes.
+Heralds of the natural world, **Wilders** call for spirits, plants, and animals to aid their allies and hinder their foes.
 
 **Playstyle**  
-Druids use their Feathered Friend to deliver Miracles from safety. An effective Druid is essentially present in two places at once.
+Wilders use their Feathered Friend to deliver Miracles from safety. An effective Wilder is essentially present in two places at once.
 
 **Complexity:** ★★☆☆☆
 

@@ -21,7 +21,7 @@ You remove two conditions or one condition and all [[Keywords#Persistent Damage|
 
 -----
 ##### Decay
-*Prerequisite: [[Druid]]*  
+*Prerequisite: [[Wilder]]*  
 *Fate Target: 6*  
 *Minor Action*  
 **Standard Effect:**  
@@ -44,7 +44,7 @@ As Standard Effect, but the target takes **1d6 || 2d6 || 3d6** damage after each
 
 -----
 ##### Eagle Totem
-*Prerequisite: [[Druid]]*  
+*Prerequisite: [[Wilder]]*  
 *Fate Target: 6*  
 *Minor Action, Totem*  
 **Standard Effect:**  
@@ -113,7 +113,7 @@ As Standard Effect, but the Circle grows to size 2.
 
 ---
 ##### Summon Roots
-*Prerequisite: [[Druid]]*  
+*Prerequisite: [[Wilder]]*  
 *Fate Target: 5*  
 *Minor Action*  
 **Standard Effect:**  
@@ -131,11 +131,11 @@ As Standard Effect, but you and your allies ignore the **Slowing Terrain**.
 You begin a dance that makes you incredibly difficult to hit. Until the end of your next turn, any attacks made against you gain **+2 Banes**.
 
 **Divine Effect:**  
-As Standard Effect, but you also gain 1 [[Keywords#Aegis|Aegis]].
+As Standard Effect, but you also gain [[Keywords#Aegis|Aegis]].
 
 -----
 ##### Ursine Totem
-*Prerequisite: [[Druid]]*  
+*Prerequisite: [[Wilder]]*  
 *Fate Target: 6*  
 *Minor Action, Totem*  
 **Standard Effect:**  

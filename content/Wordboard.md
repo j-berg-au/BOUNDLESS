@@ -2,8 +2,9 @@
 draft: "true"
 ---
 **Vanguard**
-- Berserker
-	- Fury
+- Fury
+	- Berserker
+	- Barbarian
 	- Onslaught
 	- Carnage
 	- Rampage
@@ -127,7 +128,7 @@ draft: "true"
 	- Arcane
 	- Enlightenment
 **Prophet**
-- Druid
+- Wilder
 	- Bloom
 	- Grace
 	- Lotus

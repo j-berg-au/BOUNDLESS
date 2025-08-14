@@ -42,6 +42,8 @@ You also immediately lose [[Conditions & Statuses#HIDDEN|HIDDEN]] if your cover 
 You attempt to help an ally adjacent to you. They gain **+1 Boon** on their next attack roll or save before the end of their next turn.
 ##### Shove
 To shove, make an attack against a character in Reach 1. On a hit, they are knocked back 1 space.
+##### Step
+You move 1 space without triggering any Reactions.
 ##### Taunt
 You attempt to goad a character within Range 5 into attacking you. The target must make a **PRESENCE** save. On a failure, they gain **+2 Bane** on all attacks that are not targeting you until the end of their next turn.
 ### Reactions

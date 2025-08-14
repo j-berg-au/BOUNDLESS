@@ -4,20 +4,27 @@ draft: "true"
 # Priorities
 1. Write out enemy stat blocks
 2. More Narrative Talents
-3. More Prophet Miracles
-4. Do another pass on Weapons (balance + more weapons)
-5. More Combat Talents
-6. Write out artefacts/consumables
+3. MORE ABILITIES
+4. More Combat Talents
+5. Write out artefacts/consumables
 	1. More runestones
-7. Write out Exploration Rules
-8. Finish writing out Combat/Narrative Rules
-9. Psychic
+6. Write out Exploration Rules
+7. Finish writing out Combat/Narrative Rules
+8. Psychic
 	1. More Tricks
 		1. An AoE knockback
 		2. A focused knockback that deals damage
 		3. Psychic stuff that gives a condition
-	2. Should they **only** get access to a sublist of Tricks?
 # To Do
+- Thought: Switch Wilder to Mage and Invoker to Prophet. Probably not but interesting take nonetheless.
+- Rename Monk
+- Move defence mechanics to their own paragraph on the Type page
+- Move features shared across a Type to the Type page (exploit opening, evasive).
+- Rework some Classes to have more interesting and engaging mechanics
+	- Knight?
+	- Wilder?
+- Wilder can use Divine Intervention on Bird
+- Adepts can use focus on companions
 - Adept Talent that makes your Companion join battles.
 - Mount for Vanguards (sets SPEED to a value, other benefit)
 - "Themes", groups of Talents that are kinda "subclassy".
@@ -25,16 +32,9 @@ draft: "true"
 - Hazard rules (move into this space or start your turn in it).
 - Up damage of enemies
 - Give priest a built in way to use favour other than Smite.
-- Druid Talent that lets you spend Stress to change the weather for advanced exploration.
-	- Make Vanguards Moves cooler? Things like Batter Up and Leg Swipe are kinda boring. They do greatly increase damage by granting additional attacks, but still. Maybe include more things that aren't additional attacks. 
+- Make Vanguards Moves cooler? Things like Batter Up and Leg Swipe are kinda boring. They do greatly increase damage by granting additional attacks, but still. Maybe include more things that aren't additional attacks. 
 - Maybe change it to spend a Strain to heal to full. Consider how it affects Vanguards. Test in a campaign. If this affects Vanguards too much but you find it good, spend Stress to regain Mana/Divine Intervention/Focus?
 - Rules for walls/constructs/etc. Immune to psychic and other effects. 0 EVASION. Fails all saves except **MIGHT**.
-- Advanced Exploration has rules for weather, that modify exploration in some way. Roll on the table to get the weather and its effects:
-	- Fog. You cannot see outside of your Hex today.
-	- Rain. 
-	- Snow.
-	- Windy.
-	- Maybe a different table for each season? Or a biome? Or something to encapsulate both?
 - Write rules for **Slowing Terrain** (difficult terrain, costs 2 movement to move out of a slowing terrain)
 - Alternate ways to expend marked.
 - Trade boons for expanded crit range, bonus damage, and other effects.
@@ -53,9 +53,7 @@ draft: "true"
 		- Potions, poisons, etc
 		- Imbue things with temporary magic
 		- Bless things, make holy water, make remedies.
-- Use new conditions, [[Conditions & Statuses#Off-Guard|OFF-GUARD]], [[Conditions & Statuses#Resistant|RESISTANT]], and [[Conditions & Statuses#Strength|STRENGTH]]
 - Change skeletal summons to happening automatically at the start of turns 1, 3, and 5.
-- Riftcaller summoning minions is a LOT of mana for not a lot of payoff. Should summoning minions be a spell?
 - Damage rounds down on halved
 - Give Revitalise to all Prophets?
 - Nerf the fuck out of Invoke Lightning
@@ -80,7 +78,6 @@ draft: "true"
 - Add a "Montage" feel to it
 ##### Crafting
 - Does crafting require ingredients? No, just Essence.
-##### Exploration?
 # Storymaster
 ##### Combat Building
 - Need a budget system to build balanced combats. Use "Difficulty Points" but with a better name since DP is an unfortunate acronym
@@ -111,7 +108,6 @@ draft: "true"
 	- Debuffs party
 - Support
 	- Grants Shield/Aegis/Other effects
-- Guy who builds terrain/makes hazards
 - Commander who acts like a Riftcaller
 - Enemies who use:
 	- Persistent Damage
@@ -152,7 +148,6 @@ draft: "true"
 - Hexcrawl
 	- https://www.youtube.com/watch?v=hEIg1DlRkLg
 	- Maybe a cart with something pulling it gives you bonus "hours" to travel without that time actually passing
-	- Maybe reduce to 1 rest action per day
 # Ability Ideas
 - Something Tier III that literally does infinity damage
 ##### Moves

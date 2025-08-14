@@ -90,7 +90,7 @@ You know when another in your presence knowingly tells a lie.
 *Prerequisite: [[Shadow]]*  
 You may spend **2 Stress** to step through a wall in front of you, as if it didn't exist.
 ##### Leader
-*Prerequisite: [[Tactician]]*  
+*Prerequisite: [[Strategist]]*  
 When you lead a group check, the resultant success level is increased by one (from a failure to a partial success, from a partial success to a success, from a success to a critical success).
 ##### Telekinesis
 *Prerequisite: [[Psychic]]*  

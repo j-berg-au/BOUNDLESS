@@ -4,15 +4,14 @@
 #### General
 ##### Flow State
 *Prerequisite: [[Monk]]*  
-Once per turn when you score a **critical hit**, you gain 1 [[Keywords#Aegis|Aegis]].
+Once per turn when you score a **critical hit**, you gain [[Keywords#Aegis|Aegis]].
+##### Flowing River Stance
+*Prerequisite: [[Exemplar]]*  
+You enter your **Flowing River Stance** after using a *Dash*.
+
+While in your **Flowing River Stance**, you may move 1d6 spaces as a Free Action once on each of your turns. This movement does not trigger Reactions.
 ##### Further Training
 You learn two additional **Moves** of your choice.
-##### Improved Defence
-*Prerequisite: [[Exemplar]]*  
-While in your Defensive Stance, you gain [[Conditions & Statuses#Resistant|RESISTANT]] 1 || 2 || 3 and your **SPEED** is increased by 1.
-##### Improved Offense
-*Prerequisite: [[Exemplar]]*  
-While in your Offensive Stance, you gain [[Conditions & Statuses#Strength|STRENGTH]] 1 || 2 || 3 and your **Crit Threshold** is reduced by 1.
 ##### Iron-Willed
 When you are reduced to 0HP, flip a coin and call it. If you guess correctly, you fall to 1HP instead.
 ##### Read the Battle
@@ -24,17 +23,24 @@ When you hit with your *Basic Attack*, you regain **2 || 4 || 6 HP**. The target
 All attacks made against allies adjacent to you are made with **+1 Bane**.
 ##### S#!t Talker
 You may **TAUNT** once per turn as a Free Action.
+##### Thunder & Lightning
+*Prerequisite: [[Exemplar]]*  
+While in your **Lightning Strike Stance**, you gain [[Conditions & Statuses#Strength|STRENGTH]] 1 || 2 || 3 and your **Crit Threshold** is reduced by 1, however attacks made against you are made with **+1 Boon**.
 ##### To Action!
 At the beginning of combat, you may move up to your **SPEED** before anyone takes a turn.
 ##### Tower
 *Prerequisite: [[Knight]]*  
 Allies adjacent to you can use you as **hard cover**.
+##### Unmoving Mountain
+*Prerequisite: [[Exemplar]]*  
+While within your **Stern Mountain Stance**, you gain [[Conditions & Statuses#Resistant|RESISTANT]] 2 || 4 || 6, however you also gain [[Conditions & Statuses#Immobilised|IMMOBILISED]] until you exit this Stance. You cannot clear these Conditions in any way other than exiting this Stance.
 ##### Unnatural Force
 When you take the Shove action, you are able to knock back the target up to 3 spaces.
 ##### Versatile Training
 You may take an additional weapon into battle. At the start of each of your turns, you may decide which of the weapons to wield until the start of your next turn.
 #### Critical Hits
 ##### Blood Rage
+*Prerequisite: [[Fury]]*  
 While your **HP** is less than half of its maximum, your **Crit Threshold** is reduced by 1 and you gain 2 || 4 || 6 [[Keywords#Shield|Shield]] at the start of each of your turns.
 ##### Fury-Fuelled
 When you score a **Critical Hit**, you gain **2 Adrenaline**.
@@ -69,12 +75,16 @@ You count as one size larger for grapples. Additionally, you gain **+1 Boon** on
 ### Tier II
 ##### Energising Actions
 At the beginning of each of your turns, gain **1 Adrenaline**.
-##### Exemplary Stance  
+##### Exemplary Stance
 *Prerequisite: [[Exemplar]]*  
-If you are in your **Offensive Stance** and trigger an effect that would put you in your **Defensive Stance**, or vice versa, you instead enter your **Exemplary Stance**. 
+Once per combat, you may enter your **Exemplary Stance** as a Free Action. You stay in this Stance until the start of your next turn, then becoming **Stanceless**.  
 
-While in your **Exemplary Stance**, you gain the benefits of both your **Offensive Stance** and your **Defensive Stance**.
-
+While in your **Exemplary Stance** you gain the following benefits:
+- You make all attacks with **+1 Boon**.
+- All attacks made against you gain **+1 Bane**.
+- You gain [[Conditions & Statuses#Strength|STRENGTH]] 2 || 4 || 6.
+- You gain [[Conditions & Statuses#Resistant|RESISTANT]] 2 || 4 || 6.
+- Your **SPEED** is increased by 2.
 ### Tier III
 
 ## Narrative Talents

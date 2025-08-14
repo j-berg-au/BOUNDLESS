@@ -41,13 +41,14 @@ The players get to "The Realm Above", starting at a settlement. The players do a
 - *"If you help me deal with X, I will help you traverse the clouds and down the tower. You have my word."* - NPC that will temporarily join the party
 - During Hexcrawl on the clouds, the players can only stop to rest on an island
 ### Realms
-Use alchemical symbols for each Realm. Arrange the Realms in a Hexagon, with each Realm connected to two other Realms. 2 Levels per Realm. Each Realm should teach the players about the corresponding Child, who acts as a God to the Realm. By learning about the Child, they should indirectly learn about Father. Each Realm was made in the image of the Child in order to teach them about themselves, "This Realm is not only yours, it is you." 
+2 Levels per Realm. Each Realm should teach the players about the corresponding Child, who acts as a God to the Realm. By learning about the Child, they should indirectly learn about Father. Each Realm was made in the image of the Child in order to teach them about themselves, "This Realm is not only yours, it is you." 
 
 Realms are in order of increasing age (starts at youngest, other than Amber).
 
-**Realm 1 // BLANK**
+**Realm 1 // BLANK // BLANK**  
+- Desert realm? Middle eastern inspired? 
 
-**Realm 2 // Aequalis // Clair & Alphonse (Twins)**
+**Realm 2 // Aequalis // Clair & Alphonse (Twins)**  
 - Split into two, Aequalis Supra and Aequalis Infra
 - Duality
 - Light/Dark
@@ -58,19 +59,21 @@ Realms are in order of increasing age (starts at youngest, other than Amber).
 - For Clair/Alphonse, switch who you fight each round, then phase 2 you fight both.
 - Clair is above, Alphonse is below. Father created the world to teach the children that they support and rely on each other, and that they are two sides of the same coin. Alphonse didn't take this well, as they see it as Father saying Clair is above them.
 
-**Realm 3 // BLANK**
+**Realm 3 // BLANK // BLANK**  
+Sad lonely middle child. Might even help the party. Realm based on Antarctica and Inuit people. Take inspo from the first arc of To Your Eternity.
 
-**Realm 4 // BLANK**
+**Realm 4 // BLANK // BLANK**  
 
-**Realm 5 // BLANK // Katrin**
+**Realm 5 // BLANK // Katrin**  
 - Katrin has wolfen druid vibes. Fur coat. Phase 1 druid, Phase 2 werewolf + summon pack
 - "I'm sorry, but it's your family or mine."
 - The world is a cold forest that sits above a giant wolf, symbolising that Katrin tries too hard to carry the weight of the world.
 - Gnomes who travel the Realms are from this place.
 - Katrin acts as a protective older sister. Parentification
 
-**Realm 6 // BLANK**
+**Realm 6 // BLANK**  
 - Edgy angry weapon guy is here.
+- He was sent to a realm riddled with War to teach him to learn Peace. He instead out-war'd the entire realm.
 - He is a Giant that wields many different floating weapons. Swords, maces, spears, etc.
 - The landscape is decimated, with thousands of giant weapons impaling the world.
 - The remaining inhabitants hide away in fear of Edgy Man.

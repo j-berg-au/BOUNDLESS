@@ -20,10 +20,26 @@ A typical day for adventuring can be broken down into the following:
 - 4 hours of eating, setting up or packing up camp, and looking after ones own hygiene,
 - 4 hours of restful activities,
 - and 8 hours of sleep.
-### Travel
-##### Hex Types
+### Weather
+At the start of each day, roll on the table below to determine the **Weather**. Each type of weather has an effect that impacts the players' travel for the day.
 
-| Type           | Time    |
+| **2d6** | **Weather**      | **Effect**                                                                                 |
+| :-: | :----------- | :------------------------------------------------------------------------------------- |
+|  2  | Storm        | The time cost to move into an adjacent Hex is doubled.                                 |
+|  3  | Heavy Rain   | You gain **1 Stress** at the start of the day. You cannot clear **Stress** in any way. |
+|  4  | Fog          | You cannot see into Hexes you are not within.                                          |
+|  5  | Light Rain   | All PCs gain **1 Stress** at the start of the day as the rain sours their mood.        |
+|  6  | Sunny        | No effect.                                                                             |
+|  7  | Sunny        | No effect.                                                                             |
+|  8  | Sunny        | No effect.                                                                             |
+|  9  | Sunny        | No effect.                                                                             |
+| 10  | Sunny        | No effect.                                                                             |
+| 11  | Sunny        | No effect.                                                                             |
+| 12  | Intense Heat | The players must mark twice as many **Supplies** at the end of the day.                |
+### Travel
+##### Hex Terrain Types
+
+| **Terrain Type**   | **Time**    |
 | :------------- | ------- |
 | Plains, Hills  | 1 hour  |
 | Bog, Forest    | 2 hours |
@@ -65,22 +81,67 @@ Each day the party travel and are unable to deduct a **Supply**, each PC must ta
 
 At the start of each Quest, the Storymaster must decide on how many **Supplies** the party starts with. This number can vary depending on how happy you are for them to take their time between destinations, but a recommended amount is **twice the number they would need if they took the optimal route.**
 #### Rest Actions
-- Take it Easy (clear 1d4 stress)
-- Crafting (Downtime Crafting grants more progress)
-- Foraging? Start a Foraging Clock for the party, when its full you get an extra "Supply" (which is one days worth of stuff for the entire party.)
-- Work on a Project (Downtime will grant more progress)
-	- Projects could include deciphering an artefact, earn the trust of an NPC travelling with the party, etc
+At the end of each day, the party set up camp and take time to rest. During this time, they may each choose a single Rest Action from the list below to perform.
+
+**CRAFT**  
+You spend time crafting an item. If you are beginning to craft a new item, spend the **Essence** required. Then, roll an appropriate Skill Check and advance the clock per the success level.
+
+| **Success Level** | **Clock Segments** |
+| :---------------- | :----------------: |
+| Critical Success  |         3          |
+| Success           |         2          |
+| Partial Success   |         1          |
+| Failure           |         0          |
+
+**FORAGE**
+You look around for more Supplies. Roll an appropriate Skill Check and advance the party's Foraging Clock per the success level. The party's Foraging Clock is a 6-segment clock.
+
+| **Success Level** | **Clock Segments** |
+| :---------------- | :----------------: |
+| Critical Success  |         3          |
+| Success           |         2          |
+| Partial Success   |         1          |
+| Failure           |         0          |
+
+**TAKE IT EASY**
+You may clear **1d4 Stress**.
+
+**WORK ON A PROJECT**  
+You work on a project of yours. This could mean many things, but some examples include deciphering a code you have found or earning the trust of an NPC travelling with you.
+
+Roll an appropriate Skill Check and advance a clock for the project. The amount of segments on the clock depend on the project's complexity, as determined by the Storymaster. 
+
+| **Success Level** | **Clock Segments** |
+| :---------------- | :----------------: |
+| Critical Success  |         3          |
+| Success           |         2          |
+| Partial Success   |         1          |
+| Failure           |         0          |
 ### Party Tracker
 - Supplies
-- Foraging Clock
-- Hours (day by day)
+- Foraging Clock. 6-clock.
+- Hours (day by day). Can use a 8-clock.
 ## Talents for Advanced Exploration
-- If you're using Advanced Exploration, you may present the following to the Players and allow them to pick one per Tier of their character, in addition to their normal Talents.
+If you're using Advanced Exploration, you may present the following to the Players and allow them to pick one per Tier of their character, in addition to their normal Talents.
+##### Climber
+*Prerequisite: [[Character Creation/Adepts/index|Adept]]*  
+Once per day, you may claim you have found the perfect thing to climb. You may then climb the object you had found, and gain the ability to see into Hexes up to 2 spaces away.
+##### Gate
+*Prerequisite: [[Character Creation/Mages/index|Mage]]*  
+You may spend **1 Strain** to teleport yourself and your allies to a Hex you have been to before.
 ##### Insomniac
 During each day, you may take an additional **Rest Action**. However, you reduce your **Stress Cap** by 1.
+##### Onwards!
+*Prerequisite: [[Character Creation/Vanguards/index|Vanguard]]*  
+You may spend **1 Strain** to pick up and carry all of your allies into an adjacent Hex, ignoring the time cost of entering the Hex.
+##### Visions
+*Prerequisite: [[Character Creation/Prophets/index|Prophet]]*  
+Once per day, you divine what is within a Hex. Choose a Hex within 5 Hexes of you. You immediately learn of its **Terrain Type** and contents, as if you had **Searched** it.
+##### Weather Ritual
+*Prerequisite: [[Wilder]]*  
+You may spend **3 Stress** to modify the weather for the day, choosing the result instead of rolling.
 
 Ideas:
-- (Limited) bonus Rest Actions
 - Vanguard can spend Stress to pick up the party and carry them for a speed boost
 - Adept can climb up high to see an additional Hex away
 - Mage can teleport to a hex they have already travelled to

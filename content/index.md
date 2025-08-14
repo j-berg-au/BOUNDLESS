@@ -34,6 +34,7 @@ Here's a list of games and media that has inspired us during our creation of ***
 - *[ICON](https://massif-press.itch.io/icon)* by Tom Bloom
 - [*LANCER*](https://massif-press.itch.io/corebook-pdf-free) by Massif Press
 - *[Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel)* by John Harper
+- *[Fabula Ultima](https://need.games/fabula-ultima/)* by Emanuele Galletto
 
 **Video Games:**
 - *Baldur's Gate 3* by Larian Studios

@@ -1,8 +1,8 @@
 **Description**  
-A **Tactician** is a mastermind of battle and a natural leader. Tacticians ensure that they and their comrades have they upper hand over their foes.
+A **Strategist** is a mastermind of battle and a natural leader. Strategists ensure that they and their comrades have they upper hand over their foes.
 
 **Playstyle**  
-Tacticians play a supportive role, helping position their allies and optimising their efficiency. 
+Strategists play a supportive role, helping position their allies and optimising their efficiency. 
 
 **Complexity:** ★★★★☆
 
@@ -25,6 +25,6 @@ Your actions subtly dictate the flow of battle. When you roll for the success le
 You choose an ally within Range 8, who may perform a *Basic Attack* as a Reaction.
 
 **REPOSITION! (4+)**  
-You choose an ally within Range 8, who may immediately move up to their **SPEED** as a Reaction.
+You choose an ally within Range 8, who may immediately move up to their **SPEED** as a Reaction. This movement does not trigger any other Reactions.
 ##### Leadership
 You gain the [[Adept Talents#Watch Out!|Watch Out!]] talent for free, without it counting towards the number of Talents you know.

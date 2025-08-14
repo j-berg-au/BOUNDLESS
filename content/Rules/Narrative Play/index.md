@@ -30,7 +30,7 @@ To roll a Skill Check, the player will roll a number of d6's equal to the value 
 ##### Rolling with 0 Dice
 If a player would roll **0 dice** for a Skill check, they roll 2d6 and **use the lowest result**. A player can never roll "negative" dice, and so should a situation call for that (for example, through multiple **Banes**) simply roll 0 dice instead.
 ### Consequences
-When a player fails or partially succeeds on a check, they suffer consequences.
+When a player fails or partially succeeds on a check, they suffer consequences as determined by the Storymaster.
 
 Some example consequences, based on **Risk**, are listed below.
 
@@ -42,7 +42,7 @@ Some example consequences, based on **Risk**, are listed below.
 
 On a **Partial Success**, you may also forego a consequence to allow the player to **Succeed** with reduced **Reward**, particularly for **Controlled** rolls.
 #### Threats
-Instead of inflicting an immediate consequence, you may instead **Threaten** a more severe consequence. This gives the players a chance to deal with the threat, but could lead to something severe.
+Instead of inflicting an immediate consequence, the Storymaster may instead **Threaten** a more severe consequence. This gives the players a chance to deal with the threat, but could lead to something severe.
 
 When issuing a **Threat**, describe the situation to the players. The monster pins down a player and prepares a worrying attack, a bad guy goes to sound the alarm, etc. Then, give the players a chance to prevent this using a single **Skill Check**. This check has no Risk or Reward. On a success, the consequence is avoided. On a failure, choose a consequence from the examples above (or make your own), and make it **twice as bad**. For example:
 - Inflict **2 Strain** instead of 1 on a Dangerous roll.
@@ -68,7 +68,7 @@ When rolling a Skill Check, the player may propose a deal with the Storymaster, 
 - Introduce a new complication, such as additional bad guys showing up to the scene
 The Storymaster then chooses whether to accept or refuse the proposal. They may also propose their own deal in return.
 ### NPCs
-During the Narrative portion of the game, the NPCs don't make any rolls. Instead, they act **through the consequences of players' actions**. 
+During the Narrative portion of the game, the NPCs don't make any rolls. Instead, they act **through the consequences of players' actions**. This excludes NPCs under the players' control, such as companions.
 ### Group Checks
 If a group of players want to all work together to achieve a course of action, such as sneaking through an area together, they may do so in a group check.
 
@@ -86,11 +86,8 @@ Here's a **summary** for Skill Checks.
 
 ## Equipment
 ### Artefacts
-
 ### Bag
-
 ### Consumables
-
 ### Essence
 Essence is used as a valuable currency throughout the world. Paying for a room at a tavern, for a meal, or other minor expenses aren't paid in Essence, but whatever the local currency is in the region. In ***BOUNDLESS***, we don't track such a currency.
 
