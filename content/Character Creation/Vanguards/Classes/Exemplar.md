@@ -30,7 +30,7 @@ You enter your **Lightning Strike Stance** after using a *Basic Attack*, *Grappl
 
 While in your **Lightning Strike Stance**, you make all attacks with **+1 Boon**.
 
-**STERN MOUNTAIN STANCE**  
-You enter your **Stern Mountain Stance** after using a *Set-Up*, *Step*, or *Taunt*.
+**STEADFAST MOUNTAIN STANCE**  
+You enter your **Steadfast Mountain Stance** after using a *Set-Up*, *Step*, or *Taunt*.
 
-While in your **Stern Mountain Stance**, all attacks made against you gain **+1 Bane**.
+While in your **Steadfast Mountain Stance**, all attacks made against you gain **+1 Bane**.

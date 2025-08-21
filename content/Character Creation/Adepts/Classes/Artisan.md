@@ -1,5 +1,5 @@
 **Description**  
-Artisans are folks with a special interest in a particular craft. If you're hoping to befriend one, simply ask them about what they're currently working on and endure the conversation the follows.
+Artisans are folks with a special interest in a particular craft. If you're hoping to befriend one, simply ask them about what they're currently working on and endure the conversation that follows.
 
 **Playstyle**  
 Planning ahead and making the most of the Tricks is what an Artisan does best. Lean into the Tricks that complement your preferred Specialisation to succeed.
@@ -20,7 +20,6 @@ You learn 3 **Tricks** of your choice. Every odd level, you learn a new **Trick*
 You gain **+1 Boon** to all **FINESSE**, **WIT**, and **PRESENCE** saves.
 ##### Specialisation
 You are an expert in your field. Choose a specialisation below, gaining it's corresponding **Tricks** and feature.
-
 
 -----
 **ALCHEMIST**

@@ -2,9 +2,6 @@
 ### Tier I
 -----
 #### General
-##### Flow State
-*Prerequisite: [[Monk]]*  
-Once per turn when you score a **critical hit**, you gain [[Keywords#Aegis|Aegis]].
 ##### Flowing River Stance
 *Prerequisite: [[Exemplar]]*  
 You enter your **Flowing River Stance** after using a *Dash*.
@@ -33,7 +30,7 @@ At the beginning of combat, you may move up to your **SPEED** before anyone take
 Allies adjacent to you can use you as **hard cover**.
 ##### Unmoving Mountain
 *Prerequisite: [[Exemplar]]*  
-While within your **Stern Mountain Stance**, you gain [[Conditions & Statuses#Resistant|RESISTANT]] 2 || 4 || 6, however you also gain [[Conditions & Statuses#Immobilised|IMMOBILISED]] until you exit this Stance. You cannot clear these Conditions in any way other than exiting this Stance.
+While within your **Steadfast Mountain Stance**, you gain [[Conditions & Statuses#Resistant|RESISTANT]] 2 || 4 || 6, however you also gain [[Conditions & Statuses#Immobilised|IMMOBILISED]] until you exit this Stance. You cannot clear these Conditions in any way other than exiting this Stance.
 ##### Unnatural Force
 When you take the Shove action, you are able to knock back the target up to 3 spaces.
 ##### Versatile Training

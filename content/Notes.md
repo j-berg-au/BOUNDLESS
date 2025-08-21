@@ -2,20 +2,25 @@
 draft: "true"
 ---
 # Priorities
-1. Write out enemy stat blocks
-2. More Narrative Talents
+1. MORE ENEMIES
+2. MORE TALENTS
 3. MORE ABILITIES
-4. More Combat Talents
-5. Write out artefacts/consumables
-	1. More runestones
-6. Write out Exploration Rules
-7. Finish writing out Combat/Narrative Rules
-8. Psychic
+4. MORE EQUIPMENT
+	1. MORE WEAPONS
+	2. MORE ARTEFACTS
+	3. MORE CONSUMABLES
+5. Finish writing out Combat/Narrative Rules
+6. Encounter Building System
+7. Guide to making Hex maps
+8. Downtime + Rest rules written out
+9. Psychic
 	1. More Tricks
 		1. An AoE knockback
 		2. A focused knockback that deals damage
 		3. Psychic stuff that gives a condition
 # To Do
+- Ghost summons for Riftcaller. Adds an Augment to summons to make them Invisible for a Mana cost.
+- Add prerequisites/recipes for consumables. Add a Artisan Talent that lets you ignore prerequisites.
 - Thought: Switch Wilder to Mage and Invoker to Prophet. Probably not but interesting take nonetheless.
 - Rename Monk
 - Move defence mechanics to their own paragraph on the Type page
@@ -139,7 +144,6 @@ draft: "true"
 - Weakspots. Hit a predetermined number on an attack roll and deal flat bonus damage. Can impose +1 Bane to move your result 1 up or down. Maybe the GM gives a range that this number lies in. 
 - Vampiric
 - Demonic
-- Undead
 ##### Exploration
 - Let groups choose between a Pointcrawl and a Hexcrawl
 	- Provide a list of talents for each option
@@ -330,7 +334,7 @@ All **Spells** you know have their Range increased by 2, provided that their Ran
 		- Rogue
 		- Ranger
 			- Pet
-	- Tactician
+	- Strategist
 - **Mage**
 	- Conduit
 		- Elemental
@@ -345,7 +349,7 @@ All **Spells** you know have their Range increased by 2, provided that their Ran
 		- Chronomancer
 		- Illusions
 - **Prophet**
-	- Druid
+	- Wilder
 		- Pets
 		- Turn into animals (Tier II), perhaps a separate talent for each form?
 		- Summon animals/spirits?
