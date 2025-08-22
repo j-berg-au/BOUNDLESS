@@ -1,8 +1,8 @@
 ## Tier I
 -----
 ##### Batter Up
-*1 Adrenaline, Minor Action*  
-Make an attack with your weapon against a character within Reach. On a hit, the target is knocked back 2 || 4 || 6 spaces.
+*2 Adrenaline, Minor Action*  
+Make an attack with your weapon against a character within Reach. On a hit, the target is knocked back 5 || 10 || 15 spaces.
 
 -----
 ##### Block
@@ -32,7 +32,7 @@ Make an attack with your weapon against a character within Reach. On a hit, the 
 -----
 ##### Throw
 *3 Adrenaline, Minor Action*  
-Make an attack against a character of your size or smaller within Reach 1. On a hit, you throw the target a number of spaces away from you equal to 3 || 4 || 5. 
+Make an attack against a character of your size or smaller within Reach 1. On a hit, you throw the target a number of spaces away from you equal to 5 || 7 || 9. 
 
 If this causes the target to collide with a wall, they take 1d6 damage for every space they were unable to move.
 
