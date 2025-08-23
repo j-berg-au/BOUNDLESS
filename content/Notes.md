@@ -20,6 +20,8 @@ draft: "true"
 		3. Psychic stuff that gives a condition
 # To Do
 - Ghost summons for Riftcaller. Adds an Augment to summons to make them Invisible for a Mana cost.
+- Tier II Fury Talent that grants STRENGTH equal to the round number.
+- Tier III Move for Fury that lets you rip apart a grappled target
 - Add prerequisites/recipes for consumables. Add a Artisan Talent that lets you ignore prerequisites.
 - Thought: Switch Wilder to Mage and Invoker to Prophet. Probably not but interesting take nonetheless.
 - Rename Monk

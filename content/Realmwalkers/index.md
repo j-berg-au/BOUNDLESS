@@ -81,27 +81,6 @@ Sad lonely middle child. Might even help the party. Realm based on Antarctica an
 
 **Realm 7 // The Rift**
 The Rift exists between Realms. At the centre, a black hole. But call it something cooler than a black hole.
-### Arc I // Tier I
-#### Part 1 // Level 1 // Pacha
-#### Part 2 // Level 2 // Pacha
-#### Part 3 // Level 3 // Al-Mushtari (Above)
-#### Part 4 // Level 4 // Al-Mushtari (Below)
-- After passing the Gate challenge (not sure if before or after entering Gate), face the BBEG. They stand there and let the players wail on them. They kill a player.
 
-### Arc II // Tier II
-
-#### Part 1 // Level 5 // Tir
-#### Part 2 // Level 6 // Tir
-#### Part 3 // Level 7 // Zohali
-#### Part 4 // Level 8 // Zohali
-
-### Arc III // Tier III
-#### Part 1 // Level 9 // Taibai
-#### Part 2 // Level 10 // Taibai
-#### Part 3 // Level 11 // Mangala
-#### Part 4 // Level 12 // Mangala
-
-#### Part 5 // Level 12 // The Rift
-### Notes
 - Build a Canvas for the Pointcrawl Map
 - Do a cinematic session 0
