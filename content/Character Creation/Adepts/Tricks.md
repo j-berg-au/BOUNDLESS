@@ -2,7 +2,7 @@
 -----
 ##### Bear Trap
 *Minor Action, Gadget*  
-You place down a bear trap within Range 3. When a character walks over the bear trap, they must make a **WIT** save or trigger the trap, suffering an effect. The trap remains until triggered.
+You place down a Size 2 bear trap within Range 3. When a character walks over the bear trap, they must make a **WIT** save or trigger the trap, suffering an effect. The trap remains until triggered.
 
 | **Success Level** | **Effect**                                                                                                                                                                                                                                                                                                     |
 | :---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,6 +35,32 @@ You dash forward, striking those in your path.
 | Success           | You move in a straight line up to your SPEED, moving through characters. You may make an attack with your weapon against any character you move through. Each attack you make after the first is made with **+1 Bane**. |
 | Partial Success   | You move in a straight line up to your SPEED, stopping in front of the first enemy in this line. You may make an attack with your weapon against them.                                                                  |
 | Failure           | You move up to 3 spaces in a straight line, stopping in front of the first enemy in this line. You may make an attack with your weapon against them.                                                                    |
+
+---
+##### Debilitate
+*Prerequisite: [[Psychic]]*  
+*Minor Action, Psionic*  
+You reach into the mind of a target within Range 10, attempting to limit certain parts of their brain. The target must succeed on a **PRESENCE** save or suffer an effect.
+
+| **Success Level** | **Effect**                                                                                                                                                                              |
+| :---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | The target becomes [[Conditions & Statuses#Blinded\|BLINDED]], [[Conditions & Statuses#Immobilised\|IMMOBILISED]] and [[Conditions & Statuses#Stunned\|STUNNED]] until the end of turn. |
+| Success           | The target becomes [[Conditions & Statuses#Blinded\|BLINDED]] and [[Conditions & Statuses#Immobilised\|IMMOBILISED]] until the end of their next turn.                                  |
+| Partial Success   | The target becomes [[Conditions & Statuses#Immobilised\|IMMOBILISED]] until the end of their next turn.                                                                                 |
+| Failure           | The target becomes [[Conditions & Statuses#Slowed\|SLOWED]] until the end of their next turn.                                                                                           |
+
+---
+##### Force Push
+*Prerequisite: [[Psychic]]*  
+*Minor Action, Psionic*  
+You attempt to push all creatures and loose objects within a Size 3 Square in Range 5. All characters must succeed on a **MIGHT** save or suffer an effect as below.
+
+| **Success Level** | **Effect**                                                                                                                                      |
+| :---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | On a failed save, the target is pushed 5 spaces directly away from you. On a successful save, the target is knocked back 1 space away from you. |
+| Success           | On a failed save, the target is pushed 3 spaces directly away from you.                                                                         |
+| Partial Success   | On a failed save, the target is pushed 2 spaces directly away from you.                                                                         |
+| Failure           | On a failed save, the target is pushed 1 space directly away from you.                                                                          |
 
 -----
 ##### Infected Shot
@@ -89,18 +115,18 @@ You move a number of spaces, detailed in the effect column in the table below. T
 *Minor Action*  
 You reach into your pocket and throw sand towards the eyes of a target within Range 3.
 
-| **Success Level** | **Effect**                                                                                      |
-| :---------------- | ----------------------------------------------------------------------------------------------- |
-| Critical Success  | The target becomes [[Conditions & Statuses#BLINDED\|BLINDED]] until the end of their next turn. |
-| Success           | The target makes all ranged attacks with **+2 Banes** until the end of their next turn.         |
-| Partial Success   | The target makes all ranged attacks with **+1 Bane** until the end of their next turn.          |
-| Failure           | The target is unaffected.                                                                       |
+| **Success Level** | **Effect**                                                                                                           |
+| :---------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | As Success, but the target also becomes [[Conditions & Statuses#BLINDED\|BLINDED]] until the end of their next turn. |
+| Success           | The target makes all attacks with **+2 Banes** until the end of their next turn.                                     |
+| Partial Success   | The target makes all attacks with **+1 Bane** until the end of their next turn.                                      |
+| Failure           | The target is unaffected.                                                                                            |
 
 -----
 ##### Puppetmaster
 *Prerequisite: [[Psychic]]*  
-*Minor Action*  
-You reach into the mind of a character within Range 5, forcing them to move. The target must succeed on a **PRESENCE** save or suffer an effect as below.
+*Minor Action, Psionics*  
+You reach into the mind of a character within Range 10, forcing them to move. The target must succeed on a **PRESENCE** save or suffer an effect as below.
 
 | **Success Level** | **Effect**                                                            |
 | :---------------- | --------------------------------------------------------------------- |

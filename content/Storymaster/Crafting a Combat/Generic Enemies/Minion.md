@@ -16,9 +16,12 @@ Any Minor Actions a **Minion** takes counts as taking a Major Action.
 
 ---
 ### Actions
-##### Attack!
+##### Shoot Them!
 *Major Action, Ranged Attack, Range 4*  
-Damage on hit: **3 || 6 || 9**. 
+Damage on hit: **2 || 4 || 6**.
+##### Smack Them!
+*Major Action, Melee Attack, Reach 1*  
+Damage on hit: **3 || 6 || 9**.
 
 ---
 ### Amplifiers

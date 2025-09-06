@@ -11,15 +11,18 @@
 
 ##### Feature 1
 
-##### Feature 2
-- Heal allies (easier to track than Shield). 
-- Buff allies ([[Conditions & Statuses#Resistant|Resistant]], [[Conditions & Statuses#Strength|Strength]])
 
 ---
 ### Actions
-##### Action 1
+##### Distract
+*Minor Action*  
 The **Support** chooses a target within Range 8. They become [[Conditions & Statuses#Marked|MARKED]] and [[Conditions & Statuses#Off-Guard|OFF-GUARD]] until the end of the their next turn.
-##### Action 2
+##### Embolden
+*Minor Action*  
+The **Support** targets an ally within Range 10. The target gains [[Conditions & Statuses#Strength|STRENGTH]] 2 || 4 || 6 and [[Conditions & Statuses#Resistant|RESISTANT]] 2 || 4 || 6 until the end of their next turn.
+##### Heal
+*Minor Action*  
+The **Support** targets an ally within Range 10, granting them 5 || 10 || 15 [[Keywords#Shield|Shield]].
 
 ---
 ### Amplifiers

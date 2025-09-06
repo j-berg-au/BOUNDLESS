@@ -19,9 +19,14 @@ draft: "true"
 		2. A focused knockback that deals damage
 		3. Psychic stuff that gives a condition
 # To Do
-- Ghost summons for Riftcaller. Adds an Augment to summons to make them Invisible for a Mana cost.
-- Tier II Fury Talent that grants STRENGTH equal to the round number.
+- Make formatting consistent
+- Rename the Stances of Exemplar
+- Team Up Abilities? Maybe the have a prerequisite that a specific class is in your party? Maybe they are a Talent/Ability that grants a Reaction to buff something someone does?
+- Address using combat things in narrative, and narrative things in combat?
+- Limit survivability talents per type, so you can't just make an immortal character by stacking them all.
+- Mana rework so that damages auto-scale with Tier, and Mana scales more slowly?
 - Tier III Move for Fury that lets you rip apart a grappled target
+- Maybe make purchasing consumables a cost equal to the normal cost + the crafting clock?
 - Add prerequisites/recipes for consumables. Add a Artisan Talent that lets you ignore prerequisites.
 - Thought: Switch Wilder to Mage and Invoker to Prophet. Probably not but interesting take nonetheless.
 - Rename Monk
@@ -183,6 +188,7 @@ You have created a device that grants you limited manipulation of time. Once per
 - Make this a Trick, when on a Failure it malfunctions. Maybe grant a SPEED boost when activated.
 ##### Spells
 - Levitate people
+- Drain Life Invoker Spell that lets you convert an enemies HP into Mana for you. Tier II.
 - Steal Spells from Frieren, Castlevania, etc
 - Gravity Well
 - Solar Gateway (Tier III), open a portal to the sun and shoot a sun laser in a line
@@ -249,11 +255,7 @@ You have created a device that grants you limited manipulation of time. Once per
 - Buffs to INVISIBLE
 - +1 Die on Tricks with certain tags
 - Bonuses from attacking from HIDDEN
-- Artisan Talent tree to build, customise, and upgrade their own weapon
-	- Upgrade Damage Die
-	- Make Accurate
-	- Give Graze
-	- Effect on hit
+- Psychic can ignore INVISIBLE on other characters
 ##### Narrative
 - Artisan talent to make them the best crafter
 ### Mage
@@ -264,7 +266,6 @@ You have created a device that grants you limited manipulation of time. Once per
 - Arcane Theorems
 - Major/Minor Action to gain Mana. Limited use per combat.
 - Additional **Forbidden Deals** for Invoker.
-- Some kind of Mana refund on missed attacks/passed saves
 ##### Narrative
 - Familiar for Invoker & Savant
 - Teleports

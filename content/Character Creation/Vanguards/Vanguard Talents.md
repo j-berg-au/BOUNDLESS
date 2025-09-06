@@ -2,6 +2,8 @@
 ### Tier I
 -----
 #### General
+##### Elemental Weapon
+You learn to channel elemental magic into your Weapon. As a Minor Action, you may spend **2 Adrenaline** to imbue your Weapon. Until the end of this combat, your weapon deals an additional **1d4 || 2d4 || 3d4 damage** on a hit.
 ##### Flowing River Stance
 *Prerequisite: [[Exemplar]]*  
 You enter your **Flowing River Stance** after using a *Dash*.
@@ -11,6 +13,9 @@ While in your **Flowing River Stance**, you may move 1d6 spaces as a Free Action
 You learn two additional **Moves** of your choice.
 ##### Iron-Willed
 When you are reduced to 0HP, flip a coin and call it. If you guess correctly, you fall to 1HP instead.
+##### Primal Warrior
+*Prerequisite: [[Fury]]*  
+Choose a Tier I [[Miracles|Miracle]] with the Totem tag. You are able to use this Miracle on yourself, gaining the **Standard Effect**.
 ##### Read the Battle
 You have a knack for learning the attack patterns of your foes. At the end of each round, increase your **EVASION** by 1. Your **EVASION** returns to its usual value when the combat ends.
 ##### Sanguine Thirst
@@ -34,7 +39,7 @@ While within your **Steadfast Mountain Stance**, you gain [[Conditions & Statuse
 ##### Unnatural Force
 When you take the Shove action, you are able to knock back the target up to 3 spaces.
 ##### Versatile Training
-You may take an additional weapon into battle. At the start of each of your turns, you may decide which of the weapons to wield until the start of your next turn.
+You may take an additional weapon into battle. At the start of each of your turns, you may switch which weapon you wield as a Free Action.
 #### Critical Hits
 ##### Blood Rage
 *Prerequisite: [[Fury]]*  
@@ -82,6 +87,9 @@ While in your **Exemplary Stance** you gain the following benefits:
 - You gain [[Conditions & Statuses#Strength|STRENGTH]] 2 || 4 || 6.
 - You gain [[Conditions & Statuses#Resistant|RESISTANT]] 2 || 4 || 6.
 - Your **SPEED** is increased by 2.
+##### Growing Rage
+*Prerequisite: [[Fury]]*  
+You gain [[Conditions & Statuses#Strength|STRENGTH]] equal to the round number.
 ### Tier III
 
 ## Narrative Talents

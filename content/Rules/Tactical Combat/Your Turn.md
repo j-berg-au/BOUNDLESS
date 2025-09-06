@@ -1,12 +1,12 @@
 During your turn you may do the following in any order you choose:
-- Use your **Standard Move**, which allows you to move up to your SPEED.
+- Use your **Standard Move**, which allows you to move up to your **SPEED**.
 - Either:
 	- Use **1 Major Action**
 	- Use **2 Minor Actions**
-- Use any number of **Free Actions**
+- Use any number of **Free Actions**  
 You cannot take the same action more than once in a given turn.
 
-You cannot break up your movement from your Standard Move. For example, if your **SPEED** is 4, you may **not** move 2 spaces, take a Minor Action, then move another 2 spaces.
+You cannot break up your movement from any sources. For example, if your **SPEED** is 4, you may **not** move 2 spaces, use a Minor Action, then move another 2 spaces without gaining movement from another source for the second move (such as taking the *Dash* Minor Action).
 ### Minor Actions
 Here is a list of Minor Actions all characters have access to.
 ##### Aid
@@ -41,7 +41,7 @@ You also immediately lose [[Conditions & Statuses#HIDDEN|HIDDEN]] if your cover 
 ##### Set-Up
 You attempt to help an ally adjacent to you. They gain **+1 Boon** on their next attack roll or save before the end of their next turn.
 ##### Shove
-To shove, make an attack against a character in Reach 1. On a hit, they are knocked back 1 space.
+To shove, make an attack against a character in Reach 1. On a hit, they are knocked back 1 || 2 || 3 spaces.
 ##### Step
 You move 1 space without triggering any Reactions.
 ##### Taunt

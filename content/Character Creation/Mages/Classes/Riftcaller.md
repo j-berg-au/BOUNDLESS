@@ -17,6 +17,6 @@ A Riftcaller summons creatures to fight alongside them, distracting enemies, and
 You learn 3 **Spells** of your choice, and an additional **Spell** each time you gain a Level.
 #### Features
 ##### Call Forth
-You learn the [[Spells#Call Minions|Call Minions]] **Spell**.
+You learn the [[Spells#Call Minions|Call Minions]] **Spell**, without it counting towards the number of **Spells** you know.
 ##### Shield of Summons
 Whenever you would take damage while adjacent to one of your Summons, you may instead redirect that damage to your adjacent Summon.

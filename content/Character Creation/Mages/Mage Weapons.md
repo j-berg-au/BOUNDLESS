@@ -19,6 +19,6 @@ On a hit, the target is [[Conditions & Statuses#Slowed|SLOWED]].
 **Damage:** 1d4 || 2d4 || 3d4  
 For every 4 you roll on a die for damage with this Basic Attack, you may add an additional 1d4 damage to the total as lightning strikes again.
 ##### Truthseeker Orb
-*Ranged Attack, Range 5*  
-**Damage:** 3 || 6 || 9  
+*Ranged Attack, Range 6*  
+**Damage:** 2 || 4 || 6  
 This attack always hits.

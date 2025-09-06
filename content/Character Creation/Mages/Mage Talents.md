@@ -8,28 +8,52 @@ When you take the **DASH** action, you may teleport to a space within Range equa
 ##### Bloodletting
 *Prerequisite: [[Invoker]]*  
 As a Minor Action, you may reduce your HP by 1 and clear all Conditions and **Persistent Damage**. 
+##### Entrapping Magicks
+Whenever you hit a target with your *Basic Attack*, the target becomes [[Conditions & Statuses#Off-Guard|OFF-GUARD]] until they fail a save.
 ##### Further Study
 You learn two additional **Spells** of your choice.
+##### Last Resort
+*Prerequisite: [[Invoker]]*  
+You may choose to gain a **Scar** to cast a **Spell** as if you had spent 5 || 10 || 15 **Mana** on it.
 ##### Levitation
 When in combat, your body floats just above the ground. You become immune to any slowing or hazardous terrain that would require you to step on it to take effect (e.g. spikes along the ground, a puddle of acid, etc.).
 
 Additionally, you may increase your **EVASION** by 1.
+##### Mana Refund
+When you cast a **Spell** that fails to have any effect due to a missed attack roll or a successful save, you regain **Mana** equal to your **Tier** or the amount of **Mana** spent, whichever amount is smaller.
 ##### Mana Sink
-While you have less than 3 || 6 || 9 **Mana**, your *Basic Attack* deals an additional 1d6 || 2d6 || 3d6 damage on a hit.
+While you have less than 3 || 6 || 9 **Mana**, your *Basic Attack* deals an additional **1d6 || 2d6 || 3d6 damage** on a hit.
+##### Mote of Magnetism
+As a Minor Action, you may imbue a target within Range 6 with magnetic magicks. The target becomes [[Conditions & Statuses#Marked|MARKED]], and [[Conditions & Statuses#Off-Guard|OFF-GUARD]] until the end of your next turn. 
 ##### Necromancy
 *Prerequisite: [[Riftcaller]]*  
 Your summons gain the [[Generic Amplifiers#Undead|Undead]] amplifier.
+##### Panic Shield
+After spending **Mana** to reduce incoming damage, roll a d6. On a 4+ you gain [[Keywords#Aegis|Aegis]] until the start of your next turn.
+##### Precise Spellcasting
+All **Spells** you know that require you to make an attack gain the [[Keywords#Deadly|Deadly]] tag.
 ##### Shepherd the Horde
 *Prerequisite: [[Riftcaller]]*  
 You may spend a Minor Action to direct each of your Summons to move up to their **SPEED**.
-##### Siphon
-When you hit with your *Basic Attack*, you regain 1 || 2 || 3 **Mana**.
+##### Summoner of Spirits
+*Prerequisite: [[Mage Talents#Necromancy|Necromancy]]*  
+Your **Spells** with the Summons tag gain the following Augment.
+
+*Spirit Form. 4 Mana*  
+The characters you summon in this **Spell** are [[Conditions & Statuses#Invisible|INVISIBLE]].
 ### Tier II
 ##### Battlemage
 Whenever you spend **Mana** on a **Spell**, you gain [[Keywords#Shield|Shield]] equal to the **Mana** spent.
+##### Chain Reaction
+When a **Spell** you cast requires you to make attack rolls against multiple targets or requires that multiple targets make a save against the **Spell**, you regain **1 Mana** for each target that is hit or fails its save after the first.
 ##### Dual Domain
 *Prerequisite: [[Conduit]]*  
 Select an additional **Magical Domain**, gaining its **Spells** and feature.
+##### Force Field
+*Prerequisite: You don't have any [[Keywords#Armour|Armour]]*  
+You gain a special type of [[Keywords#Armour|Armour]] (1 || 3 || 5) that only affects sources of damage that from ranged attacks from a space outside of Range 2.
+##### Siphon
+When you hit with your *Basic Attack*, you regain 1 || 2 || 3 **Mana**.
 ##### Summon Swap
 *Prerequisite: [[Riftcaller]]*  
 As a Minor Action, you may spend **1 Mana** to swap places with a summon under your control.

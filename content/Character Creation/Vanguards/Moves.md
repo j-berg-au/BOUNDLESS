@@ -46,7 +46,7 @@ You attempt to taunt a character within Range 5. The target must make a **PRESEN
 -----
 ##### Whirlwind
 *3 Adrenaline, Minor Action*  
-You flourish your weapon in a spiral around you. Make an attack with your weapon against all characters adjacent to you. Roll damage once for all targets.
+You flourish your weapon in a spiral around you. All characters adjacent to you must succeed on a **FINESSE** save or take **5 || 10 || 15 damage**. 
 
 -----
 

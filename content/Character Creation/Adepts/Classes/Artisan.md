@@ -29,15 +29,25 @@ You are an expert in your field. Choose a specialisation below, gaining it's cor
 *Tier II: Blank*   
 *Tier III: Blank*   
 **Feature: BANDOLIER**  
-You have a number of vials in your bandolier equal to twice your Tier. Outside of combat, you may fill these vials with **Tricks** you know with the Alchemy tag. 
+You have 2 || 4 || 6 vials in your bandolier. Outside of combat, you may fill these vials with **Tricks** you know with the Alchemy tag.  
 
 During combat, you may expend the vial to use the **Trick** without spending any **Focus Points**. Roll 2d6 for the **Trick**.
+
+---
+**SMITH**  
+
+**Granted Tricks.**  
+*Tier I: [[Tricks#Bear Trap|Bear Trap]]*  
+*Tier II: Blank*  
+*Tier III: Blank*  
+**Feature: WELL ARMED**  
+You gain an additional Weapon, chosen from the [[Vanguard Weapons]]. At the start of each of your turns, you may switch which weapon you wield as a Free Action.
 
 -----
 **TINKERER**
 
 **Granted Tricks.**   
-*Tier I: [[Tricks#BEAR TRAP|Bear Trap]]*   
+*Tier I: [[Tricks#Paint-Grenade|Paint-Grenade]]*   
 *Tier II: Blank*   
 *Tier III: Blank*   
 **Feature: AUTOMATION**  

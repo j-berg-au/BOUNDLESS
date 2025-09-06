@@ -1,10 +1,8 @@
-> **WARNING:** This class is in an unfinished state. Please consider playing a different class for now.
-
 **Description**  
-Blank.
+Enlightened and capable of influencing the world with a mere thought, **Psychics** quite literally exert their will upon the world.
 
 **Playstyle**  
-Blank.
+A **Psychic** uses their psionic power to fuel their abilities. Uniquely, they may push past their natural limits by spending their HP as Focus Points, leading to high-risk high-reward situations.
 
 **Complexity:** ★★★☆☆
 

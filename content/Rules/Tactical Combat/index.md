@@ -42,7 +42,13 @@ When a character takes **Persistent Damage** and is already affected by another 
 ##### Line of Sight
 
 ### Movement
+##### Falling
+##### Flight
+##### Forced Movement
+##### Teleportation
+Teleportation is a special kind of movement that transports a character from where they are directly to their destination, ignoring any obstacles in their path. Teleportation does not trigger any Reactions that are triggered by movement.
 
+If a character is [[Conditions & Statuses#Immobilised|IMMOBILISED]], they are unable to teleport unless the effect causing the teleportation explicitly says so.
 
 ### More
 - [[Your Turn]]

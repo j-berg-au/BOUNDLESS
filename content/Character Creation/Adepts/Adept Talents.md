@@ -2,7 +2,9 @@
 ### Tier I
 ##### Behold, My Creation
 *Prerequisite: [[Artisan]]*  
-You make modifications to your Weapon. You may apply up to 2 Modifications from the table below to your Weapon.
+You make modifications to your Weapon. You may apply up to 2 Modifications from the table below to your Weapon.   
+
+If you have multiple Weapons, you may apply one Modification to each Weapon or apply 2 Modifications to a single Weapon. 
 
 | **Modification**   | **Description**                                                                                                                                                                                                       |
 | :----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -46,12 +48,17 @@ When you make an attack while [[Conditions & Statuses#Hidden|HIDDEN]], the attac
 Select one of the following tags: Alchemy, Gadget, Movement.  
 
 When using a **Trick** with the chosen tag, you can roll an additional d6 when determining the success level of the **Trick**.
+##### Telekinetic Shove
+*Prerequisite: [[Psychic]]*  
+You may *Shove* a target within Range 5 as a Minor Action. When you do so, you may choose to move them directly towards you or directly away from you.
 ##### Watch Out!
 When an ally within Range 5 takes damage, you may use your Reaction to spend any number of **Focus Points** to help them avoid the damage, as if you were spending them to avoid damage for yourself.
 ### Tier II
 ##### Behold, My Glorious Creation
 *Prerequisite: [[Artisan]], [[Adept Talents#Behold, My Creation|Behold, My Creation]]*  
 You further modify your weapon, using an additional 2 Modifications from those listed below or those listed in [[Adept Talents#Behold, My Creation|Behold, My Creation]].
+
+If you have multiple Weapons, you may apply one Modification to each Weapon or apply 2 Modifications to a single Weapon. 
 
 | **Modification** | **Description**                                                                                             |
 | :--------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -63,6 +70,8 @@ You further modify your weapon, using an additional 2 Modifications from those l
 ##### Behold, My Magnificent Creation
 *Prerequisite: [[Artisan]], [[Adept Talents#Behold, My Glorious Creation|Behold, My Glorious Creation]]*  
 Your weapon is finally how you have dreamt it. You may further modify your weapon, using an additional 2 Modifications from those listed below or those listed in [[Adept Talents#Behold, My Creation|Behold, My Creation]] or [[Adept Talents#Behold, My Glorious Creation|Behold, My Glorious Creation]].
+
+If you have multiple Weapons, you may apply one Modification to each Weapon or apply 2 Modifications to a single Weapon. 
 
 | **Modification**    | **Description**                                                                                                  |
 | :------------------ | ---------------------------------------------------------------------------------------------------------------- |

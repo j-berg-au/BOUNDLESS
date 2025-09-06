@@ -1,8 +1,9 @@
+Conditions and Statuses are lasting effects that can be inflicted or bestowed upon a character. A character cannot be affected by the same condition or status multiple times in the same instance. For example, if a character gains OFF-GUARD from two sources, they still only make saves with **+1 Bane** (rather than **+2 Banes**).
 ## Conditions
 ##### Blinded
 BLINDED characters can only draw line of sight to targets up to 1 space away from themselves.
 ##### Immobilised
-IMMOBLISED characters cannot make any voluntary movements, although involuntary movements are unaffected.
+IMMOBILISED characters cannot make any voluntary movements, although involuntary movements are unaffected.
 ##### Marked
 Hostile characters can choose to consume a character’s MARKED condition in exchange for **+1 Boon** on their next attack against that character.
 ##### Off-Guard

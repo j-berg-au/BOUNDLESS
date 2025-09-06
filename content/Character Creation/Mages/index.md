@@ -15,9 +15,9 @@ There are 4 Classes of **Mage**:
 - **[[Riftcaller]]**, summoners who call otherworldly creatures to fight in their stead.
 - **[[Savant]]**, students of the arcane. They learn a vast number of spells, ensuring they are prepared for all situations.
 ### Mana
-During combat, **Mages** use a resource called **Mana**. A **Mage** starts with 15 || 25 || 35 **Mana**, regaining all lost **Mana** at the end of combat.
+During combat, **Mages** use a resource called **Mana**. A **Mage** starts with 20 || 30 || 40 **Mana**, regaining all lost **Mana** at the end of combat.
 
-A **Mage** can spend **Mana** to protect themselves from harm. When they would take damage, a **Mage** may expend up to twice their Level in **Mana**, reducing the damage they would take by 2 for each **Mana** spent, or half as much if the damage received was from a melee attack.
+A **Mage** can spend **Mana** to protect themselves from harm. When they would take damage, a **Mage** may expend up to 5 || 10 || 15 **Mana**, reducing the damage they would take by 2 for each **Mana** spent, or 1 for each **Mana** spent if the damage received was from a melee attack.
 ### Spells
 When it’s time to call upon your magic, it’s time to cast a **Spell**. To use a **Spell**, you must expend the listed amount of **Mana**. If you don’t have enough **Mana**, you cannot cast the **Spell**.
 

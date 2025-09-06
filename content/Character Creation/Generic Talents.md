@@ -6,6 +6,8 @@ When you are reduced to 0HP and become [[Conditions & Statuses#Defeated|DEFEATED
 Increase your **SPEED** by 1 || 2 || 3.
 ##### Undead
 When you would become [[Conditions & Statuses#Defeated|DEFEATED]], roll a d6. On a 5+, you do not become [[Conditions & Statuses#Defeated|DEFEATED]] and return to **1 HP**.
+##### Well Guided
+When you expend [[Conditions & Statuses#Marked|MARKED]] on an enemy, you may reduce your **Crit Threshold** by 1 for that attack.
 ### Tier II
 
 ### Tier III

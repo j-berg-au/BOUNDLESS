@@ -1,6 +1,39 @@
 ---
 draft: "true"
 ---
+##### Players (have 4 or 5)
+- Rose
+- Bailey
+- ???
+- ???  
+Options:
+- Mini
+- Naomi
+
+Dadi from Mystic Arts did a good video on factions, which can make some Realms rather political.
+
+The real reason Father sends the Children to the Realms is so that they do grow in power in the Rift, so they cannot rival him.
+
+Make some Children on the side of Father, others against Father, and some can be swayed either way.
+- Amber & Alphonse are against Father
+- Clair is with Father.
+- Last edgy guy is against everyone
+- Katrin is with Father, at least initially.
+
+Only a Riftborn (like the players) can open the Gates. Players open the Gate from Realm I to Realm II. Once in Realm II, the inhabitants speak of how impossible it was for the PCs to have opened the Gate, and that they must be special. They must try again, opening the gate to Realm III. 
+
+The players dont want to open the gate from Realm I to Realm VI cos Realm VI is a bad bad place and they'd rather that stay closed for now.
+
+Twist #1, the players are Riftborn (children of Amber) and that is why they can open the gates.
+
+Need another major twist.
+
+Its gonna be really awkward if no original PC makes it to the end. 
+
+In order to start, need to:
+- Make Realm I's Hexcrawl
+- Give initial reason for party to open the first gate
+- (optional) give BBEG a motivation
 ### Overview
 The Players set out on a journey to travel across the Realms in an effort to discover BLANK to achieve BLANK.
 
@@ -45,10 +78,10 @@ The players get to "The Realm Above", starting at a settlement. The players do a
 
 Realms are in order of increasing age (starts at youngest, other than Amber).
 
-**Realm 1 // BLANK // BLANK**  
+**Realm I // BLANK // BLANK**  
 - Desert realm? Middle eastern inspired? 
 
-**Realm 2 // Aequalis // Clair & Alphonse (Twins)**  
+**Realm II // Aequalis // Clair & Alphonse (Twins)**  
 - Split into two, Aequalis Supra and Aequalis Infra
 - Duality
 - Light/Dark
@@ -59,19 +92,19 @@ Realms are in order of increasing age (starts at youngest, other than Amber).
 - For Clair/Alphonse, switch who you fight each round, then phase 2 you fight both.
 - Clair is above, Alphonse is below. Father created the world to teach the children that they support and rely on each other, and that they are two sides of the same coin. Alphonse didn't take this well, as they see it as Father saying Clair is above them.
 
-**Realm 3 // BLANK // BLANK**  
+**Realm III // BLANK // BLANK**  
 Sad lonely middle child. Might even help the party. Realm based on Antarctica and Inuit people. Take inspo from the first arc of To Your Eternity.
 
-**Realm 4 // BLANK // BLANK**  
+**Realm IV // BLANK // BLANK**  
 
-**Realm 5 // BLANK // Katrin**  
+**Realm V // BLANK // Katrin**  
 - Katrin has wolfen druid vibes. Fur coat. Phase 1 druid, Phase 2 werewolf + summon pack
 - "I'm sorry, but it's your family or mine."
 - The world is a cold forest that sits above a giant wolf, symbolising that Katrin tries too hard to carry the weight of the world.
 - Gnomes who travel the Realms are from this place.
 - Katrin acts as a protective older sister. Parentification
 
-**Realm 6 // BLANK**  
+**Realm VI // BLANK // BLANK**  
 - Edgy angry weapon guy is here.
 - He was sent to a realm riddled with War to teach him to learn Peace. He instead out-war'd the entire realm.
 - He is a Giant that wields many different floating weapons. Swords, maces, spears, etc.
@@ -79,7 +112,7 @@ Sad lonely middle child. Might even help the party. Realm based on Antarctica an
 - The remaining inhabitants hide away in fear of Edgy Man.
 - Edgy Man is angry at Father, taking his anger out on the realm.
 
-**Realm 7 // The Rift**
+**Realm VII // The Rift // Father & Amber**
 The Rift exists between Realms. At the centre, a black hole. But call it something cooler than a black hole.
 
 - Build a Canvas for the Pointcrawl Map

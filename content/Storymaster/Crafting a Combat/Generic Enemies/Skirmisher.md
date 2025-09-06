@@ -24,7 +24,7 @@ On a hit, the target takes **1d8 || 2d8 || 3d8 damage**.
 ### Amplifiers
 ##### Cloak
 *Minor Action*  
-The **Skirmisher** becomes [[Conditions & Statuses#Invisible|INVISIBLE]].
+The **Skirmisher** becomes [[Conditions & Statuses#Invisible|INVISIBLE]] until the start of its next turn.
 
 ---
 ### Loot

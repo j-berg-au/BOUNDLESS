@@ -87,6 +87,11 @@ Here's a **summary** for Skill Checks.
 ## Equipment
 ### Artefacts
 ### Bag
+While on a Quest, you bring useful items with you. **You do not need to determine these items in advance.** Instead, you pull out an item when you need it by simply declaring you had brought it all along.
+
+You can pull out a total of three items this way during your journey, losing those items when you end your Downtime.
+
+You do not need to declare any of your weapons this way, and you cannot use your Bag to equip a new weapon for combat.
 ### Consumables
 ### Essence
 Essence is used as a valuable currency throughout the world. Paying for a room at a tavern, for a meal, or other minor expenses aren't paid in Essence, but whatever the local currency is in the region. In ***BOUNDLESS***, we don't track such a currency.

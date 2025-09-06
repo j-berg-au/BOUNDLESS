@@ -27,6 +27,6 @@
 ### Loot
 A **Template** drops **1 Essence**, and an item from the following table.
 
-| **dX**  | **Item** |
-| :-: | ---- |
-|     |      |
+| **dX** | **Item** |
+| :----: | -------- |
+|        |          |
