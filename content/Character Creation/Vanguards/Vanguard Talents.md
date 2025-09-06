@@ -4,15 +4,18 @@
 #### General
 ##### Elemental Weapon
 You learn to channel elemental magic into your Weapon. As a Minor Action, you may spend **2 Adrenaline** to imbue your Weapon. Until the end of this combat, your weapon deals an additional **1d4 || 2d4 || 3d4 damage** on a hit.
-##### Flowing River Stance
+##### Agile Stance
 *Prerequisite: [[Exemplar]]*  
-You enter your **Flowing River Stance** after using a *Dash*.
+You enter your **Agile Stance** after using a *Dash*.
 
-While in your **Flowing River Stance**, you may move 1d6 spaces as a Free Action once on each of your turns. This movement does not trigger Reactions.
+While in your **Agile Stance**, you may move 1d6 spaces as a Free Action once on each of your turns. This movement does not trigger Reactions.
 ##### Further Training
 You learn two additional **Moves** of your choice.
 ##### Iron-Willed
 When you are reduced to 0HP, flip a coin and call it. If you guess correctly, you fall to 1HP instead.
+##### Overextended
+*Prerequisite: [[Exemplar]]*  
+While in your **Offensive Stance**, you gain [[Conditions & Statuses#Strength|STRENGTH]] 1 || 2 || 3 and your **Crit Threshold** is reduced by 1, however attacks made against you are made with **+1 Boon**.
 ##### Primal Warrior
 *Prerequisite: [[Fury]]*  
 Choose a Tier I [[Miracles|Miracle]] with the Totem tag. You are able to use this Miracle on yourself, gaining the **Standard Effect**.
@@ -25,9 +28,6 @@ When you hit with your *Basic Attack*, you regain **2 || 4 || 6 HP**. The target
 All attacks made against allies adjacent to you are made with **+1 Bane**.
 ##### S#!t Talker
 You may **TAUNT** once per turn as a Free Action.
-##### Thunder & Lightning
-*Prerequisite: [[Exemplar]]*  
-While in your **Lightning Strike Stance**, you gain [[Conditions & Statuses#Strength|STRENGTH]] 1 || 2 || 3 and your **Crit Threshold** is reduced by 1, however attacks made against you are made with **+1 Boon**.
 ##### To Action!
 At the beginning of combat, you may move up to your **SPEED** before anyone takes a turn.
 ##### Tower
@@ -35,7 +35,7 @@ At the beginning of combat, you may move up to your **SPEED** before anyone take
 Allies adjacent to you can use you as **hard cover**.
 ##### Unmoving Mountain
 *Prerequisite: [[Exemplar]]*  
-While within your **Steadfast Mountain Stance**, you gain [[Conditions & Statuses#Resistant|RESISTANT]] 2 || 4 || 6, however you also gain [[Conditions & Statuses#Immobilised|IMMOBILISED]] until you exit this Stance. You cannot clear these Conditions in any way other than exiting this Stance.
+While within your **Defensive Stance**, you gain [[Conditions & Statuses#Resistant|RESISTANT]] 2 || 4 || 6, however you also gain [[Conditions & Statuses#Immobilised|IMMOBILISED]] until you exit this Stance. You cannot clear these Conditions in any way other than exiting this Stance.
 ##### Unnatural Force
 When you take the Shove action, you are able to knock back the target up to 3 spaces.
 ##### Versatile Training

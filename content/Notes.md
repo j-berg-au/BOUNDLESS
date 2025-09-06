@@ -20,7 +20,6 @@ draft: "true"
 		3. Psychic stuff that gives a condition
 # To Do
 - Make formatting consistent
-- Rename the Stances of Exemplar
 - Team Up Abilities? Maybe the have a prerequisite that a specific class is in your party? Maybe they are a Talent/Ability that grants a Reaction to buff something someone does?
 - Address using combat things in narrative, and narrative things in combat?
 - Limit survivability talents per type, so you can't just make an immortal character by stacking them all.

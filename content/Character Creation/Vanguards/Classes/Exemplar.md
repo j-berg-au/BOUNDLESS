@@ -25,12 +25,12 @@ During combat, you switch between styles known as **Stances**. You begin combat 
 
 Your **Stances** are listed below.
 
-**LIGHTNING STRIKE STANCE**  
-You enter your **Lightning Strike Stance** after using a *Basic Attack*, *Grapple*, or *Shove*.
+**OFFENSIVE STANCE**  
+You enter your **Offensive Stance** after using a *Basic Attack*, *Grapple*, or *Shove*.
 
-While in your **Lightning Strike Stance**, you make all attacks with **+1 Boon**.
+While in your **Offensive Stance**, you make all attacks with **+1 Boon**.
 
-**STEADFAST MOUNTAIN STANCE**  
-You enter your **Steadfast Mountain Stance** after using a *Set-Up*, *Step*, or *Taunt*.
+**DEFENSIVE STANCE**  
+You enter your **Defensive Stance** after using a *Set-Up*, *Step*, or *Taunt*.
 
-While in your **Steadfast Mountain Stance**, all attacks made against you gain **+1 Bane**.
+While in your **Defensive Stance**, all attacks made against you gain **+1 Bane**.
