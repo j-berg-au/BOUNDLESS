@@ -36,6 +36,7 @@ aliases: []
 - Healing Towers for enemies that need to be taken out
 - Towers that spawn Minions that need to be taken out
 - Don't forget things the players can use *to their advantage*
+- Elevation
 
 ### Boss Battles
 - Many turns per round
