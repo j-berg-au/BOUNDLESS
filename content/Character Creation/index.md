@@ -37,9 +37,9 @@ Each of your Saves will also have a value, equal to half the sum of its correspo
 The Skills are each listed below, under the corresponding Save.
 
 **MIGHT**
+- Brawl — Fight something or someone, head on.
 - Endure — Push through physical stresses. Run long distances. Tough out a wound. 
-- Flex — Use your physical strength. Lift something heavy. Break open a door. Punch someone.
-- Resolve — Push through mental stresses. 
+- Flex — Use your physical strength. Lift something heavy. Break open a door.
 
 **FINESSE**
 - Sleight — Use your hand-eye coordination. Throw something accurately. Pickpocket someone.
