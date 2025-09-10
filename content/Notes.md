@@ -19,6 +19,7 @@ draft: "true"
 		2. A focused knockback that deals damage
 		3. Psychic stuff that gives a condition
 # To Do
+- Write in Title & Theme for character creation. Title is like "The Celestial Tinkerer", theme is "Doubt", "Anger", "Redemption", etc. Like Fabula Ultima
 - Make formatting consistent
 - Team Up Abilities? Maybe the have a prerequisite that a specific class is in your party? Maybe they are a Talent/Ability that grants a Reaction to buff something someone does?
 - Address using combat things in narrative, and narrative things in combat?
@@ -214,7 +215,7 @@ You have created a device that grants you limited manipulation of time. Once per
 - Talents like "while target is afflicted with persistent damage, deal bonus damage on attacks against them equal to the persistent damage".
 - Fire Breathing? Become Dragon?
 ##### Narrative
-- Hold more consumables
+- Adept & Mage can take "Researcher", which makes learning recipes faster.
 - Tiefling
 	- Can ignite small fires at will
 - Aasimar
@@ -303,62 +304,61 @@ There are various strains of lycanthropy, many of which remain undiscovered. Eac
 Start a permanent Clock for your character, titled ***Caging the Beast***. This clock has 12 segments.
 ##### Arcane Theorem of Distance (not very good)
 All **Spells** you know have their Range increased by 2, provided that their Range was not initially 0.
-# Fantasies to Cover
-- **Vanguard**
-	- Berserker
-		- Angy
-		- Primal
-		- Elemental
-		- Ancestral
+### "Subclass" Ideas
+- Vanguard
 	- Exemplar
 		- Spellblade
+	- Fury
+		- Ancestral
+		- Elemental
 	- Knight
-		- Paladin
 		- Spellblade
+		- Palain
 		- Mount
 	- Monk
 		- Ninja
-- **Adept**
+- Adept
 	- Artisan
-		- Forge
-		- Tinkerer
-			- Armour
-			- Build robots to fight for you
-			- Upgrade self
 		- Alchemist
-			- Poisons
+		- Smith
+		- Tinkerer
 	- Psychic
-		- Telepathy
-		- Telekinesis
-		- See all
-		- See future (but not Seer)
+		- Telepath
+		- Telekinetic
 	- Shadow
 		- Rogue
-		- Ranger
-			- Pet
+		- Ranger?
 	- Strategist
-- **Mage**
+		- 
+- Mage
 	- Conduit
-		- Elemental
+		- Elements
+		- Void/Rift (teleports + darkness)
+		- Light
 	- Invoker
-		- Witch
-		- Illusions
-		- Occult
+		- Sanguimancy (Blood Magic)
+		- Death Magic
+		- Devil Magic
+		- Illusionist
 	- Riftcaller
-		- Necromancer
-		- Shaman
+		- Beast Caller
+		- Necromancy
 	- Savant
-		- Chronomancer
-		- Illusions
-- **Prophet**
-	- Wilder
-		- Pets
-		- Turn into animals (Tier II), perhaps a separate talent for each form?
-		- Summon animals/spirits?
+		- Chronomancy
+		- Illusionist
+- Prophet
 	- Priest
+		- 
 	- Seer
+		- 
 	- Virtuoso
-		- Dance
-		- Paint
-		- Music
+		- Dancer
+		- Musician
 		- Orator
+		- Painter
+	- Wilder
+		- Plants
+		- Animals
+		- Fungi
+		- Seasons
+		- Ocean

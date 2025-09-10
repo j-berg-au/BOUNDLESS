@@ -12,7 +12,7 @@ If you have multiple Weapons, you may apply one Modification to each Weapon or a
 | Extensions         | You may increase the Reach by 1, provided the weapon has a Melee Attack.                                                                                                                                              |
 | Refined Mechanisms | The weapon gains the [[Keywords#Accurate\|Accurate]] tag if it didn't have it already. If the weapon has the [[Keywords#Inaccurate\|Inaccurate]] tag, you instead remove the [[Keywords#Inaccurate\|Inaccurate]] tag. |
 | Scope              | You may increase the Range by 2, provided the weapon has a Ranged Attack.                                                                                                                                             |
-| Sharpened          | Increase the damage die by one step, to a maximum of a d12 (d4 -> d6 -> d8 -> d10 -> d12).                                                                                                                            |
+| Sharpened          | The weapon gains a +1 bonus to its damage.                                                                                                                                                                            |
 ##### Calculated
 Once per combat, you may foresee the outcome of a **Trick** before committing to it. On your turn before using a **Trick**, you may declare how many **Focus Points** you will spend and roll the corresponding amount of dice. After checking your result, you may choose whether or not you will indeed use the **Trick**. If you do, expend the **Focus Points** and use the result you had rolled for the **Trick**. If you choose not to use the **Trick**, you cannot use that **Trick** this turn.
 ##### Callouts
@@ -92,6 +92,9 @@ You tame, build, or otherwise gain a companion for your journeys. You may decide
 Choose two skills from Endure, Flex, Sleight, Sneak, Swift, Sense, Command, or Perform. Your companion has a value of 2 for the chosen skills. Your companion can gain up to **3 Stress**, exceeding this amount causes them to retreat and rest for the rest of the scene. If they would take a **Strain**, it is treated as if they had exceed their **Stress** limit.  
 
 Unless stated otherwise by other Talents, your Companion will not participate in combat, instead fleeing to safety.
+##### Efficient Crafter
+*Prerequisite: [[Artisan]]*  
+When you make progress towards a crafting clock, you may fill in an additional segment.
 ##### Eye for Lies
 *Prerequisite: [[Shadow]]*  
 You know when another in your presence knowingly tells a lie.
