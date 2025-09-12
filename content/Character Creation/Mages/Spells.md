@@ -176,6 +176,21 @@ You instead attempt to teleport an unwilling character within Reach 1. The targe
 *Joined. 3 Mana*  
 You may instead teleport yourself and an ally within Reach 1.
 
+---
+##### Wildire
+*3 Mana, Minor Action, Fire*  
+All characters within Range 2 must succeed a **FINESSE** save or take 1d4 [[Keywords#Persistent Damage|Persistent Damage]].
+
+**Augments**  
+*Growing. 2+ Mana*  
+The Range on the spell increases by 1 for every 2 **Mana** spent.
+
+*Lingering. 3 Mana*  
+The area effected leaves behind a [[Rules/Tactical Combat/index#Hazards|Hazard]], dealing 1 damage to those who fail a **FINESSE** save.
+
+*Unavoidable. 3 Mana*  
+On a successful save, the target will take 1d4 damage.
+
 -----
 ## Tier II
 ---

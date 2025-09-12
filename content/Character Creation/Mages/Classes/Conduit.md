@@ -14,14 +14,14 @@ Conduits utilise a specific type of magic determined by their Magical Domain. Wi
 | **SPEED**           | = 4               |
 | **Save Target**     | = 10 + your Level |
 #### Spells
-You learn 1 **Spell** of your choice, in addition to the **Spells** granted by your Magical Domain. At every odd Level, you learn an additional **Spell** of your choice.
+You learn 1 **Spell** of your choice, in addition to the **Spells** granted by your Magical Domain. At every odd Level after the first, you learn an additional **Spell** of your choice.
 #### Features
 ##### Magical Domain
 As a **Conduit**, a very specific type of magic flows through you. This type of magic is known as your **Magical Domain**.  
 
 Each **Magical Domain** grants you a feature, as well as **Spells** at each Tier of play.  
 
-Additionally, each has an associated Spell Tag representing the type of magic they excel at. Once on each of your turns, you may reduce the **Mana** cost of Augmenting the **Spell** by 1 || 2 || 3.  
+Additionally, each has an associated Spell Tag representing the type of magic they excel at. Once on each of your turns, you may reduce the **Mana** cost of Augmenting a **Spell** with this tag by 1 || 2 || 3.  
 
 Select a **Magical Domain** from the options listed below.
 
@@ -33,8 +33,8 @@ Select a **Magical Domain** from the options listed below.
 *Tier I: [[Spells#FIREWALL|Firewall]], [[Spells#SPONTANEOUS COMBUSTION|Spontaneous Combustion]]*  
 *Tier II:*  
 *Tier III:*  
-**Feature: WILDFIRE**  
-When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell** or a weapon with the Fire tag, all creatures adjacent to the target take 1 || 2 || 3 [[Keywords#Persistent Damage|Persistent Damage]].
+**Feature: SPREADING EMBERS**  
+When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell** or a Weapon with the Fire tag, you may also 1 || 2 || 3 [[Keywords#Persistent Damage|Persistent Damage]] on a different target within Range 6.
 
 ---
 **GLACIAL MAGIC**  
@@ -45,7 +45,7 @@ When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell
 *Tier II:*  
 *Tier III:*  
 **Feature: CRYSTAL DEFENCE**  
-When you cast a **Spell** with the Ice tag, you gain [[Keywords#Shield|Shield]] equal to your Level.
+When you cast a **Spell** with the Ice tag, you gain 3 || 6 || 9 [[Keywords#Shield|Shield]].
 
 ---
 **SEISMIC MAGIC**  
@@ -67,6 +67,6 @@ You are immune to all forms of involuntary movement and gain 1 || 2 || 3 [[Keywo
 *Tier II:*  
 *Tier III:*  
 **Feature: WINDMASTER**  
-Whenever you spend **Mana**, you may move yourself or another character within Range 3 up to 2 spaces. This movement doesn't trigger any Reactions. If the chosen character is unwilling, they must succeed on a **MIGHT** save to resist the effect.
+Whenever you spend **Mana**, you may fly yourself or another character within Range 3 up to 3 spaces. This movement doesn't trigger any Reactions. If the chosen character is unwilling, they must succeed on a **MIGHT** save to resist the effect.
 
 ---

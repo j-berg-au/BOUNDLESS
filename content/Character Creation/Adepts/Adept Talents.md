@@ -32,8 +32,17 @@ When you score a **Critical Hit**, you regain **1 Focus Point**.
 When making an attack roll with one or more **Boons**, you may trade one of the **Boons** to lower your **Crit Threshold** by 2 for that attack.
 ##### More Up My Sleeve
 You learn two additional **Tricks** of your choice.
+##### Perfect Escape
+*Prerequisite: [[Shadow]]*  
+When you use a **Trick** and gain its Critical Success effect level, you may immediately *Hide* as a Free Action.
 ##### Quick Thinking
 Whenever you would make a save, you may make a **WIT** save instead.
+##### Reveal Weakness
+*Prerequisite: [[Strategist]]*  
+You gain a new option for your Mastermind feature.
+
+**HIT THEM HERE! (4+)**  
+You may inflict [[Conditions & Statuses#Marked|MARKED]] onto a character within Range 8.
 ##### Shadow Jump
 *Prerequisite: [[Shadow]]*  
 You gain the ability to step through the shadows of others. Once per combat as a Free Action, you may teleport to a space adjacent to a character that you can see.
@@ -66,6 +75,9 @@ If you have multiple Weapons, you may apply one Modification to each Weapon or a
 | Scatter Shot     | Your Weapon gains the [[Keywords#Graze\|Graze]] tag, if it didn't have it already.                          |
 | Spiked           | Your Weapon gains the [[Keywords#Deadly\|Deadly]] tag, if it didn't have it already.                        |
 | Poisoned         | On a hit, the target takes an additional 1 \|\| 2 \|\| 3 [[Keywords#Persistent Damage\|Persistent Damage]]. |
+##### Careful Preparation
+*Prerequisite: [[Artisan]], Alchemist Specialisation*  
+You prepare the vials in your bandolier with greater potency. You may roll an additional d6 when determining the success level for Tricks used from your vials.
 ### Tier III
 ##### Behold, My Magnificent Creation
 *Prerequisite: [[Artisan]], [[Adept Talents#Behold, My Glorious Creation|Behold, My Glorious Creation]]*  

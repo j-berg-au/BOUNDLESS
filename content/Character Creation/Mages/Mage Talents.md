@@ -1,5 +1,37 @@
 ## Combat Talents
 ### Tier I
+##### Accelerated Demise
+*Prerequisite: [[Invoker]]*  
+You gain an additional **Forbidden Deal**, detailed below.
+
+**ACCELERATED DEMISE**  
+You gain [[Conditions & Statuses#Strength|STRENGTH]] 2 || 4 || 6 and [[Conditions & Statuses#Vulnerable|VULNERABLE]] 2 || 4 || 6 until the start of your next turn.
+##### Arcane Theorem of Convergence
+*Prerequisite: [[Savant]]*  
+Your **Spells** converge to their average results. 
+
+When you would roll damage for a **Spell**, you may instead take the average result (rounded up). The average result for each die size is listed in the table below.
+
+| **Die Size** | **Average Value** |
+| :----------: | :---------------: |
+|      d4      |         3         |
+|      d6      |         4         |
+|      d8      |         5         |
+|     d10      |         6         |
+|     d12      |         7         |
+|     d20      |        11         |
+##### Arcane Theorem of Geometry
+*Prerequisite: [[Savant]]*  
+You learn to modify the shape of your **Spells**.
+
+When you cast a **Spell** that creates a **Line**, you may spend **2 Mana** to convert it into an **Arc** of the same length.
+
+When you cast a **Spell** that creates a **Circle** or a **Square**, you may spend **2 Mana** to convert it into the other shape of the same size.
+##### Arcane Theorem of Nullity
+*Prerequisite: [[Savant]]*  
+You learn to modify your **Spells** to ensure they do not harm you or your allies.
+
+When a **Spell** you cast would effect you or an ally, you may negate the effect for that character.
 ##### Assimilate Elements
 *Prerequisite: [[Conduit]]*  
 Choose one of the following tags: Fire, Ice, Stone, Storm. Any **Spell** you know that has one of these tags but not your chosen tag is transformed, having that tag swapped for your chosen tag. 
@@ -10,10 +42,18 @@ When you take the **DASH** action, you may teleport to a space within Range equa
 As a Minor Action, you may reduce your HP by 1 and clear all Conditions and **Persistent Damage**. 
 ##### Entrapping Magicks
 Whenever you hit a target with your *Basic Attack*, the target becomes [[Conditions & Statuses#Off-Guard|OFF-GUARD]] until they fail a save.
+##### Eye for an Eye
+*Prerequisite: [[Invoker]]*  
+You gain an additional **Forbidden Deal**, detailed below.
+
+**EYE FOR AN EYE**  
+You become [[Conditions & Statuses#Invisible|INVISIBLE]] and [[Conditions & Statuses#Blinded|BLINDED]] until the start of your next turn.
+##### Favourite Spell
+Choose a **Spell** you know. Reduce its **Mana** cost by 1, to a minimum of 1.
 ##### Further Study
 You learn two additional **Spells** of your choice.
 ##### Last Resort
-*Prerequisite: [[Invoker]]*  
+*Prerequisite: [[Conduit]] or [[Invoker]]*  
 You may choose to gain a **Scar** to cast a **Spell** as if you had spent 5 || 10 || 15 **Mana** on it.
 ##### Levitation
 When in combat, your body floats just above the ground. You become immune to any slowing or hazardous terrain that would require you to step on it to take effect (e.g. spikes along the ground, a puddle of acid, etc.).
@@ -32,6 +72,9 @@ Your summons gain the [[Generic Amplifiers#Undead|Undead]] amplifier.
 After spending **Mana** to reduce incoming damage, roll a d6. On a 4+ you gain [[Keywords#Aegis|Aegis]] until the start of your next turn.
 ##### Precise Spellcasting
 All **Spells** you know that require you to make an attack gain the [[Keywords#Deadly|Deadly]] tag.
+##### Shatter Shield
+*Prerequisite: [[Conduit]], Glacial Magic Domain*  
+When a character deals damage to your [[Keywords#Shield|Shield]] with a melee attack, they take 2 || 4 || 6 damage.
 ##### Shepherd the Horde
 *Prerequisite: [[Riftcaller]]*  
 You may spend a Minor Action to direct each of your Summons to move up to their **SPEED**.
@@ -44,6 +87,9 @@ The characters you summon in this **Spell** are [[Conditions & Statuses#Invisibl
 ### Tier II
 ##### Battlemage
 Whenever you spend **Mana** on a **Spell**, you gain [[Keywords#Shield|Shield]] equal to the **Mana** spent.
+##### Burning Blood
+*Prerequisite: [[Conduit]], Incendiary Magic Domain*  
+You become immune to [[Keywords#Persistent Damage|Persistent Damage]].
 ##### Chain Reaction
 When a **Spell** you cast requires you to make attack rolls against multiple targets or requires that multiple targets make a save against the **Spell**, you regain **1 Mana** for each target that is hit or fails its save after the first.
 ##### Dual Domain

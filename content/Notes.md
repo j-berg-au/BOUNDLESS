@@ -19,6 +19,7 @@ draft: "true"
 		2. A focused knockback that deals damage
 		3. Psychic stuff that gives a condition
 # To Do
+- Abilities that clear hazards
 - Write in Title & Theme for character creation. Title is like "The Celestial Tinkerer", theme is "Doubt", "Anger", "Redemption", etc. Like Fabula Ultima
 - Make formatting consistent
 - Team Up Abilities? Maybe the have a prerequisite that a specific class is in your party? Maybe they are a Talent/Ability that grants a Reaction to buff something someone does?
@@ -256,6 +257,7 @@ You have created a device that grants you limited manipulation of time. Once per
 - +1 Die on Tricks with certain tags
 - Bonuses from attacking from HIDDEN
 - Psychic can ignore INVISIBLE on other characters
+- Alchemists can combine potions/elixirs from their bandolier to gain both effects?
 ##### Narrative
 - Artisan talent to make them the best crafter
 ### Mage

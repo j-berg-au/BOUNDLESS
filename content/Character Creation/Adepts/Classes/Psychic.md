@@ -24,6 +24,6 @@ You can push your powers past their natural limit, to the detriment of your own 
 Having unlocked the potential of your mind, you learn the following **Tricks** for free, without them counting towards the number of **Tricks** you know.
 
 **Granted Tricks.**  
-*Tier I: [[Tricks#Puppetmaster|Puppetmaster]]*  
+*Tier I: [[Tricks#Force Push|Force Push]]*  
 *Tier II: BLANK*  
 *Tier III: BLANK*  

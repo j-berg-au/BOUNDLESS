@@ -16,6 +16,7 @@ aliases:
 ##### Slowing Terrain
 Exiting a space that is **Slowing Terrain** costs the same as moving 2 spaces.
 ##### Hazards
+Hazards are spaces on the battlefield that can inflict damage or conditions to those who move into them. A character is affected by a Hazard when they enter its space or start their turn there.
 ##### Falling
 
 ### Attacks & Damage

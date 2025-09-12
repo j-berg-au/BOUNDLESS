@@ -7,11 +7,14 @@ The Range on all your Active Themes increases by 1 || 2 || 3.
 Once per turn as a Free Action, you may inflict the [[Conditions & Statuses#Marked|MARKED]] condition on a target within Range 6.
 ##### Divine Protection
 When you use a Miracle on an ally and gain the Divine Effect, both you and the target gain **3 || 6 || 9** [[Keywords#Shield|Shield]].
+##### Foresight
+*Prerequisite: [[Seer]]*  
+After rolling your Fate Die for your Divine Intervention, you may expend a **Glimpse** to reroll it. You must use the new result.
 ##### Inspired Action
 When you use your *Basic Attack*, you may forego the attack to allow an ally within Range 8 to make a single *Basic Attack* instead as a Reaction.
 ##### Luck of the Gods
 *Prerequisite: [[Priest]]*  
-After rolling your Fate Die, you may spend **2 Favour** to reroll it. You must use the new result.
+After rolling your Fate Die for a **Miracle**, you may spend **2 Favour** to reroll it. You must use the new result.
 ##### Twinned Totem
 *Prerequisite: [[Wilder]]*  
 You may have two Totems active at a given time, but they must be active on different characters.

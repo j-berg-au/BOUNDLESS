@@ -39,7 +39,7 @@ While within your **Defensive Stance**, you gain [[Conditions & Statuses#Resista
 ##### Unnatural Force
 When you take the Shove action, you are able to knock back the target up to 3 spaces.
 ##### Versatile Training
-You may take an additional weapon into battle. At the start of each of your turns, you may switch which weapon you wield as a Free Action.
+You may choose an additional Weapon, from the [[Vanguard Weapons]] or the [[Adept Weapons]] to take into battle. At the start of each of your turns, you may switch which weapon you wield as a Free Action.
 #### Critical Hits
 ##### Blood Rage
 *Prerequisite: [[Fury]]*  
@@ -51,13 +51,13 @@ When you score a **Critical Hit**, you gain **2 Adrenaline**.
 *Prerequisite: [[Vanguard Talents#Versatile Training|Versatile Training]]*  
 You learn to telekinetically control your weapon, allowing it to attack all on its own. 
 
-As a Minor Action you may imbue one of your weapons with this power. When you do so, you may move it up to 3 spaces away from you.
+As a Minor Action you may imbue one of your melee Weapons with this power. When you do so, you may move it up to 3 spaces away from you.
 
-Until you recall the weapon as a Free Action, you are able to make a *Basic Attack* with the weapon from it's current space as a Minor Action. This does not prevent you from also take the *Basic Attack* Minor Action yourself.
+Until you recall the Weapon as a Free Action, you are able to make a *Basic Attack* with the Weapon from it's current space as a Minor Action. This does not prevent you from also take the *Basic Attack* Minor Action yourself.
 
 On each of your turns you may move it again, up to 3 spaces. It must always remain at most 10 spaces away from you, otherwise it drops to the ground and requires another Minor Action when within 10 spaces to regain control.
 
-You cannot take Reactions from the weapon's space, and the weapon cannot use any **Moves**.
+You cannot take Reactions from the weapon's space, and the Weapon cannot use any **Moves**.
 ##### Independent Weapon
 *Prerequisite: [[Vanguard Talents#Dancing Weapon|Dancing Weapon]]*  
 Once per turn, you may spend **1 Adrenaline** to make a *Basic Attack* using your Dancing Weapon as a Free Action.
@@ -72,7 +72,7 @@ Once per round, when an enemy is within reach of your *Basic Attack* from your D
 You carry a chain that you may use to grapple others. You may Grapple a target within Range 3, instead of Reach 1.
 ##### Crushing Grip
 When a character ends their turn while grappled by you, they take **1 || 2 || 3 damage**. Additionally, you gain **+1 Boon** on **MIGHT** saves made to determine who counts as larger for grapples.
-##### Formidable
+##### Formidable I
 You count as one size larger for grapples. Additionally, you gain **+1 Boon** on attack rolls against a target you are grappling.
 ### Tier II
 ##### Energising Actions
@@ -87,9 +87,14 @@ While in your **Exemplary Stance** you gain the following benefits:
 - You gain [[Conditions & Statuses#Strength|STRENGTH]] 2 || 4 || 6.
 - You gain [[Conditions & Statuses#Resistant|RESISTANT]] 2 || 4 || 6.
 - Your **SPEED** is increased by 2.
+##### Formidable II
+*Prerequisite: [[Vanguard Talents#Formidable I|Formidable I]]*  
+You count as one size larger still for grapples. Targets gain **+1 Bane** on saves and checks made to escape your grapple.
 ##### Growing Rage
 *Prerequisite: [[Fury]]*  
 You gain [[Conditions & Statuses#Strength|STRENGTH]] equal to the round number.
+##### Spellblade
+Choose a [[Mage Weapons|Mage Weapon]]. You imbue its properties into one of your Vanguard Weapons. Add the Mage Weapon's tags, damage, and effects to your Vanguard Weapon. 
 ### Tier III
 
 ## Narrative Talents

@@ -4,10 +4,10 @@
 *Fate Target: 7*  
 *Minor Action*  
 **Standard Effect:**  
-You bless a weapon of an ally within Range 5. Until the next time the weapon hits, it gains a **+1 Boon** on its attack rolls and deals an additional **1d6 || 2d6 || 3d6** damage.
+You bless a Weapon of an ally within Range 5. Until the next time the weapon hits, it gains a **+1 Boon** on its attack rolls and deals an additional **1d6 || 2d6 || 3d6** damage.
 
 **Divine Effect:**  
-As Standard Effect, but the blessing lasts for until the weapon has hit three times, rather than once.
+As Standard Effect, but the blessing lasts for until the Weapon has hit three times, rather than once.
 
 -----
 ##### Cleanse
