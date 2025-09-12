@@ -269,6 +269,10 @@ You have created a device that grants you limited manipulation of time. Once per
 - Arcane Theorems
 - Major/Minor Action to gain Mana. Limited use per combat.
 - Additional **Forbidden Deals** for Invoker.
+##### Unleash Arcane
+*Prerequisite: [[Conduit]]*  
+Activate as Free Action. Two rounds of ABSOLUTE POWER. One round of losing your turn 
+- Make this a talent tree, with options for each **Magical Domain**
 ##### Narrative
 - Familiar for Invoker & Savant
 - Teleports
@@ -305,8 +309,6 @@ You have contracted lycanthropy, a curse that blurs the line between person and 
 There are various strains of lycanthropy, many of which remain undiscovered. Each variant shapes those infected into monstrous people with traits of a particular animal. When you take this Talent, you may choose which strain you have been infected with. Common strains include wolves, bears, rats, boars, and tigers.
 
 Start a permanent Clock for your character, titled ***Caging the Beast***. This clock has 12 segments.
-##### Arcane Theorem of Distance (not very good)
-All **Spells** you know have their Range increased by 2, provided that their Range was not initially 0.
 ### "Subclass" Ideas
 - Vanguard
 	- Exemplar

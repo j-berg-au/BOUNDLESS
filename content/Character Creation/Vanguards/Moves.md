@@ -30,6 +30,11 @@ Once per round, when an ally within your **SPEED** is hit by an attack, you may 
 Make an attack with your weapon against a character within Reach. On a hit, the target takes an additional 2 || 4 || 6 [[Keywords#Persistent Damage|Persistent Damage]].
 
 -----
+##### Suplex
+*3 Adrenaline, Minor Action*  
+You suplex a character you are grappling. They must succeed a **MIGHT** save or take **3d6 || 6d6 || 9d6 damage** and become [[Conditions & Statuses#Stunned|STUNNED]].
+
+-----
 ##### Throw
 *3 Adrenaline, Minor Action*  
 Make an attack against a character of your size or smaller within Reach 1. On a hit, you throw the target a number of spaces away from you equal to 5 || 7 || 9. 

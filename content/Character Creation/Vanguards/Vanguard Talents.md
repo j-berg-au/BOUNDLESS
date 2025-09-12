@@ -11,7 +11,7 @@ While in your **Agile Stance**, you may move 1d6 spaces as a Free Action once on
 *Prerequisite: [[Fury]]*  
 While your **HP** is less than half of its maximum, your **Crit Threshold** is reduced by 1 and you gain 2 || 4 || 6 [[Keywords#Shield|Shield]] at the start of each of your turns.
 ##### Chainmaster
-You carry a chain that you may use to grapple others. You may Grapple a target within Range 3, instead of Reach 1.
+You carry a chain that you may use to grapple others. You may Grapple a target within Range 3, instead of Reach 1. When you do so, they are pulled to a space adjacent to you.
 ##### Crushing Grip
 When a character ends their turn while grappled by you, they take **1 || 2 || 3 damage**. Additionally, you gain **+1 Boon** on **MIGHT** saves made to determine who counts as larger for grapples.
 ##### Dancing Weapon

@@ -97,16 +97,12 @@ When a **Spell** you cast requires you to make attack rolls against multiple tar
 Select an additional **Magical Domain**, gaining its **Spells** and feature.
 ##### Force Field
 *Prerequisite: You don't have any [[Keywords#Armour|Armour]]*  
-You gain a special type of [[Keywords#Armour|Armour]] (1 || 3 || 5) that only affects sources of damage that from ranged attacks from a space outside of Range 2.
+You gain a special type of [[Keywords#Armour|Armour]] (1 || 3 || 5) that only affects sources of damage that are from ranged attacks from a space outside of Range 2.
 ##### Siphon
 When you hit with your *Basic Attack*, you regain 1 || 2 || 3 **Mana**.
 ##### Summon Swap
 *Prerequisite: [[Riftcaller]]*  
 As a Minor Action, you may spend **1 Mana** to swap places with a summon under your control.
-##### Unleash Arcane
-*Prerequisite: [[Conduit]]*  
-Activate as Free Action. Two rounds of ABSOLUTE POWER. One round of losing your turn 
-- Make this a talent tree, with options for each **Magical Domain**
 ### Tier III
 ##### Independence
 *Prerequisite: [[Riftcaller]]*  
